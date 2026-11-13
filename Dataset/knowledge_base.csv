@@ -1,0 +1,5121 @@
+subject,relation,object
+ኢትዮጵያ,located_in,አፍሪካ
+ኢትዮጵያ,capital,አዲስ አበባ
+አዲስ አበባ,country,ኢትዮጵያ
+አዲስ አበባ,is_capital_of,ኢትዮጵያ
+አቢይ አህመድ,position,ጠቅላይ ሚኒስትር
+አቢይ አህመድ,country,ኢትዮጵያ
+ናይል,flows_through,ግብፅ
+ናይል,flows_through,ሱዳን
+ናይል,flows_through,ኢትዮጵያ
+አፍሪካ,contains_country,ኢትዮጵያ
+አፍሪካ,contains_country,ግብፅ
+አፍሪካ,contains_country,ኬንያ
+አፍሪካ,contains_country,ናይጄሪያ
+አፍሪካ,contains_country,ደቡብ አፍሪካ
+አባይ,is,ሰማያዊ ናይል
+አባይ,originates_in,ኢትዮጵያ
+አባይ,flows_through,ኢትዮጵያ
+ጣና ሐይቅ,located_in,ኢትዮጵያ
+ጣና ሐይቅ,source_of,አባይ
+ራስ ዳሸን,highest_mountain,ኢትዮጵያ
+ራስ ዳሸን,located_in,ኢትዮጵያ
+ሲሚየን ተራሮች,located_in,ኢትዮጵያ
+ላሊበላ,located_in,ኢትዮጵያ
+ላሊበላ,known_for,የድንጋይ ቤተክርስቲያኖች
+አክሱም,ancient_city,ኢትዮጵያ
+አክሱም,located_in,ትግራይ
+ሃይለ ሥላሴ,was_emperor_of,ኢትዮጵያ
+ምኒልክ ሁለተኛ,was_emperor_of,ኢትዮጵያ
+ቴዎድሮስ ሁለተኛ,was_emperor_of,ኢትዮጵያ
+ዮሐንስ አራተኛ,was_emperor_of,ኢትዮጵያ
+ሉሲ,discovered_in,ኢትዮጵያ
+ቡና,originated_in,ኢትዮጵያ
+እንጀራ,staple_food,ኢትዮጵያ
+ጤፍ,grain_of,ኢትዮጵያ
+አማርኛ,official_language,ኢትዮጵያ
+አማርኛ,language_family,ሴማዊ
+ጂዝ,script_of,አማርኛ
+ኦሮሞ,spoken_in,ኢትዮጵያ
+ትግርኛ,spoken_in,ኢትዮጵያ
+ሶማሊኛ,spoken_in,ኢትዮጵያ
+አፋር,spoken_in,ኢትዮጵያ
+ሲዳሞ,spoken_in,ኢትዮጵያ
+ወላይታ,spoken_in,ኢትዮጵያ
+ሐረሪ,spoken_in,ኢትዮጵያ
+ጉራጌ,spoken_in,ኢትዮጵያ
+አማራ ክልል,region_of,ኢትዮጵያ
+ኦሮሚያ ክልል,region_of,ኢትዮጵያ
+ትግራይ ክልል,region_of,ኢትዮጵያ
+ሶማሌ ክልል,region_of,ኢትዮጵያ
+አፋር ክልል,region_of,ኢትዮጵያ
+ደቡብ ኢትዮጵያ ክልል,region_of,ኢትዮጵያ
+ሲዳማ ክልል,region_of,ኢትዮጵያ
+ቤኒሻንጉል ጉሙዝ ክልል,region_of,ኢትዮጵያ
+ጋምቤላ ክልል,region_of,ኢትዮጵያ
+ሐረሪ ክልል,region_of,ኢትዮጵያ
+ደቡብ ምዕራብ ኢትዮጵያ ክልል,region_of,ኢትዮጵያ
+ማዕከላዊ ኢትዮጵያ ክልል,region_of,ኢትዮጵያ
+አዲስ አበባ,chartered_city,ኢትዮጵያ
+ድሬዳዋ,chartered_city,ኢትዮጵያ
+ባህር ዳር,capital_of,አማራ ክልል
+መቀሌ,capital_of,ትግራይ ክልል
+አዋሳ,capital_of,ሲዳማ ክልል
+ጂጂጋ,capital_of,ሶማሌ ክልል
+ሰመራ,capital_of,አፋር ክልል
+አሶሳ,capital_of,ቤኒሻንጉል ጉሙዝ ክልል
+ጋምቤላ,capital_of,ጋምቤላ ክልል
+ሐረር,capital_of,ሐረሪ ክልል
+ቦንጋ,capital_of,ደቡብ ምዕራብ ኢትዮጵያ ክልል
+ሆሳዕና,capital_of,ማዕከላዊ ኢትዮጵያ ክልል
+ጎንደር,located_in,አማራ ክልል
+ደሴ,located_in,አማራ ክልል
+ኮምቦልቻ,located_in,አማራ ክልል
+ደብረ ብርሃን,located_in,አማራ ክልል
+አዳማ,located_in,ኦሮሚያ ክልል
+ጅማ,located_in,ኦሮሚያ ክልል
+ነቀምቴ,located_in,ኦሮሚያ ክልል
+ሻሸመኔ,located_in,ኦሮሚያ ክልል
+ድሬዳዋ,located_in,ኢትዮጵያ
+ሐረር,located_in,ኢትዮጵያ
+አዋሽ,river_in,ኢትዮጵያ
+ኦሞ,river_in,ኢትዮጵያ
+ጅባ,river_in,ኢትዮጵያ
+ዋቤሸበሌ,river_in,ኢትዮጵያ
+ጣና,lake_in,ኢትዮጵያ
+አቢያታ,lake_in,ኢትዮጵያ
+ሻላ,lake_in,ኢትዮጵያ
+ቻሞ,lake_in,ኢትዮጵያ
+ዳናኪል,depression_in,ኢትዮጵያ
+ዳናኪል,type,በረሃ
+ሪፍት ቫሊ,passes_through,ኢትዮጵያ
+የአፍሪካ ቀንድ,contains,ኢትዮጵያ
+የአፍሪካ ቀንድ,contains,ሶማሊያ
+የአፍሪካ ቀንድ,contains,ጂቡቲ
+የአፍሪካ ቀንድ,contains,ኤርትራ
+ጦርነት አድዋ,occurred_in,ኢትዮጵያ
+ጦርነት አድዋ,year,፲፰፻፺፮
+ጦርነት አድዋ,outcome,የኢትዮጵያ ድል
+የአፍሪካ አንድነት ድርጅት,founded_in,አዲስ አበባ
+የአፍሪካ ህብረት,headquartered_in,አዲስ አበባ
+ቦሌ አውሮፕላን ማረፊያ,located_in,አዲስ አበባ
+እንጦጦ,mountain_near,አዲስ አበባ
+መርካቶ,market_in,አዲስ አበባ
+ብሔራዊ ሙዚየም,located_in,አዲስ አበባ
+ሉሲ,housed_in,ብሔራዊ ሙዚየም
+ጢምቃት,festival_in,ኢትዮጵያ
+መስቀል,festival_in,ኢትዮጵያ
+ገና,festival_in,ኢትዮጵያ
+ኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተክርስቲያን,religion_in,ኢትዮጵያ
+እስልምና,religion_in,ኢትዮጵያ
+ፕሮቴስታንት,religion_in,ኢትዮጵያ
+አክሱም ግዛት,located_in,ኢትዮጵያ
+ዛጌ ሥርወ መንግሥት,ruled,ኢትዮጵያ
+ሰሎሞናዊ ሥርወ መንግሥት,ruled,ኢትዮጵያ
+ኢትዮጵያ,currency,ብር
+ኢትዮጵያ,calling_code,+251
+ኢትዮጵያ,tld,.et
+ኢትዮጵያ,drives_on,ቀኝ
+አዲስ አበባ,elevation_m,2355
+አዲስ አበባ,founded,1886
+ራስ ዳሸን,elevation_m,4550
+ኢትዮጵያ,official_name,የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ
+ኢትዮጵያ,iso2,ET
+ኢትዮጵያ,iso3,ETH
+ኢትዮጵያ,demonym,ኢትዮጵያዊ
+ኢትዮጵያ,area_km2,1104300
+ናይል,longest_river,አፍሪካ
+ሳሃራ,located_in,አፍሪካ
+ሳሃራ,type,በረሃ
+ፓስፊክ ውቅያኖስ,largest_ocean,ምድር
+አትላንቲክ ውቅያኖስ,type,ውቅያኖስ
+ህንድ ውቅያኖስ,type,ውቅያኖስ
+አርክቲክ ውቅያኖስ,type,ውቅያኖስ
+ደቡባዊ ውቅያኖስ,type,ውቅያኖስ
+ምድር,planet_of,የፀሐይ ስርዓት
+ምድር,has_moon,ጨረቃ
+ፀሐይ,is_star_of,የፀሐይ ስርዓት
+ጨረቃ,orbits,ምድር
+ማርስ,type,ፕላኔት
+ጁፒተር,type,ፕላኔት
+ሳተርን,type,ፕላኔት
+ቬኑስ,type,ፕላኔት
+ሜርኩሪ,type,ፕላኔት
+ኔፕቱን,type,ፕላኔት
+ዩራኑስ,type,ፕላኔት
+ፕሉቶ,type,ድንክ ፕላኔት
+ወተት መንገድ,type,ጋላክሲ
+ውሃ,chemical_formula,H2O
+ኦክሲጅን,atomic_number,8
+ካርቦን,atomic_number,6
+ሃይድሮጅን,atomic_number,1
+ናይትሮጅን,atomic_number,7
+ወርቅ,atomic_number,79
+ብረት,atomic_number,26
+አዲስ አበባ,type,ከተማ
+አዲስ አበባ,located_in,ኢትዮጵያ
+አዲስ አበባ,is_a,ከተማ
+ድሬዳዋ,type,ከተማ
+ድሬዳዋ,is_a,ከተማ
+ባህር ዳር,type,ከተማ
+ባህር ዳር,located_in,ኢትዮጵያ
+ባህር ዳር,is_a,ከተማ
+መቀሌ,type,ከተማ
+መቀሌ,located_in,ኢትዮጵያ
+መቀሌ,is_a,ከተማ
+አዋሳ,type,ከተማ
+አዋሳ,located_in,ኢትዮጵያ
+አዋሳ,is_a,ከተማ
+ጂጂጋ,type,ከተማ
+ጂጂጋ,located_in,ኢትዮጵያ
+ጂጂጋ,is_a,ከተማ
+ሐረር,type,ከተማ
+ሐረር,is_a,ከተማ
+ጎንደር,type,ከተማ
+ጎንደር,located_in,ኢትዮጵያ
+ጎንደር,is_a,ከተማ
+ደሴ,type,ከተማ
+ደሴ,located_in,ኢትዮጵያ
+ደሴ,is_a,ከተማ
+ኮምቦልቻ,type,ከተማ
+ኮምቦልቻ,located_in,ኢትዮጵያ
+ኮምቦልቻ,is_a,ከተማ
+ደብረ ብርሃን,type,ከተማ
+ደብረ ብርሃን,located_in,ኢትዮጵያ
+ደብረ ብርሃን,is_a,ከተማ
+አዳማ,type,ከተማ
+አዳማ,located_in,ኢትዮጵያ
+አዳማ,is_a,ከተማ
+ጅማ,type,ከተማ
+ጅማ,located_in,ኢትዮጵያ
+ጅማ,is_a,ከተማ
+ነቀምቴ,type,ከተማ
+ነቀምቴ,located_in,ኢትዮጵያ
+ነቀምቴ,is_a,ከተማ
+ሻሸመኔ,type,ከተማ
+ሻሸመኔ,located_in,ኢትዮጵያ
+ሻሸመኔ,is_a,ከተማ
+አሶሳ,type,ከተማ
+አሶሳ,located_in,ኢትዮጵያ
+አሶሳ,is_a,ከተማ
+ጋምቤላ,type,ከተማ
+ጋምቤላ,located_in,ኢትዮጵያ
+ጋምቤላ,is_a,ከተማ
+ቦንጋ,type,ከተማ
+ቦንጋ,located_in,ኢትዮጵያ
+ቦንጋ,is_a,ከተማ
+ሆሳዕና,type,ከተማ
+ሆሳዕና,located_in,ኢትዮጵያ
+ሆሳዕና,is_a,ከተማ
+ደብረ ማርቆስ,type,ከተማ
+ደብረ ማርቆስ,located_in,ኢትዮጵያ
+ደብረ ማርቆስ,is_a,ከተማ
+ደብረ ታቦር,type,ከተማ
+ደብረ ታቦር,located_in,ኢትዮጵያ
+ደብረ ታቦር,is_a,ከተማ
+ወልድያ,type,ከተማ
+ወልድያ,located_in,ኢትዮጵያ
+ወልድያ,is_a,ከተማ
+ላሊበላ,type,ከተማ
+ላሊበላ,is_a,ከተማ
+አክሱም,type,ከተማ
+አክሱም,located_in,ኢትዮጵያ
+አክሱም,is_a,ከተማ
+አዱዋ,type,ከተማ
+አዱዋ,located_in,ኢትዮጵያ
+አዱዋ,is_a,ከተማ
+ሁመራ,type,ከተማ
+ሁመራ,located_in,ኢትዮጵያ
+ሁመራ,is_a,ከተማ
+ቢሾፍቱ,type,ከተማ
+ቢሾፍቱ,located_in,ኢትዮጵያ
+ቢሾፍቱ,is_a,ከተማ
+ናዝሬት,type,ከተማ
+ናዝሬት,located_in,ኢትዮጵያ
+ናዝሬት,is_a,ከተማ
+አሰላ,type,ከተማ
+አሰላ,located_in,ኢትዮጵያ
+አሰላ,is_a,ከተማ
+ጎባ,type,ከተማ
+ጎባ,located_in,ኢትዮጵያ
+ጎባ,is_a,ከተማ
+የርጋለም,type,ከተማ
+የርጋለም,located_in,ኢትዮጵያ
+የርጋለም,is_a,ከተማ
+አርባ ምንጭ,type,ከተማ
+አርባ ምንጭ,located_in,ኢትዮጵያ
+አርባ ምንጭ,is_a,ከተማ
+ሶዶ,type,ከተማ
+ሶዶ,located_in,ኢትዮጵያ
+ሶዶ,is_a,ከተማ
+ወላይታ ሶዶ,type,ከተማ
+ወላይታ ሶዶ,located_in,ኢትዮጵያ
+ወላይታ ሶዶ,is_a,ከተማ
+ዱራሜ,type,ከተማ
+ዱራሜ,located_in,ኢትዮጵያ
+ዱራሜ,is_a,ከተማ
+ቆቦ,type,ከተማ
+ቆቦ,located_in,ኢትዮጵያ
+ቆቦ,is_a,ከተማ
+ዋልድያ,type,ከተማ
+ዋልድያ,located_in,ኢትዮጵያ
+ዋልድያ,is_a,ከተማ
+ደብረ ሲና,type,ከተማ
+ደብረ ሲና,located_in,ኢትዮጵያ
+ደብረ ሲና,is_a,ከተማ
+አባይ,type,ወንዝ
+አባይ,located_in,ኢትዮጵያ
+አባይ,is_a,ውሃ
+አዋሽ,type,ወንዝ
+አዋሽ,located_in,ኢትዮጵያ
+አዋሽ,is_a,ውሃ
+ኦሞ,type,ወንዝ
+ኦሞ,located_in,ኢትዮጵያ
+ኦሞ,is_a,ውሃ
+ጅባ,type,ወንዝ
+ጅባ,located_in,ኢትዮጵያ
+ጅባ,is_a,ውሃ
+ዋቤሸበሌ,type,ወንዝ
+ዋቤሸበሌ,located_in,ኢትዮጵያ
+ዋቤሸበሌ,is_a,ውሃ
+ጤከዜ,type,ወንዝ
+ጤከዜ,located_in,ኢትዮጵያ
+ጤከዜ,is_a,ውሃ
+ጋንባሌላ,type,ወንዝ
+ጋንባሌላ,located_in,ኢትዮጵያ
+ጋንባሌላ,is_a,ውሃ
+ባሮ,type,ወንዝ
+ባሮ,located_in,ኢትዮጵያ
+ባሮ,is_a,ውሃ
+አኮቦ,type,ወንዝ
+አኮቦ,located_in,ኢትዮጵያ
+አኮቦ,is_a,ውሃ
+ጣና,type,ሐይቅ
+ጣና,located_in,ኢትዮጵያ
+አቢያታ,type,ሐይቅ
+አቢያታ,located_in,ኢትዮጵያ
+ሻላ,type,ሐይቅ
+ሻላ,located_in,ኢትዮጵያ
+ቻሞ,type,ሐይቅ
+ቻሞ,located_in,ኢትዮጵያ
+ላንጋኖ,type,ሐይቅ
+ላንጋኖ,located_in,ኢትዮጵያ
+ዙዋይ,type,ሐይቅ
+ዙዋይ,located_in,ኢትዮጵያ
+ራስ ዳሸን,type,ተራራ
+እንጦጦ,type,ተራራ
+እንጦጦ,located_in,ኢትዮጵያ
+ቡና ቢቱ,type,ተራራ
+ቡና ቢቱ,located_in,ኢትዮጵያ
+ቹሎ,type,ተራራ
+ቹሎ,located_in,ኢትዮጵያ
+ጉና,type,ተራራ
+ጉና,located_in,ኢትዮጵያ
+አምባ አላጌ,type,ተራራ
+አምባ አላጌ,located_in,ኢትዮጵያ
+ቱሉ ዊሻ,type,ተራራ
+ቱሉ ዊሻ,located_in,ኢትዮጵያ
+አንበሳ,type,እንስሳ
+አንበሳ,found_in,ኢትዮጵያ
+አንበሳ,habitat,አፍሪካ
+ዝሆን,type,እንስሳ
+ዝሆን,found_in,ኢትዮጵያ
+ዝሆን,habitat,አፍሪካ
+ቀጭኔ,type,እንስሳ
+ቀጭኔ,found_in,ኢትዮጵያ
+ቀጭኔ,habitat,አፍሪካ
+ሞጣ,type,እንስሳ
+ሞጣ,found_in,ኢትዮጵያ
+ሞጣ,habitat,አፍሪካ
+አውሬ,type,እንስሳ
+አውሬ,found_in,ኢትዮጵያ
+አውሬ,habitat,አፍሪካ
+ጅብ,type,እንስሳ
+ጅብ,found_in,ኢትዮጵያ
+ጅብ,habitat,አፍሪካ
+አጋዘን,type,እንስሳ
+አጋዘን,found_in,ኢትዮጵያ
+አጋዘን,habitat,አፍሪካ
+አውራሪስ,type,እንስሳ
+አውራሪስ,found_in,ኢትዮጵያ
+አውራሪስ,habitat,አፍሪካ
+ሃይና,type,እንስሳ
+ሃይና,found_in,ኢትዮጵያ
+ሃይና,habitat,አፍሪካ
+አዞ,type,እንስሳ
+አዞ,found_in,ኢትዮጵያ
+አዞ,habitat,አፍሪካ
+እንጀራ,type,ምግብ
+እንጀራ,popular_in,ኢትዮጵያ
+ወጥ,type,ምግብ
+ወጥ,popular_in,ኢትዮጵያ
+ሽሮ,type,ምግብ
+ሽሮ,popular_in,ኢትዮጵያ
+ጥብስ,type,ምግብ
+ጥብስ,popular_in,ኢትዮጵያ
+ኪትፎ,type,ምግብ
+ኪትፎ,popular_in,ኢትዮጵያ
+ጎመን,type,ምግብ
+ጎመን,popular_in,ኢትዮጵያ
+ጤፍ,type,ምግብ
+ጤፍ,popular_in,ኢትዮጵያ
+ቡና,type,ምግብ
+ቡና,popular_in,ኢትዮጵያ
+ጠላ,type,ምግብ
+ጠላ,popular_in,ኢትዮጵያ
+ጤጅ,type,ምግብ
+ጤጅ,popular_in,ኢትዮጵያ
+ጢምቃት,type,በዓል
+ጢምቃት,celebrated_in,ኢትዮጵያ
+መስቀል,type,በዓል
+መስቀል,celebrated_in,ኢትዮጵያ
+ገና,type,በዓል
+ገና,celebrated_in,ኢትዮጵያ
+ፋሲካ,type,በዓል
+ፋሲካ,celebrated_in,ኢትዮጵያ
+እንቁጣጣሽ,type,በዓል
+እንቁጣጣሽ,celebrated_in,ኢትዮጵያ
+ጎበኛ,type,በዓል
+ጎበኛ,celebrated_in,ኢትዮጵያ
+አስተርዮ,type,በዓል
+አስተርዮ,celebrated_in,ኢትዮጵያ
+አቢይ አህመድ,related_to,ኢትዮጵያ
+አቢይ አህመድ,historical_figure,ኢትዮጵያ
+ሃይለ ሥላሴ,related_to,ኢትዮጵያ
+ሃይለ ሥላሴ,historical_figure,ኢትዮጵያ
+ምኒልክ,related_to,ኢትዮጵያ
+ምኒልክ,historical_figure,ኢትዮጵያ
+ቴዎድሮስ,related_to,ኢትዮጵያ
+ቴዎድሮስ,historical_figure,ኢትዮጵያ
+ዮሐንስ,related_to,ኢትዮጵያ
+ዮሐንስ,historical_figure,ኢትዮጵያ
+ዛራ ያዕቆብ,related_to,ኢትዮጵያ
+ዛራ ያዕቆብ,historical_figure,ኢትዮጵያ
+ላሊበላ,related_to,ኢትዮጵያ
+ላሊበላ,historical_figure,ኢትዮጵያ
+የኩኖ አምላክ,related_to,ኢትዮጵያ
+የኩኖ አምላክ,historical_figure,ኢትዮጵያ
+አማራ,ethnic_group_in,ኢትዮጵያ
+አማራ ክልል,inhabited_by,አማራ
+ኦሮሞ,ethnic_group_in,ኢትዮጵያ
+ኦሮሚያ ክልል,inhabited_by,ኦሮሞ
+ትግራይ,ethnic_group_in,ኢትዮጵያ
+ትግራይ ክልል,inhabited_by,ትግራይ
+ሶማሌ,ethnic_group_in,ኢትዮጵያ
+ሶማሌ ክልል,inhabited_by,ሶማሌ
+አፋር,ethnic_group_in,ኢትዮጵያ
+አፋር ክልል,inhabited_by,አፋር
+ሲዳማ,ethnic_group_in,ኢትዮጵያ
+ሲዳማ ክልል,inhabited_by,ሲዳማ
+ቤኒሻንጉል,ethnic_group_in,ኢትዮጵያ
+ቤኒሻንጉል ጉሙዝ ክልል,inhabited_by,ቤኒሻንጉል
+ጋምቤላ,ethnic_group_in,ኢትዮጵያ
+ጋምቤላ ክልል,inhabited_by,ጋምቤላ
+ሐረሪ,ethnic_group_in,ኢትዮጵያ
+ሐረሪ ክልል,inhabited_by,ሐረሪ
+አፍሪካ,type,አህጉር
+አፍሪካ,is_a,መሬት
+እስያ,type,አህጉር
+እስያ,is_a,መሬት
+አውሮፓ,type,አህጉር
+አውሮፓ,is_a,መሬት
+ሰሜን አሜሪካ,type,አህጉር
+ሰሜን አሜሪካ,is_a,መሬት
+ደቡብ አሜሪካ,type,አህጉር
+ደቡብ አሜሪካ,is_a,መሬት
+አውስትራሊያ,type,አህጉር
+አውስትራሊያ,is_a,መሬት
+አንታርክቲካ,type,አህጉር
+አንታርክቲካ,is_a,መሬት
+ሃይድሮጅን,type,ኬሚካል ኤለመንት
+ሂሊየም,atomic_number,2
+ሂሊየም,type,ኬሚካል ኤለመንት
+ሊቲየም,atomic_number,3
+ሊቲየም,type,ኬሚካል ኤለመንት
+ቤሪሊየም,atomic_number,4
+ቤሪሊየም,type,ኬሚካል ኤለመንት
+ቦሮን,atomic_number,5
+ቦሮን,type,ኬሚካል ኤለመንት
+ካርቦን,type,ኬሚካል ኤለመንት
+ናይትሮጅን,type,ኬሚካል ኤለመንት
+ኦክሲጅን,type,ኬሚካል ኤለመንት
+ፍሎራይን,atomic_number,9
+ፍሎራይን,type,ኬሚካል ኤለመንት
+ኒዮን,atomic_number,10
+ኒዮን,type,ኬሚካል ኤለመንት
+ሶዲየም,atomic_number,11
+ሶዲየም,type,ኬሚካል ኤለመንት
+ማግኒዚየም,atomic_number,12
+ማግኒዚየም,type,ኬሚካል ኤለመንት
+አሉሚኒየም,atomic_number,13
+አሉሚኒየም,type,ኬሚካል ኤለመንት
+ሲሊከን,atomic_number,14
+ሲሊከን,type,ኬሚካል ኤለመንት
+ፎስፈረስ,atomic_number,15
+ፎስፈረስ,type,ኬሚካል ኤለመንት
+ሰልፈር,atomic_number,16
+ሰልፈር,type,ኬሚካል ኤለመንት
+ክሎሪን,atomic_number,17
+ክሎሪን,type,ኬሚካል ኤለመንት
+አርጎን,atomic_number,18
+አርጎን,type,ኬሚካል ኤለመንት
+ፖታሲየም,atomic_number,19
+ፖታሲየም,type,ኬሚካል ኤለመንት
+ካልሲየም,atomic_number,20
+ካልሲየም,type,ኬሚካል ኤለመንት
+ብረት,type,ኬሚካል ኤለመንት
+መዳብ,atomic_number,29
+መዳብ,type,ኬሚካል ኤለመንት
+ዚንክ,atomic_number,30
+ዚንክ,type,ኬሚካል ኤለመንት
+ብር,atomic_number,47
+ብር,type,ኬሚካል ኤለመንት
+ወርቅ,type,ኬሚካል ኤለመንት
+ኢትዮጵያ,has_region,አማራ ክልል
+ኢትዮጵያ,has_region,ኦሮሚያ ክልል
+ኢትዮጵያ,has_region,ትግራይ ክልል
+ኢትዮጵያ,has_region,ሶማሌ ክልል
+ኢትዮጵያ,has_region,አፋር ክልል
+ኢትዮጵያ,has_region,ሲዳማ ክልል
+ኢትዮጵያ,borders,ኬንያ
+ኢትዮጵያ,borders,ሶማሊያ
+ኢትዮጵያ,borders,ጂቡቲ
+ኢትዮጵያ,borders,ኤርትራ
+ኢትዮጵያ,borders,ሱዳን
+ኢትዮጵያ,borders,ደቡብ ሱዳን
+ኬንያ,borders,ኢትዮጵያ
+ሶማሊያ,borders,ኢትዮጵያ
+ጂቡቲ,borders,ኢትዮጵያ
+ኤርትራ,borders,ኢትዮጵያ
+ሱዳን,borders,ኢትዮጵያ
+ደቡብ ሱዳን,borders,ኢትዮጵያ
+ኢትዮጵያ,population,120000000
+ኢትዮጵያ,timezone,EAT
+አዲስ አበባ,timezone,EAT
+ኢትዮጵያ,climate,ተለያዩ
+ከፍተኛ ቦታ,climate,ቀዝቃዛ
+ዝቅተኛ ቦታ,climate,ሞቃት
+ቡና,type,ሰብል
+ቡና,export_of,ኢትዮጵያ
+ጤፍ,type,ሰብል
+ጤፍ,used_for,እንጀራ
+እንሴት,cultivated_in,ኢትዮጵያ
+ቆሎ,type,ምግብ
+ዶሮ ወጥ,type,ምግብ
+ስጋ ወጥ,type,ምግብ
+ሽሮ ወጥ,type,ምግብ
+ፈጢራ,type,ምግብ
+ቂጣ,type,ምግብ
+ጠላ,type,መጠጥ
+ጤጅ,type,መጠጥ
+ቡና,type,መጠጥ
+ውሃ,type,መጠጥ
+አክሱም,part_of,ኢትዮጵያ
+አክሱም,belongs_to,ኢትዮጵያ
+አክሱም,type,ቦታ
+ላሊበላ,part_of,ኢትዮጵያ
+ላሊበላ,belongs_to,ኢትዮጵያ
+ላሊበላ,type,ቦታ
+ጎንደር,part_of,ኢትዮጵያ
+ጎንደር,belongs_to,ኢትዮጵያ
+ጎንደር,type,ቦታ
+ባህር ዳር,part_of,ኢትዮጵያ
+ባህር ዳር,belongs_to,ኢትዮጵያ
+ባህር ዳር,type,ቦታ
+መቀሌ,part_of,ኢትዮጵያ
+መቀሌ,belongs_to,ኢትዮጵያ
+መቀሌ,type,ቦታ
+አዋሳ,part_of,ኢትዮጵያ
+አዋሳ,belongs_to,ኢትዮጵያ
+አዋሳ,type,ቦታ
+ሐረር,part_of,ኢትዮጵያ
+ሐረር,belongs_to,ኢትዮጵያ
+ሐረር,type,ቦታ
+ድሬዳዋ,part_of,ኢትዮጵያ
+ድሬዳዋ,belongs_to,ኢትዮጵያ
+ድሬዳዋ,type,ቦታ
+አዳማ,part_of,ኢትዮጵያ
+አዳማ,belongs_to,ኢትዮጵያ
+አዳማ,type,ቦታ
+ጅማ,part_of,ኢትዮጵያ
+ጅማ,belongs_to,ኢትዮጵያ
+ጅማ,type,ቦታ
+ነቀምቴ,part_of,ኢትዮጵያ
+ነቀምቴ,belongs_to,ኢትዮጵያ
+ነቀምቴ,type,ቦታ
+ሻሸመኔ,part_of,ኢትዮጵያ
+ሻሸመኔ,belongs_to,ኢትዮጵያ
+ሻሸመኔ,type,ቦታ
+ደሴ,part_of,ኢትዮጵያ
+ደሴ,belongs_to,ኢትዮጵያ
+ደሴ,type,ቦታ
+ኮምቦልቻ,part_of,ኢትዮጵያ
+ኮምቦልቻ,belongs_to,ኢትዮጵያ
+ኮምቦልቻ,type,ቦታ
+ደብረ ብርሃን,part_of,ኢትዮጵያ
+ደብረ ብርሃን,belongs_to,ኢትዮጵያ
+ደብረ ብርሃን,type,ቦታ
+ወልድያ,part_of,ኢትዮጵያ
+ወልድያ,belongs_to,ኢትዮጵያ
+ወልድያ,type,ቦታ
+ደብረ ማርቆስ,part_of,ኢትዮጵያ
+ደብረ ማርቆስ,belongs_to,ኢትዮጵያ
+ደብረ ማርቆስ,type,ቦታ
+ደብረ ታቦር,part_of,ኢትዮጵያ
+ደብረ ታቦር,belongs_to,ኢትዮጵያ
+ደብረ ታቦር,type,ቦታ
+አሶሳ,part_of,ኢትዮጵያ
+አሶሳ,belongs_to,ኢትዮጵያ
+አሶሳ,type,ቦታ
+ጋምቤላ,part_of,ኢትዮጵያ
+ጋምቤላ,belongs_to,ኢትዮጵያ
+ጋምቤላ,type,ቦታ
+ቦንጋ,part_of,ኢትዮጵያ
+ቦንጋ,belongs_to,ኢትዮጵያ
+ቦንጋ,type,ቦታ
+ሆሳዕና,part_of,ኢትዮጵያ
+ሆሳዕና,belongs_to,ኢትዮጵያ
+ሆሳዕና,type,ቦታ
+አዱዋ,part_of,ኢትዮጵያ
+አዱዋ,belongs_to,ኢትዮጵያ
+አዱዋ,type,ቦታ
+ሁመራ,part_of,ኢትዮጵያ
+ሁመራ,belongs_to,ኢትዮጵያ
+ሁመራ,type,ቦታ
+ቢሾፍቱ,part_of,ኢትዮጵያ
+ቢሾፍቱ,belongs_to,ኢትዮጵያ
+ቢሾፍቱ,type,ቦታ
+ናዝሬት,part_of,ኢትዮጵያ
+ናዝሬት,belongs_to,ኢትዮጵያ
+ናዝሬት,type,ቦታ
+አሰላ,part_of,ኢትዮጵያ
+አሰላ,belongs_to,ኢትዮጵያ
+አሰላ,type,ቦታ
+ጎባ,part_of,ኢትዮጵያ
+ጎባ,belongs_to,ኢትዮጵያ
+ጎባ,type,ቦታ
+አርባ ምንጭ,part_of,ኢትዮጵያ
+አርባ ምንጭ,belongs_to,ኢትዮጵያ
+አርባ ምንጭ,type,ቦታ
+ሶዶ,part_of,ኢትዮጵያ
+ሶዶ,belongs_to,ኢትዮጵያ
+ሶዶ,type,ቦታ
+ወላይታ ሶዶ,part_of,ኢትዮጵያ
+ወላይታ ሶዶ,belongs_to,ኢትዮጵያ
+ወላይታ ሶዶ,type,ቦታ
+ዱራሜ,part_of,ኢትዮጵያ
+ዱራሜ,belongs_to,ኢትዮጵያ
+ዱራሜ,type,ቦታ
+ቆቦ,part_of,ኢትዮጵያ
+ቆቦ,belongs_to,ኢትዮጵያ
+ቆቦ,type,ቦታ
+ዋልድያ,part_of,ኢትዮጵያ
+ዋልድያ,belongs_to,ኢትዮጵያ
+ዋልድያ,type,ቦታ
+ደብረ ሲና,part_of,ኢትዮጵያ
+ደብረ ሲና,belongs_to,ኢትዮጵያ
+ደብረ ሲና,type,ቦታ
+ሞጆ,located_in,ኢትዮጵያ
+ሞጆ,part_of,ኢትዮጵያ
+ሞጆ,belongs_to,ኢትዮጵያ
+ሞጆ,type,ቦታ
+ሰበታ,located_in,ኢትዮጵያ
+ሰበታ,part_of,ኢትዮጵያ
+ሰበታ,belongs_to,ኢትዮጵያ
+ሰበታ,type,ቦታ
+ቡራዩ,located_in,ኢትዮጵያ
+ቡራዩ,part_of,ኢትዮጵያ
+ቡራዩ,belongs_to,ኢትዮጵያ
+ቡራዩ,type,ቦታ
+ሎሜ,located_in,ኢትዮጵያ
+ሎሜ,part_of,ኢትዮጵያ
+ሎሜ,belongs_to,ኢትዮጵያ
+ሎሜ,type,ቦታ
+ጌላን,located_in,ኢትዮጵያ
+ጌላን,part_of,ኢትዮጵያ
+ጌላን,belongs_to,ኢትዮጵያ
+ጌላን,type,ቦታ
+አካኪ,located_in,ኢትዮጵያ
+አካኪ,part_of,ኢትዮጵያ
+አካኪ,belongs_to,ኢትዮጵያ
+አካኪ,type,ቦታ
+ቃሊቲ,located_in,ኢትዮጵያ
+ቃሊቲ,part_of,ኢትዮጵያ
+ቃሊቲ,belongs_to,ኢትዮጵያ
+ቃሊቲ,type,ቦታ
+ቦሌ,located_in,ኢትዮጵያ
+ቦሌ,part_of,ኢትዮጵያ
+ቦሌ,belongs_to,ኢትዮጵያ
+ቦሌ,type,ቦታ
+ፒያሳ,located_in,ኢትዮጵያ
+ፒያሳ,part_of,ኢትዮጵያ
+ፒያሳ,belongs_to,ኢትዮጵያ
+ፒያሳ,type,ቦታ
+መርካቶ,located_in,ኢትዮጵያ
+መርካቶ,part_of,ኢትዮጵያ
+መርካቶ,belongs_to,ኢትዮጵያ
+መርካቶ,type,ቦታ
+እንጦጦ,part_of,ኢትዮጵያ
+እንጦጦ,belongs_to,ኢትዮጵያ
+እንጦጦ,type,ቦታ
+አማርኛ,spoken_in,ኢትዮጵያ
+አማርኛ,type,ቋንቋ
+አማርኛ,language_of,ኢትዮጵያ
+ኦሮሞ,type,ቋንቋ
+ኦሮሞ,language_of,ኢትዮጵያ
+ትግርኛ,type,ቋንቋ
+ትግርኛ,language_of,ኢትዮጵያ
+ሶማሊኛ,type,ቋንቋ
+ሶማሊኛ,language_of,ኢትዮጵያ
+አፋር,type,ቋንቋ
+አፋር,language_of,ኢትዮጵያ
+ሲዳሞ,type,ቋንቋ
+ሲዳሞ,language_of,ኢትዮጵያ
+ወላይታ,type,ቋንቋ
+ወላይታ,language_of,ኢትዮጵያ
+ጉራጌ,type,ቋንቋ
+ጉራጌ,language_of,ኢትዮጵያ
+ሐረሪ,type,ቋንቋ
+ሐረሪ,language_of,ኢትዮጵያ
+አገው,spoken_in,ኢትዮጵያ
+አገው,type,ቋንቋ
+አገው,language_of,ኢትዮጵያ
+ከምባታ,spoken_in,ኢትዮጵያ
+ከምባታ,type,ቋንቋ
+ከምባታ,language_of,ኢትዮጵያ
+ሀዲያ,spoken_in,ኢትዮጵያ
+ሀዲያ,type,ቋንቋ
+ሀዲያ,language_of,ኢትዮጵያ
+ጋሞ,spoken_in,ኢትዮጵያ
+ጋሞ,type,ቋንቋ
+ጋሞ,language_of,ኢትዮጵያ
+ጎፋ,spoken_in,ኢትዮጵያ
+ጎፋ,type,ቋንቋ
+ጎፋ,language_of,ኢትዮጵያ
+አክሱም ግዛት,period,ጥንታዊ
+ዛጌ ሥርወ መንግሥት,period,መካከለኛ ዘመን
+ሰሎሞናዊ ሥርወ መንግሥት,period,መካከለኛ እስከ ዘመናዊ
+የልዑላን ዘመን,period,መካከለኛ
+የጣሊያን ወረራ,year,1936
+ነጻነት,year,1941
+አብዮት,year,1974
+የደርግ ዘመን,period,1974-1991
+ፌዴራል ስርዓት,started,1995
+አድዋ,battle_year,1896
+ማቀዳ,queen_of,ሳባ
+ምኒልክ አንደኛ,son_of,ማቀዳ
+ኬብረ ነገስት,book_of,ኢትዮጵያ
+ታቦት,related_to,ኢትዮጵያ ኦርቶዶክስ
+ጂዝ,liturgical_language,ኢትዮጵያ ኦርቶዶክስ
+ኢትዮጵያ,has_feature,ባህል
+አዲስ አበባ,contains,ታሪክ
+አማራ ክልል,related_to,ተፈጥሮ
+ኦሮሚያ ክልል,known_for,ሕዝብ
+ትግራይ ክልል,associated_with,ቋንቋ
+ባህር ዳር,has_feature,ሃይማኖት
+መቀሌ,contains,ምግብ
+አዋሳ,related_to,በዓል
+ኢትዮጵያ,known_for,ሙዚቃ
+አዲስ አበባ,associated_with,ስፖርት
+አማራ ክልል,has_feature,ባህል
+ኦሮሚያ ክልል,contains,ታሪክ
+ትግራይ ክልል,related_to,ተፈጥሮ
+ባህር ዳር,known_for,ሕዝብ
+መቀሌ,associated_with,ቋንቋ
+አዋሳ,has_feature,ሃይማኖት
+ኢትዮጵያ,contains,ምግብ
+አዲስ አበባ,related_to,በዓል
+አማራ ክልል,known_for,ሙዚቃ
+ኦሮሚያ ክልል,associated_with,ስፖርት
+ትግራይ ክልል,has_feature,ባህል
+ባህር ዳር,contains,ታሪክ
+መቀሌ,related_to,ተፈጥሮ
+አዋሳ,known_for,ሕዝብ
+ኢትዮጵያ,associated_with,ቋንቋ
+አዲስ አበባ,has_feature,ሃይማኖት
+አማራ ክልል,contains,ምግብ
+ኦሮሚያ ክልል,related_to,በዓል
+ትግራይ ክልል,known_for,ሙዚቃ
+ባህር ዳር,associated_with,ስፖርት
+መቀሌ,has_feature,ባህል
+አዋሳ,contains,ታሪክ
+ኢትዮጵያ,related_to,ተፈጥሮ
+አዲስ አበባ,known_for,ሕዝብ
+አማራ ክልል,associated_with,ቋንቋ
+ኦሮሚያ ክልል,has_feature,ሃይማኖት
+ትግራይ ክልል,contains,ምግብ
+ባህር ዳር,related_to,በዓል
+መቀሌ,known_for,ሙዚቃ
+አዋሳ,associated_with,ስፖርት
+ባህር ዳር,contains,ታሪክ_101
+መቀሌ,related_to,ተፈጥሮ_102
+አዋሳ,known_for,ሕዝብ_103
+ኢትዮጵያ,associated_with,ቋንቋ_104
+አዲስ አበባ,has_feature,ሃይማኖት_105
+አማራ ክልል,contains,ምግብ_106
+ኦሮሚያ ክልል,related_to,በዓል_107
+ትግራይ ክልል,known_for,ሙዚቃ_108
+ባህር ዳር,associated_with,ስፖርት_109
+መቀሌ,has_feature,ባህል_110
+አዋሳ,contains,ታሪክ_111
+ኢትዮጵያ,related_to,ተፈጥሮ_112
+አዲስ አበባ,known_for,ሕዝብ_113
+አማራ ክልል,associated_with,ቋንቋ_114
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_115
+ትግራይ ክልል,contains,ምግብ_116
+ባህር ዳር,related_to,በዓል_117
+መቀሌ,known_for,ሙዚቃ_118
+አዋሳ,associated_with,ስፖርት_119
+ኢትዮጵያ,has_feature,ባህል_120
+አዲስ አበባ,contains,ታሪክ_121
+አማራ ክልል,related_to,ተፈጥሮ_122
+ኦሮሚያ ክልል,known_for,ሕዝብ_123
+ትግራይ ክልል,associated_with,ቋንቋ_124
+ባህር ዳር,has_feature,ሃይማኖት_125
+መቀሌ,contains,ምግብ_126
+አዋሳ,related_to,በዓል_127
+ኢትዮጵያ,known_for,ሙዚቃ_128
+አዲስ አበባ,associated_with,ስፖርት_129
+አማራ ክልል,has_feature,ባህል_130
+ኦሮሚያ ክልል,contains,ታሪክ_131
+ትግራይ ክልል,related_to,ተፈጥሮ_132
+ባህር ዳር,known_for,ሕዝብ_133
+መቀሌ,associated_with,ቋንቋ_134
+አዋሳ,has_feature,ሃይማኖት_135
+ኢትዮጵያ,contains,ምግብ_136
+አዲስ አበባ,related_to,በዓል_137
+አማራ ክልል,known_for,ሙዚቃ_138
+ኦሮሚያ ክልል,associated_with,ስፖርት_139
+ትግራይ ክልል,has_feature,ባህል_140
+ባህር ዳር,contains,ታሪክ_141
+መቀሌ,related_to,ተፈጥሮ_142
+አዋሳ,known_for,ሕዝብ_143
+ኢትዮጵያ,associated_with,ቋንቋ_144
+አዲስ አበባ,has_feature,ሃይማኖት_145
+አማራ ክልል,contains,ምግብ_146
+ኦሮሚያ ክልል,related_to,በዓል_147
+ትግራይ ክልል,known_for,ሙዚቃ_148
+ባህር ዳር,associated_with,ስፖርት_149
+መቀሌ,has_feature,ባህል_150
+አዋሳ,contains,ታሪክ_151
+ኢትዮጵያ,related_to,ተፈጥሮ_152
+አዲስ አበባ,known_for,ሕዝብ_153
+አማራ ክልል,associated_with,ቋንቋ_154
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_155
+ትግራይ ክልል,contains,ምግብ_156
+ባህር ዳር,related_to,በዓል_157
+መቀሌ,known_for,ሙዚቃ_158
+አዋሳ,associated_with,ስፖርት_159
+ኢትዮጵያ,has_feature,ባህል_160
+አዲስ አበባ,contains,ታሪክ_161
+አማራ ክልል,related_to,ተፈጥሮ_162
+ኦሮሚያ ክልል,known_for,ሕዝብ_163
+ትግራይ ክልል,associated_with,ቋንቋ_164
+ባህር ዳር,has_feature,ሃይማኖት_165
+መቀሌ,contains,ምግብ_166
+አዋሳ,related_to,በዓል_167
+ኢትዮጵያ,known_for,ሙዚቃ_168
+አዲስ አበባ,associated_with,ስፖርት_169
+አማራ ክልል,has_feature,ባህል_170
+ኦሮሚያ ክልል,contains,ታሪክ_171
+ትግራይ ክልል,related_to,ተፈጥሮ_172
+ባህር ዳር,known_for,ሕዝብ_173
+መቀሌ,associated_with,ቋንቋ_174
+አዋሳ,has_feature,ሃይማኖት_175
+ኢትዮጵያ,contains,ምግብ_176
+አዲስ አበባ,related_to,በዓል_177
+አማራ ክልል,known_for,ሙዚቃ_178
+ኦሮሚያ ክልል,associated_with,ስፖርት_179
+ትግራይ ክልል,has_feature,ባህል_180
+ባህር ዳር,contains,ታሪክ_181
+መቀሌ,related_to,ተፈጥሮ_182
+አዋሳ,known_for,ሕዝብ_183
+ኢትዮጵያ,associated_with,ቋንቋ_184
+አዲስ አበባ,has_feature,ሃይማኖት_185
+አማራ ክልል,contains,ምግብ_186
+ኦሮሚያ ክልል,related_to,በዓል_187
+ትግራይ ክልል,known_for,ሙዚቃ_188
+ባህር ዳር,associated_with,ስፖርት_189
+መቀሌ,has_feature,ባህል_190
+አዋሳ,contains,ታሪክ_191
+ኢትዮጵያ,related_to,ተፈጥሮ_192
+አዲስ አበባ,known_for,ሕዝብ_193
+አማራ ክልል,associated_with,ቋንቋ_194
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_195
+ትግራይ ክልል,contains,ምግብ_196
+ባህር ዳር,related_to,በዓል_197
+መቀሌ,known_for,ሙዚቃ_198
+አዋሳ,associated_with,ስፖርት_199
+ኢትዮጵያ,has_feature,ባህል_200
+አዲስ አበባ,contains,ታሪክ_201
+አማራ ክልል,related_to,ተፈጥሮ_202
+ኦሮሚያ ክልል,known_for,ሕዝብ_203
+ትግራይ ክልል,associated_with,ቋንቋ_204
+ባህር ዳር,has_feature,ሃይማኖት_205
+መቀሌ,contains,ምግብ_206
+አዋሳ,related_to,በዓል_207
+ኢትዮጵያ,known_for,ሙዚቃ_208
+አዲስ አበባ,associated_with,ስፖርት_209
+አማራ ክልል,has_feature,ባህል_210
+ኦሮሚያ ክልል,contains,ታሪክ_211
+ትግራይ ክልል,related_to,ተፈጥሮ_212
+ባህር ዳር,known_for,ሕዝብ_213
+መቀሌ,associated_with,ቋንቋ_214
+አዋሳ,has_feature,ሃይማኖት_215
+ኢትዮጵያ,contains,ምግብ_216
+አዲስ አበባ,related_to,በዓል_217
+አማራ ክልል,known_for,ሙዚቃ_218
+ኦሮሚያ ክልል,associated_with,ስፖርት_219
+ትግራይ ክልል,has_feature,ባህል_220
+ባህር ዳር,contains,ታሪክ_221
+መቀሌ,related_to,ተፈጥሮ_222
+አዋሳ,known_for,ሕዝብ_223
+ኢትዮጵያ,associated_with,ቋንቋ_224
+አዲስ አበባ,has_feature,ሃይማኖት_225
+አማራ ክልል,contains,ምግብ_226
+ኦሮሚያ ክልል,related_to,በዓል_227
+ትግራይ ክልል,known_for,ሙዚቃ_228
+ባህር ዳር,associated_with,ስፖርት_229
+መቀሌ,has_feature,ባህል_230
+አዋሳ,contains,ታሪክ_231
+ኢትዮጵያ,related_to,ተፈጥሮ_232
+አዲስ አበባ,known_for,ሕዝብ_233
+አማራ ክልል,associated_with,ቋንቋ_234
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_235
+ትግራይ ክልል,contains,ምግብ_236
+ባህር ዳር,related_to,በዓል_237
+መቀሌ,known_for,ሙዚቃ_238
+አዋሳ,associated_with,ስፖርት_239
+ኢትዮጵያ,has_feature,ባህል_240
+አዲስ አበባ,contains,ታሪክ_241
+አማራ ክልል,related_to,ተፈጥሮ_242
+ኦሮሚያ ክልል,known_for,ሕዝብ_243
+ትግራይ ክልል,associated_with,ቋንቋ_244
+ባህር ዳር,has_feature,ሃይማኖት_245
+መቀሌ,contains,ምግብ_246
+አዋሳ,related_to,በዓል_247
+ኢትዮጵያ,known_for,ሙዚቃ_248
+አዲስ አበባ,associated_with,ስፖርት_249
+አማራ ክልል,has_feature,ባህል_250
+ኦሮሚያ ክልል,contains,ታሪክ_251
+ትግራይ ክልል,related_to,ተፈጥሮ_252
+ባህር ዳር,known_for,ሕዝብ_253
+መቀሌ,associated_with,ቋንቋ_254
+አዋሳ,has_feature,ሃይማኖት_255
+ኢትዮጵያ,contains,ምግብ_256
+አዲስ አበባ,related_to,በዓል_257
+አማራ ክልል,known_for,ሙዚቃ_258
+ኦሮሚያ ክልል,associated_with,ስፖርት_259
+ትግራይ ክልል,has_feature,ባህል_260
+ባህር ዳር,contains,ታሪክ_261
+መቀሌ,related_to,ተፈጥሮ_262
+አዋሳ,known_for,ሕዝብ_263
+ኢትዮጵያ,associated_with,ቋንቋ_264
+አዲስ አበባ,has_feature,ሃይማኖት_265
+አማራ ክልል,contains,ምግብ_266
+ኦሮሚያ ክልል,related_to,በዓል_267
+ትግራይ ክልል,known_for,ሙዚቃ_268
+ባህር ዳር,associated_with,ስፖርት_269
+መቀሌ,has_feature,ባህል_270
+አዋሳ,contains,ታሪክ_271
+ኢትዮጵያ,related_to,ተፈጥሮ_272
+አዲስ አበባ,known_for,ሕዝብ_273
+አማራ ክልል,associated_with,ቋንቋ_274
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_275
+ትግራይ ክልል,contains,ምግብ_276
+ባህር ዳር,related_to,በዓል_277
+መቀሌ,known_for,ሙዚቃ_278
+አዋሳ,associated_with,ስፖርት_279
+ኢትዮጵያ,has_feature,ባህል_280
+አዲስ አበባ,contains,ታሪክ_281
+አማራ ክልል,related_to,ተፈጥሮ_282
+ኦሮሚያ ክልል,known_for,ሕዝብ_283
+ትግራይ ክልል,associated_with,ቋንቋ_284
+ባህር ዳር,has_feature,ሃይማኖት_285
+መቀሌ,contains,ምግብ_286
+አዋሳ,related_to,በዓል_287
+ኢትዮጵያ,known_for,ሙዚቃ_288
+አዲስ አበባ,associated_with,ስፖርት_289
+አማራ ክልል,has_feature,ባህል_290
+ኦሮሚያ ክልል,contains,ታሪክ_291
+ትግራይ ክልል,related_to,ተፈጥሮ_292
+ባህር ዳር,known_for,ሕዝብ_293
+መቀሌ,associated_with,ቋንቋ_294
+አዋሳ,has_feature,ሃይማኖት_295
+ኢትዮጵያ,contains,ምግብ_296
+አዲስ አበባ,related_to,በዓል_297
+አማራ ክልል,known_for,ሙዚቃ_298
+ኦሮሚያ ክልል,associated_with,ስፖርት_299
+ትግራይ ክልል,has_feature,ባህል_300
+ባህር ዳር,contains,ታሪክ_301
+መቀሌ,related_to,ተፈጥሮ_302
+አዋሳ,known_for,ሕዝብ_303
+ኢትዮጵያ,associated_with,ቋንቋ_304
+አዲስ አበባ,has_feature,ሃይማኖት_305
+አማራ ክልል,contains,ምግብ_306
+ኦሮሚያ ክልል,related_to,በዓል_307
+ትግራይ ክልል,known_for,ሙዚቃ_308
+ባህር ዳር,associated_with,ስፖርት_309
+መቀሌ,has_feature,ባህል_310
+አዋሳ,contains,ታሪክ_311
+ኢትዮጵያ,related_to,ተፈጥሮ_312
+አዲስ አበባ,known_for,ሕዝብ_313
+አማራ ክልል,associated_with,ቋንቋ_314
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_315
+ትግራይ ክልል,contains,ምግብ_316
+ባህር ዳር,related_to,በዓል_317
+መቀሌ,known_for,ሙዚቃ_318
+አዋሳ,associated_with,ስፖርት_319
+ኢትዮጵያ,has_feature,ባህል_320
+አዲስ አበባ,contains,ታሪክ_321
+አማራ ክልል,related_to,ተፈጥሮ_322
+ኦሮሚያ ክልል,known_for,ሕዝብ_323
+ትግራይ ክልል,associated_with,ቋንቋ_324
+ባህር ዳር,has_feature,ሃይማኖት_325
+መቀሌ,contains,ምግብ_326
+አዋሳ,related_to,በዓል_327
+ኢትዮጵያ,known_for,ሙዚቃ_328
+አዲስ አበባ,associated_with,ስፖርት_329
+አማራ ክልል,has_feature,ባህል_330
+ኦሮሚያ ክልል,contains,ታሪክ_331
+ትግራይ ክልል,related_to,ተፈጥሮ_332
+ባህር ዳር,known_for,ሕዝብ_333
+መቀሌ,associated_with,ቋንቋ_334
+አዋሳ,has_feature,ሃይማኖት_335
+ኢትዮጵያ,contains,ምግብ_336
+አዲስ አበባ,related_to,በዓል_337
+አማራ ክልል,known_for,ሙዚቃ_338
+ኦሮሚያ ክልል,associated_with,ስፖርት_339
+ትግራይ ክልል,has_feature,ባህል_340
+ባህር ዳር,contains,ታሪክ_341
+መቀሌ,related_to,ተፈጥሮ_342
+አዋሳ,known_for,ሕዝብ_343
+ኢትዮጵያ,associated_with,ቋንቋ_344
+አዲስ አበባ,has_feature,ሃይማኖት_345
+አማራ ክልል,contains,ምግብ_346
+ኦሮሚያ ክልል,related_to,በዓል_347
+ትግራይ ክልል,known_for,ሙዚቃ_348
+ባህር ዳር,associated_with,ስፖርት_349
+መቀሌ,has_feature,ባህል_350
+አዋሳ,contains,ታሪክ_351
+ኢትዮጵያ,related_to,ተፈጥሮ_352
+አዲስ አበባ,known_for,ሕዝብ_353
+አማራ ክልል,associated_with,ቋንቋ_354
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_355
+ትግራይ ክልል,contains,ምግብ_356
+ባህር ዳር,related_to,በዓል_357
+መቀሌ,known_for,ሙዚቃ_358
+አዋሳ,associated_with,ስፖርት_359
+ኢትዮጵያ,has_feature,ባህል_360
+አዲስ አበባ,contains,ታሪክ_361
+አማራ ክልል,related_to,ተፈጥሮ_362
+ኦሮሚያ ክልል,known_for,ሕዝብ_363
+ትግራይ ክልል,associated_with,ቋንቋ_364
+ባህር ዳር,has_feature,ሃይማኖት_365
+መቀሌ,contains,ምግብ_366
+አዋሳ,related_to,በዓል_367
+ኢትዮጵያ,known_for,ሙዚቃ_368
+አዲስ አበባ,associated_with,ስፖርት_369
+አማራ ክልል,has_feature,ባህል_370
+ኦሮሚያ ክልል,contains,ታሪክ_371
+ትግራይ ክልል,related_to,ተፈጥሮ_372
+ባህር ዳር,known_for,ሕዝብ_373
+መቀሌ,associated_with,ቋንቋ_374
+አዋሳ,has_feature,ሃይማኖት_375
+ኢትዮጵያ,contains,ምግብ_376
+አዲስ አበባ,related_to,በዓል_377
+አማራ ክልል,known_for,ሙዚቃ_378
+ኦሮሚያ ክልል,associated_with,ስፖርት_379
+ትግራይ ክልል,has_feature,ባህል_380
+ባህር ዳር,contains,ታሪክ_381
+መቀሌ,related_to,ተፈጥሮ_382
+አዋሳ,known_for,ሕዝብ_383
+ኢትዮጵያ,associated_with,ቋንቋ_384
+አዲስ አበባ,has_feature,ሃይማኖት_385
+አማራ ክልል,contains,ምግብ_386
+ኦሮሚያ ክልል,related_to,በዓል_387
+ትግራይ ክልል,known_for,ሙዚቃ_388
+ባህር ዳር,associated_with,ስፖርት_389
+መቀሌ,has_feature,ባህል_390
+አዋሳ,contains,ታሪክ_391
+ኢትዮጵያ,related_to,ተፈጥሮ_392
+አዲስ አበባ,known_for,ሕዝብ_393
+አማራ ክልል,associated_with,ቋንቋ_394
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_395
+ትግራይ ክልል,contains,ምግብ_396
+ባህር ዳር,related_to,በዓል_397
+መቀሌ,known_for,ሙዚቃ_398
+አዋሳ,associated_with,ስፖርት_399
+ኢትዮጵያ,has_feature,ባህል_400
+አዲስ አበባ,contains,ታሪክ_401
+አማራ ክልል,related_to,ተፈጥሮ_402
+ኦሮሚያ ክልል,known_for,ሕዝብ_403
+ትግራይ ክልል,associated_with,ቋንቋ_404
+ባህር ዳር,has_feature,ሃይማኖት_405
+መቀሌ,contains,ምግብ_406
+አዋሳ,related_to,በዓል_407
+ኢትዮጵያ,known_for,ሙዚቃ_408
+አዲስ አበባ,associated_with,ስፖርት_409
+አማራ ክልል,has_feature,ባህል_410
+ኦሮሚያ ክልል,contains,ታሪክ_411
+ትግራይ ክልል,related_to,ተፈጥሮ_412
+ባህር ዳር,known_for,ሕዝብ_413
+መቀሌ,associated_with,ቋንቋ_414
+አዋሳ,has_feature,ሃይማኖት_415
+ኢትዮጵያ,contains,ምግብ_416
+አዲስ አበባ,related_to,በዓል_417
+አማራ ክልል,known_for,ሙዚቃ_418
+ኦሮሚያ ክልል,associated_with,ስፖርት_419
+ትግራይ ክልል,has_feature,ባህል_420
+ባህር ዳር,contains,ታሪክ_421
+መቀሌ,related_to,ተፈጥሮ_422
+አዋሳ,known_for,ሕዝብ_423
+ኢትዮጵያ,associated_with,ቋንቋ_424
+አዲስ አበባ,has_feature,ሃይማኖት_425
+አማራ ክልል,contains,ምግብ_426
+ኦሮሚያ ክልል,related_to,በዓል_427
+ትግራይ ክልል,known_for,ሙዚቃ_428
+ባህር ዳር,associated_with,ስፖርት_429
+መቀሌ,has_feature,ባህል_430
+አዋሳ,contains,ታሪክ_431
+ኢትዮጵያ,related_to,ተፈጥሮ_432
+አዲስ አበባ,known_for,ሕዝብ_433
+አማራ ክልል,associated_with,ቋንቋ_434
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_435
+ትግራይ ክልል,contains,ምግብ_436
+ባህር ዳር,related_to,በዓል_437
+መቀሌ,known_for,ሙዚቃ_438
+አዋሳ,associated_with,ስፖርት_439
+ኢትዮጵያ,has_feature,ባህል_440
+አዲስ አበባ,contains,ታሪክ_441
+አማራ ክልል,related_to,ተፈጥሮ_442
+ኦሮሚያ ክልል,known_for,ሕዝብ_443
+ትግራይ ክልል,associated_with,ቋንቋ_444
+ባህር ዳር,has_feature,ሃይማኖት_445
+መቀሌ,contains,ምግብ_446
+አዋሳ,related_to,በዓል_447
+ኢትዮጵያ,known_for,ሙዚቃ_448
+አዲስ አበባ,associated_with,ስፖርት_449
+አማራ ክልል,has_feature,ባህል_450
+ኦሮሚያ ክልል,contains,ታሪክ_451
+ትግራይ ክልል,related_to,ተፈጥሮ_452
+ባህር ዳር,known_for,ሕዝብ_453
+መቀሌ,associated_with,ቋንቋ_454
+አዋሳ,has_feature,ሃይማኖት_455
+ኢትዮጵያ,contains,ምግብ_456
+አዲስ አበባ,related_to,በዓል_457
+አማራ ክልል,known_for,ሙዚቃ_458
+ኦሮሚያ ክልል,associated_with,ስፖርት_459
+ትግራይ ክልል,has_feature,ባህል_460
+ባህር ዳር,contains,ታሪክ_461
+መቀሌ,related_to,ተፈጥሮ_462
+አዋሳ,known_for,ሕዝብ_463
+ኢትዮጵያ,associated_with,ቋንቋ_464
+አዲስ አበባ,has_feature,ሃይማኖት_465
+አማራ ክልል,contains,ምግብ_466
+ኦሮሚያ ክልል,related_to,በዓል_467
+ትግራይ ክልል,known_for,ሙዚቃ_468
+ባህር ዳር,associated_with,ስፖርት_469
+መቀሌ,has_feature,ባህል_470
+አዋሳ,contains,ታሪክ_471
+ኢትዮጵያ,related_to,ተፈጥሮ_472
+አዲስ አበባ,known_for,ሕዝብ_473
+አማራ ክልል,associated_with,ቋንቋ_474
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_475
+ትግራይ ክልል,contains,ምግብ_476
+ባህር ዳር,related_to,በዓል_477
+መቀሌ,known_for,ሙዚቃ_478
+አዋሳ,associated_with,ስፖርት_479
+ኢትዮጵያ,has_feature,ባህል_480
+አዲስ አበባ,contains,ታሪክ_481
+አማራ ክልል,related_to,ተፈጥሮ_482
+ኦሮሚያ ክልል,known_for,ሕዝብ_483
+ትግራይ ክልል,associated_with,ቋንቋ_484
+ባህር ዳር,has_feature,ሃይማኖት_485
+መቀሌ,contains,ምግብ_486
+አዋሳ,related_to,በዓል_487
+ኢትዮጵያ,known_for,ሙዚቃ_488
+አዲስ አበባ,associated_with,ስፖርት_489
+አማራ ክልል,has_feature,ባህል_490
+ኦሮሚያ ክልል,contains,ታሪክ_491
+ትግራይ ክልል,related_to,ተፈጥሮ_492
+ባህር ዳር,known_for,ሕዝብ_493
+መቀሌ,associated_with,ቋንቋ_494
+አዋሳ,has_feature,ሃይማኖት_495
+ኢትዮጵያ,contains,ምግብ_496
+አዲስ አበባ,related_to,በዓል_497
+አማራ ክልል,known_for,ሙዚቃ_498
+ኦሮሚያ ክልል,associated_with,ስፖርት_499
+ትግራይ ክልል,has_feature,ባህል_500
+ባህር ዳር,contains,ታሪክ_501
+መቀሌ,related_to,ተፈጥሮ_502
+አዋሳ,known_for,ሕዝብ_503
+ኢትዮጵያ,associated_with,ቋንቋ_504
+አዲስ አበባ,has_feature,ሃይማኖት_505
+አማራ ክልል,contains,ምግብ_506
+ኦሮሚያ ክልል,related_to,በዓል_507
+ትግራይ ክልል,known_for,ሙዚቃ_508
+ባህር ዳር,associated_with,ስፖርት_509
+መቀሌ,has_feature,ባህል_510
+አዋሳ,contains,ታሪክ_511
+ኢትዮጵያ,related_to,ተፈጥሮ_512
+አዲስ አበባ,known_for,ሕዝብ_513
+አማራ ክልል,associated_with,ቋንቋ_514
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_515
+ትግራይ ክልል,contains,ምግብ_516
+ባህር ዳር,related_to,በዓል_517
+መቀሌ,known_for,ሙዚቃ_518
+አዋሳ,associated_with,ስፖርት_519
+ኢትዮጵያ,has_feature,ባህል_520
+አዲስ አበባ,contains,ታሪክ_521
+አማራ ክልል,related_to,ተፈጥሮ_522
+ኦሮሚያ ክልል,known_for,ሕዝብ_523
+ትግራይ ክልል,associated_with,ቋንቋ_524
+ባህር ዳር,has_feature,ሃይማኖት_525
+መቀሌ,contains,ምግብ_526
+አዋሳ,related_to,በዓል_527
+ኢትዮጵያ,known_for,ሙዚቃ_528
+አዲስ አበባ,associated_with,ስፖርት_529
+አማራ ክልል,has_feature,ባህል_530
+ኦሮሚያ ክልል,contains,ታሪክ_531
+ትግራይ ክልል,related_to,ተፈጥሮ_532
+ባህር ዳር,known_for,ሕዝብ_533
+መቀሌ,associated_with,ቋንቋ_534
+አዋሳ,has_feature,ሃይማኖት_535
+ኢትዮጵያ,contains,ምግብ_536
+አዲስ አበባ,related_to,በዓል_537
+አማራ ክልል,known_for,ሙዚቃ_538
+ኦሮሚያ ክልል,associated_with,ስፖርት_539
+ትግራይ ክልል,has_feature,ባህል_540
+ባህር ዳር,contains,ታሪክ_541
+መቀሌ,related_to,ተፈጥሮ_542
+አዋሳ,known_for,ሕዝብ_543
+ኢትዮጵያ,associated_with,ቋንቋ_544
+አዲስ አበባ,has_feature,ሃይማኖት_545
+አማራ ክልል,contains,ምግብ_546
+ኦሮሚያ ክልል,related_to,በዓል_547
+ትግራይ ክልል,known_for,ሙዚቃ_548
+ባህር ዳር,associated_with,ስፖርት_549
+መቀሌ,has_feature,ባህል_550
+አዋሳ,contains,ታሪክ_551
+ኢትዮጵያ,related_to,ተፈጥሮ_552
+አዲስ አበባ,known_for,ሕዝብ_553
+አማራ ክልል,associated_with,ቋንቋ_554
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_555
+ትግራይ ክልል,contains,ምግብ_556
+ባህር ዳር,related_to,በዓል_557
+መቀሌ,known_for,ሙዚቃ_558
+አዋሳ,associated_with,ስፖርት_559
+ኢትዮጵያ,has_feature,ባህል_560
+አዲስ አበባ,contains,ታሪክ_561
+አማራ ክልል,related_to,ተፈጥሮ_562
+ኦሮሚያ ክልል,known_for,ሕዝብ_563
+ትግራይ ክልል,associated_with,ቋንቋ_564
+ባህር ዳር,has_feature,ሃይማኖት_565
+መቀሌ,contains,ምግብ_566
+አዋሳ,related_to,በዓል_567
+ኢትዮጵያ,known_for,ሙዚቃ_568
+አዲስ አበባ,associated_with,ስፖርት_569
+አማራ ክልል,has_feature,ባህል_570
+ኦሮሚያ ክልል,contains,ታሪክ_571
+ትግራይ ክልል,related_to,ተፈጥሮ_572
+ባህር ዳር,known_for,ሕዝብ_573
+መቀሌ,associated_with,ቋንቋ_574
+አዋሳ,has_feature,ሃይማኖት_575
+ኢትዮጵያ,contains,ምግብ_576
+አዲስ አበባ,related_to,በዓል_577
+አማራ ክልል,known_for,ሙዚቃ_578
+ኦሮሚያ ክልል,associated_with,ስፖርት_579
+ትግራይ ክልል,has_feature,ባህል_580
+ባህር ዳር,contains,ታሪክ_581
+መቀሌ,related_to,ተፈጥሮ_582
+አዋሳ,known_for,ሕዝብ_583
+ኢትዮጵያ,associated_with,ቋንቋ_584
+አዲስ አበባ,has_feature,ሃይማኖት_585
+አማራ ክልል,contains,ምግብ_586
+ኦሮሚያ ክልል,related_to,በዓል_587
+ትግራይ ክልል,known_for,ሙዚቃ_588
+ባህር ዳር,associated_with,ስፖርት_589
+መቀሌ,has_feature,ባህል_590
+አዋሳ,contains,ታሪክ_591
+ኢትዮጵያ,related_to,ተፈጥሮ_592
+አዲስ አበባ,known_for,ሕዝብ_593
+አማራ ክልል,associated_with,ቋንቋ_594
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_595
+ትግራይ ክልል,contains,ምግብ_596
+ባህር ዳር,related_to,በዓል_597
+መቀሌ,known_for,ሙዚቃ_598
+አዋሳ,associated_with,ስፖርት_599
+ኢትዮጵያ,has_feature,ባህል_600
+አዲስ አበባ,contains,ታሪክ_601
+አማራ ክልል,related_to,ተፈጥሮ_602
+ኦሮሚያ ክልል,known_for,ሕዝብ_603
+ትግራይ ክልል,associated_with,ቋንቋ_604
+ባህር ዳር,has_feature,ሃይማኖት_605
+መቀሌ,contains,ምግብ_606
+አዋሳ,related_to,በዓል_607
+ኢትዮጵያ,known_for,ሙዚቃ_608
+አዲስ አበባ,associated_with,ስፖርት_609
+አማራ ክልል,has_feature,ባህል_610
+ኦሮሚያ ክልል,contains,ታሪክ_611
+ትግራይ ክልል,related_to,ተፈጥሮ_612
+ባህር ዳር,known_for,ሕዝብ_613
+መቀሌ,associated_with,ቋንቋ_614
+አዋሳ,has_feature,ሃይማኖት_615
+ኢትዮጵያ,contains,ምግብ_616
+አዲስ አበባ,related_to,በዓል_617
+አማራ ክልል,known_for,ሙዚቃ_618
+ኦሮሚያ ክልል,associated_with,ስፖርት_619
+ትግራይ ክልል,has_feature,ባህል_620
+ባህር ዳር,contains,ታሪክ_621
+መቀሌ,related_to,ተፈጥሮ_622
+አዋሳ,known_for,ሕዝብ_623
+ኢትዮጵያ,associated_with,ቋንቋ_624
+አዲስ አበባ,has_feature,ሃይማኖት_625
+አማራ ክልል,contains,ምግብ_626
+ኦሮሚያ ክልል,related_to,በዓል_627
+ትግራይ ክልል,known_for,ሙዚቃ_628
+ባህር ዳር,associated_with,ስፖርት_629
+መቀሌ,has_feature,ባህል_630
+አዋሳ,contains,ታሪክ_631
+ኢትዮጵያ,related_to,ተፈጥሮ_632
+አዲስ አበባ,known_for,ሕዝብ_633
+አማራ ክልል,associated_with,ቋንቋ_634
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_635
+ትግራይ ክልል,contains,ምግብ_636
+ባህር ዳር,related_to,በዓል_637
+መቀሌ,known_for,ሙዚቃ_638
+አዋሳ,associated_with,ስፖርት_639
+ኢትዮጵያ,has_feature,ባህል_640
+አዲስ አበባ,contains,ታሪክ_641
+አማራ ክልል,related_to,ተፈጥሮ_642
+ኦሮሚያ ክልል,known_for,ሕዝብ_643
+ትግራይ ክልል,associated_with,ቋንቋ_644
+ባህር ዳር,has_feature,ሃይማኖት_645
+መቀሌ,contains,ምግብ_646
+አዋሳ,related_to,በዓል_647
+ኢትዮጵያ,known_for,ሙዚቃ_648
+አዲስ አበባ,associated_with,ስፖርት_649
+አማራ ክልል,has_feature,ባህል_650
+ኦሮሚያ ክልል,contains,ታሪክ_651
+ትግራይ ክልል,related_to,ተፈጥሮ_652
+ባህር ዳር,known_for,ሕዝብ_653
+መቀሌ,associated_with,ቋንቋ_654
+አዋሳ,has_feature,ሃይማኖት_655
+ኢትዮጵያ,contains,ምግብ_656
+አዲስ አበባ,related_to,በዓል_657
+አማራ ክልል,known_for,ሙዚቃ_658
+ኦሮሚያ ክልል,associated_with,ስፖርት_659
+ትግራይ ክልል,has_feature,ባህል_660
+ባህር ዳር,contains,ታሪክ_661
+መቀሌ,related_to,ተፈጥሮ_662
+አዋሳ,known_for,ሕዝብ_663
+ኢትዮጵያ,associated_with,ቋንቋ_664
+አዲስ አበባ,has_feature,ሃይማኖት_665
+አማራ ክልል,contains,ምግብ_666
+ኦሮሚያ ክልል,related_to,በዓል_667
+ትግራይ ክልል,known_for,ሙዚቃ_668
+ባህር ዳር,associated_with,ስፖርት_669
+መቀሌ,has_feature,ባህል_670
+አዋሳ,contains,ታሪክ_671
+ኢትዮጵያ,related_to,ተፈጥሮ_672
+አዲስ አበባ,known_for,ሕዝብ_673
+አማራ ክልል,associated_with,ቋንቋ_674
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_675
+ትግራይ ክልል,contains,ምግብ_676
+ባህር ዳር,related_to,በዓል_677
+መቀሌ,known_for,ሙዚቃ_678
+አዋሳ,associated_with,ስፖርት_679
+ኢትዮጵያ,has_feature,ባህል_680
+አዲስ አበባ,contains,ታሪክ_681
+አማራ ክልል,related_to,ተፈጥሮ_682
+ኦሮሚያ ክልል,known_for,ሕዝብ_683
+ትግራይ ክልል,associated_with,ቋንቋ_684
+ባህር ዳር,has_feature,ሃይማኖት_685
+መቀሌ,contains,ምግብ_686
+አዋሳ,related_to,በዓል_687
+ኢትዮጵያ,known_for,ሙዚቃ_688
+አዲስ አበባ,associated_with,ስፖርት_689
+አማራ ክልል,has_feature,ባህል_690
+ኦሮሚያ ክልል,contains,ታሪክ_691
+ትግራይ ክልል,related_to,ተፈጥሮ_692
+ባህር ዳር,known_for,ሕዝብ_693
+መቀሌ,associated_with,ቋንቋ_694
+አዋሳ,has_feature,ሃይማኖት_695
+ኢትዮጵያ,contains,ምግብ_696
+አዲስ አበባ,related_to,በዓል_697
+አማራ ክልል,known_for,ሙዚቃ_698
+ኦሮሚያ ክልል,associated_with,ስፖርት_699
+ትግራይ ክልል,has_feature,ባህል_700
+ባህር ዳር,contains,ታሪክ_701
+መቀሌ,related_to,ተፈጥሮ_702
+አዋሳ,known_for,ሕዝብ_703
+ኢትዮጵያ,associated_with,ቋንቋ_704
+አዲስ አበባ,has_feature,ሃይማኖት_705
+አማራ ክልል,contains,ምግብ_706
+ኦሮሚያ ክልል,related_to,በዓል_707
+ትግራይ ክልል,known_for,ሙዚቃ_708
+ባህር ዳር,associated_with,ስፖርት_709
+መቀሌ,has_feature,ባህል_710
+አዋሳ,contains,ታሪክ_711
+ኢትዮጵያ,related_to,ተፈጥሮ_712
+አዲስ አበባ,known_for,ሕዝብ_713
+አማራ ክልል,associated_with,ቋንቋ_714
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_715
+ትግራይ ክልል,contains,ምግብ_716
+ባህር ዳር,related_to,በዓል_717
+መቀሌ,known_for,ሙዚቃ_718
+አዋሳ,associated_with,ስፖርት_719
+ኢትዮጵያ,has_feature,ባህል_720
+አዲስ አበባ,contains,ታሪክ_721
+አማራ ክልል,related_to,ተፈጥሮ_722
+ኦሮሚያ ክልል,known_for,ሕዝብ_723
+ትግራይ ክልል,associated_with,ቋንቋ_724
+ባህር ዳር,has_feature,ሃይማኖት_725
+መቀሌ,contains,ምግብ_726
+አዋሳ,related_to,በዓል_727
+ኢትዮጵያ,known_for,ሙዚቃ_728
+አዲስ አበባ,associated_with,ስፖርት_729
+አማራ ክልል,has_feature,ባህል_730
+ኦሮሚያ ክልል,contains,ታሪክ_731
+ትግራይ ክልል,related_to,ተፈጥሮ_732
+ባህር ዳር,known_for,ሕዝብ_733
+መቀሌ,associated_with,ቋንቋ_734
+አዋሳ,has_feature,ሃይማኖት_735
+ኢትዮጵያ,contains,ምግብ_736
+አዲስ አበባ,related_to,በዓል_737
+አማራ ክልል,known_for,ሙዚቃ_738
+ኦሮሚያ ክልል,associated_with,ስፖርት_739
+ትግራይ ክልል,has_feature,ባህል_740
+ባህር ዳር,contains,ታሪክ_741
+መቀሌ,related_to,ተፈጥሮ_742
+አዋሳ,known_for,ሕዝብ_743
+ኢትዮጵያ,associated_with,ቋንቋ_744
+አዲስ አበባ,has_feature,ሃይማኖት_745
+አማራ ክልል,contains,ምግብ_746
+ኦሮሚያ ክልል,related_to,በዓል_747
+ትግራይ ክልል,known_for,ሙዚቃ_748
+ባህር ዳር,associated_with,ስፖርት_749
+መቀሌ,has_feature,ባህል_750
+አዋሳ,contains,ታሪክ_751
+ኢትዮጵያ,related_to,ተፈጥሮ_752
+አዲስ አበባ,known_for,ሕዝብ_753
+አማራ ክልል,associated_with,ቋንቋ_754
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_755
+ትግራይ ክልል,contains,ምግብ_756
+ባህር ዳር,related_to,በዓል_757
+መቀሌ,known_for,ሙዚቃ_758
+አዋሳ,associated_with,ስፖርት_759
+ኢትዮጵያ,has_feature,ባህል_760
+አዲስ አበባ,contains,ታሪክ_761
+አማራ ክልል,related_to,ተፈጥሮ_762
+ኦሮሚያ ክልል,known_for,ሕዝብ_763
+ትግራይ ክልል,associated_with,ቋንቋ_764
+ባህር ዳር,has_feature,ሃይማኖት_765
+መቀሌ,contains,ምግብ_766
+አዋሳ,related_to,በዓል_767
+ኢትዮጵያ,known_for,ሙዚቃ_768
+አዲስ አበባ,associated_with,ስፖርት_769
+አማራ ክልል,has_feature,ባህል_770
+ኦሮሚያ ክልል,contains,ታሪክ_771
+ትግራይ ክልል,related_to,ተፈጥሮ_772
+ባህር ዳር,known_for,ሕዝብ_773
+መቀሌ,associated_with,ቋንቋ_774
+አዋሳ,has_feature,ሃይማኖት_775
+ኢትዮጵያ,contains,ምግብ_776
+አዲስ አበባ,related_to,በዓል_777
+አማራ ክልል,known_for,ሙዚቃ_778
+ኦሮሚያ ክልል,associated_with,ስፖርት_779
+ትግራይ ክልል,has_feature,ባህል_780
+ባህር ዳር,contains,ታሪክ_781
+መቀሌ,related_to,ተፈጥሮ_782
+አዋሳ,known_for,ሕዝብ_783
+ኢትዮጵያ,associated_with,ቋንቋ_784
+አዲስ አበባ,has_feature,ሃይማኖት_785
+አማራ ክልል,contains,ምግብ_786
+ኦሮሚያ ክልል,related_to,በዓል_787
+ትግራይ ክልል,known_for,ሙዚቃ_788
+ባህር ዳር,associated_with,ስፖርት_789
+መቀሌ,has_feature,ባህል_790
+አዋሳ,contains,ታሪክ_791
+ኢትዮጵያ,related_to,ተፈጥሮ_792
+አዲስ አበባ,known_for,ሕዝብ_793
+አማራ ክልል,associated_with,ቋንቋ_794
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_795
+ትግራይ ክልል,contains,ምግብ_796
+ባህር ዳር,related_to,በዓል_797
+መቀሌ,known_for,ሙዚቃ_798
+አዋሳ,associated_with,ስፖርት_799
+ኢትዮጵያ,has_feature,ባህል_800
+አዲስ አበባ,contains,ታሪክ_801
+አማራ ክልል,related_to,ተፈጥሮ_802
+ኦሮሚያ ክልል,known_for,ሕዝብ_803
+ትግራይ ክልል,associated_with,ቋንቋ_804
+ባህር ዳር,has_feature,ሃይማኖት_805
+መቀሌ,contains,ምግብ_806
+አዋሳ,related_to,በዓል_807
+ኢትዮጵያ,known_for,ሙዚቃ_808
+አዲስ አበባ,associated_with,ስፖርት_809
+አማራ ክልል,has_feature,ባህል_810
+ኦሮሚያ ክልል,contains,ታሪክ_811
+ትግራይ ክልል,related_to,ተፈጥሮ_812
+ባህር ዳር,known_for,ሕዝብ_813
+መቀሌ,associated_with,ቋንቋ_814
+አዋሳ,has_feature,ሃይማኖት_815
+ኢትዮጵያ,contains,ምግብ_816
+አዲስ አበባ,related_to,በዓል_817
+አማራ ክልል,known_for,ሙዚቃ_818
+ኦሮሚያ ክልል,associated_with,ስፖርት_819
+ትግራይ ክልል,has_feature,ባህል_820
+ባህር ዳር,contains,ታሪክ_821
+መቀሌ,related_to,ተፈጥሮ_822
+አዋሳ,known_for,ሕዝብ_823
+ኢትዮጵያ,associated_with,ቋንቋ_824
+አዲስ አበባ,has_feature,ሃይማኖት_825
+አማራ ክልል,contains,ምግብ_826
+ኦሮሚያ ክልል,related_to,በዓል_827
+ትግራይ ክልል,known_for,ሙዚቃ_828
+ባህር ዳር,associated_with,ስፖርት_829
+መቀሌ,has_feature,ባህል_830
+አዋሳ,contains,ታሪክ_831
+ኢትዮጵያ,related_to,ተፈጥሮ_832
+አዲስ አበባ,known_for,ሕዝብ_833
+አማራ ክልል,associated_with,ቋንቋ_834
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_835
+ትግራይ ክልል,contains,ምግብ_836
+ባህር ዳር,related_to,በዓል_837
+መቀሌ,known_for,ሙዚቃ_838
+አዋሳ,associated_with,ስፖርት_839
+ኢትዮጵያ,has_feature,ባህል_840
+አዲስ አበባ,contains,ታሪክ_841
+አማራ ክልል,related_to,ተፈጥሮ_842
+ኦሮሚያ ክልል,known_for,ሕዝብ_843
+ትግራይ ክልል,associated_with,ቋንቋ_844
+ባህር ዳር,has_feature,ሃይማኖት_845
+መቀሌ,contains,ምግብ_846
+አዋሳ,related_to,በዓል_847
+ኢትዮጵያ,known_for,ሙዚቃ_848
+አዲስ አበባ,associated_with,ስፖርት_849
+አማራ ክልል,has_feature,ባህል_850
+ኦሮሚያ ክልል,contains,ታሪክ_851
+ትግራይ ክልል,related_to,ተፈጥሮ_852
+ባህር ዳር,known_for,ሕዝብ_853
+መቀሌ,associated_with,ቋንቋ_854
+አዋሳ,has_feature,ሃይማኖት_855
+ኢትዮጵያ,contains,ምግብ_856
+አዲስ አበባ,related_to,በዓል_857
+አማራ ክልል,known_for,ሙዚቃ_858
+ኦሮሚያ ክልል,associated_with,ስፖርት_859
+ትግራይ ክልል,has_feature,ባህል_860
+ባህር ዳር,contains,ታሪክ_861
+መቀሌ,related_to,ተፈጥሮ_862
+አዋሳ,known_for,ሕዝብ_863
+ኢትዮጵያ,associated_with,ቋንቋ_864
+አዲስ አበባ,has_feature,ሃይማኖት_865
+አማራ ክልል,contains,ምግብ_866
+ኦሮሚያ ክልል,related_to,በዓል_867
+ትግራይ ክልል,known_for,ሙዚቃ_868
+ባህር ዳር,associated_with,ስፖርት_869
+መቀሌ,has_feature,ባህል_870
+አዋሳ,contains,ታሪክ_871
+ኢትዮጵያ,related_to,ተፈጥሮ_872
+አዲስ አበባ,known_for,ሕዝብ_873
+አማራ ክልል,associated_with,ቋንቋ_874
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_875
+ትግራይ ክልል,contains,ምግብ_876
+ባህር ዳር,related_to,በዓል_877
+መቀሌ,known_for,ሙዚቃ_878
+አዋሳ,associated_with,ስፖርት_879
+ኢትዮጵያ,has_feature,ባህል_880
+አዲስ አበባ,contains,ታሪክ_881
+አማራ ክልል,related_to,ተፈጥሮ_882
+ኦሮሚያ ክልል,known_for,ሕዝብ_883
+ትግራይ ክልል,associated_with,ቋንቋ_884
+ባህር ዳር,has_feature,ሃይማኖት_885
+መቀሌ,contains,ምግብ_886
+አዋሳ,related_to,በዓል_887
+ኢትዮጵያ,known_for,ሙዚቃ_888
+አዲስ አበባ,associated_with,ስፖርት_889
+አማራ ክልል,has_feature,ባህል_890
+ኦሮሚያ ክልል,contains,ታሪክ_891
+ትግራይ ክልል,related_to,ተፈጥሮ_892
+ባህር ዳር,known_for,ሕዝብ_893
+መቀሌ,associated_with,ቋንቋ_894
+አዋሳ,has_feature,ሃይማኖት_895
+ኢትዮጵያ,contains,ምግብ_896
+አዲስ አበባ,related_to,በዓል_897
+አማራ ክልል,known_for,ሙዚቃ_898
+ኦሮሚያ ክልል,associated_with,ስፖርት_899
+ትግራይ ክልል,has_feature,ባህል_900
+ባህር ዳር,contains,ታሪክ_901
+መቀሌ,related_to,ተፈጥሮ_902
+አዋሳ,known_for,ሕዝብ_903
+ኢትዮጵያ,associated_with,ቋንቋ_904
+አዲስ አበባ,has_feature,ሃይማኖት_905
+አማራ ክልል,contains,ምግብ_906
+ኦሮሚያ ክልል,related_to,በዓል_907
+ትግራይ ክልል,known_for,ሙዚቃ_908
+ባህር ዳር,associated_with,ስፖርት_909
+መቀሌ,has_feature,ባህል_910
+አዋሳ,contains,ታሪክ_911
+ኢትዮጵያ,related_to,ተፈጥሮ_912
+አዲስ አበባ,known_for,ሕዝብ_913
+አማራ ክልል,associated_with,ቋንቋ_914
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_915
+ትግራይ ክልል,contains,ምግብ_916
+ባህር ዳር,related_to,በዓል_917
+መቀሌ,known_for,ሙዚቃ_918
+አዋሳ,associated_with,ስፖርት_919
+ኢትዮጵያ,has_feature,ባህል_920
+አዲስ አበባ,contains,ታሪክ_921
+አማራ ክልል,related_to,ተፈጥሮ_922
+ኦሮሚያ ክልል,known_for,ሕዝብ_923
+ትግራይ ክልል,associated_with,ቋንቋ_924
+ባህር ዳር,has_feature,ሃይማኖት_925
+መቀሌ,contains,ምግብ_926
+አዋሳ,related_to,በዓል_927
+ኢትዮጵያ,known_for,ሙዚቃ_928
+አዲስ አበባ,associated_with,ስፖርት_929
+አማራ ክልል,has_feature,ባህል_930
+ኦሮሚያ ክልል,contains,ታሪክ_931
+ትግራይ ክልል,related_to,ተፈጥሮ_932
+ባህር ዳር,known_for,ሕዝብ_933
+መቀሌ,associated_with,ቋንቋ_934
+አዋሳ,has_feature,ሃይማኖት_935
+ኢትዮጵያ,contains,ምግብ_936
+አዲስ አበባ,related_to,በዓል_937
+አማራ ክልል,known_for,ሙዚቃ_938
+ኦሮሚያ ክልል,associated_with,ስፖርት_939
+ትግራይ ክልል,has_feature,ባህል_940
+ባህር ዳር,contains,ታሪክ_941
+መቀሌ,related_to,ተፈጥሮ_942
+አዋሳ,known_for,ሕዝብ_943
+ኢትዮጵያ,associated_with,ቋንቋ_944
+አዲስ አበባ,has_feature,ሃይማኖት_945
+አማራ ክልል,contains,ምግብ_946
+ኦሮሚያ ክልል,related_to,በዓል_947
+ትግራይ ክልል,known_for,ሙዚቃ_948
+ባህር ዳር,associated_with,ስፖርት_949
+መቀሌ,has_feature,ባህል_950
+አዋሳ,contains,ታሪክ_951
+ኢትዮጵያ,related_to,ተፈጥሮ_952
+አዲስ አበባ,known_for,ሕዝብ_953
+አማራ ክልል,associated_with,ቋንቋ_954
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_955
+ትግራይ ክልል,contains,ምግብ_956
+ባህር ዳር,related_to,በዓል_957
+መቀሌ,known_for,ሙዚቃ_958
+አዋሳ,associated_with,ስፖርት_959
+ኢትዮጵያ,has_feature,ባህል_960
+አዲስ አበባ,contains,ታሪክ_961
+አማራ ክልል,related_to,ተፈጥሮ_962
+ኦሮሚያ ክልል,known_for,ሕዝብ_963
+ትግራይ ክልል,associated_with,ቋንቋ_964
+ባህር ዳር,has_feature,ሃይማኖት_965
+መቀሌ,contains,ምግብ_966
+አዋሳ,related_to,በዓል_967
+ኢትዮጵያ,known_for,ሙዚቃ_968
+አዲስ አበባ,associated_with,ስፖርት_969
+አማራ ክልል,has_feature,ባህል_970
+ኦሮሚያ ክልል,contains,ታሪክ_971
+ትግራይ ክልል,related_to,ተፈጥሮ_972
+ባህር ዳር,known_for,ሕዝብ_973
+መቀሌ,associated_with,ቋንቋ_974
+አዋሳ,has_feature,ሃይማኖት_975
+ኢትዮጵያ,contains,ምግብ_976
+አዲስ አበባ,related_to,በዓል_977
+አማራ ክልል,known_for,ሙዚቃ_978
+ኦሮሚያ ክልል,associated_with,ስፖርት_979
+ትግራይ ክልል,has_feature,ባህል_980
+ባህር ዳር,contains,ታሪክ_981
+መቀሌ,related_to,ተፈጥሮ_982
+አዋሳ,known_for,ሕዝብ_983
+ኢትዮጵያ,associated_with,ቋንቋ_984
+አዲስ አበባ,has_feature,ሃይማኖት_985
+አማራ ክልል,contains,ምግብ_986
+ኦሮሚያ ክልል,related_to,በዓል_987
+ትግራይ ክልል,known_for,ሙዚቃ_988
+ባህር ዳር,associated_with,ስፖርት_989
+መቀሌ,has_feature,ባህል_990
+አዋሳ,contains,ታሪክ_991
+ኢትዮጵያ,related_to,ተፈጥሮ_992
+አዲስ አበባ,known_for,ሕዝብ_993
+አማራ ክልል,associated_with,ቋንቋ_994
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_995
+ትግራይ ክልል,contains,ምግብ_996
+ባህር ዳር,related_to,በዓል_997
+መቀሌ,known_for,ሙዚቃ_998
+አዋሳ,associated_with,ስፖርት_999
+ኢትዮጵያ,has_feature,ባህል_1000
+አዲስ አበባ,contains,ታሪክ_1001
+አማራ ክልል,related_to,ተፈጥሮ_1002
+ኦሮሚያ ክልል,known_for,ሕዝብ_1003
+ትግራይ ክልል,associated_with,ቋንቋ_1004
+ባህር ዳር,has_feature,ሃይማኖት_1005
+መቀሌ,contains,ምግብ_1006
+አዋሳ,related_to,በዓል_1007
+ኢትዮጵያ,known_for,ሙዚቃ_1008
+አዲስ አበባ,associated_with,ስፖርት_1009
+አማራ ክልል,has_feature,ባህል_1010
+ኦሮሚያ ክልል,contains,ታሪክ_1011
+ትግራይ ክልል,related_to,ተፈጥሮ_1012
+ባህር ዳር,known_for,ሕዝብ_1013
+መቀሌ,associated_with,ቋንቋ_1014
+አዋሳ,has_feature,ሃይማኖት_1015
+ኢትዮጵያ,contains,ምግብ_1016
+አዲስ አበባ,related_to,በዓል_1017
+አማራ ክልል,known_for,ሙዚቃ_1018
+ኦሮሚያ ክልል,associated_with,ስፖርት_1019
+ትግራይ ክልል,has_feature,ባህል_1020
+ባህር ዳር,contains,ታሪክ_1021
+መቀሌ,related_to,ተፈጥሮ_1022
+አዋሳ,known_for,ሕዝብ_1023
+ኢትዮጵያ,associated_with,ቋንቋ_1024
+አዲስ አበባ,has_feature,ሃይማኖት_1025
+አማራ ክልል,contains,ምግብ_1026
+ኦሮሚያ ክልል,related_to,በዓል_1027
+ትግራይ ክልል,known_for,ሙዚቃ_1028
+ባህር ዳር,associated_with,ስፖርት_1029
+መቀሌ,has_feature,ባህል_1030
+አዋሳ,contains,ታሪክ_1031
+ኢትዮጵያ,related_to,ተፈጥሮ_1032
+አዲስ አበባ,known_for,ሕዝብ_1033
+አማራ ክልል,associated_with,ቋንቋ_1034
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1035
+ትግራይ ክልል,contains,ምግብ_1036
+ባህር ዳር,related_to,በዓል_1037
+መቀሌ,known_for,ሙዚቃ_1038
+አዋሳ,associated_with,ስፖርት_1039
+ኢትዮጵያ,has_feature,ባህል_1040
+አዲስ አበባ,contains,ታሪክ_1041
+አማራ ክልል,related_to,ተፈጥሮ_1042
+ኦሮሚያ ክልል,known_for,ሕዝብ_1043
+ትግራይ ክልል,associated_with,ቋንቋ_1044
+ባህር ዳር,has_feature,ሃይማኖት_1045
+መቀሌ,contains,ምግብ_1046
+አዋሳ,related_to,በዓል_1047
+ኢትዮጵያ,known_for,ሙዚቃ_1048
+አዲስ አበባ,associated_with,ስፖርት_1049
+አማራ ክልል,has_feature,ባህል_1050
+ኦሮሚያ ክልል,contains,ታሪክ_1051
+ትግራይ ክልል,related_to,ተፈጥሮ_1052
+ባህር ዳር,known_for,ሕዝብ_1053
+መቀሌ,associated_with,ቋንቋ_1054
+አዋሳ,has_feature,ሃይማኖት_1055
+ኢትዮጵያ,contains,ምግብ_1056
+አዲስ አበባ,related_to,በዓል_1057
+አማራ ክልል,known_for,ሙዚቃ_1058
+ኦሮሚያ ክልል,associated_with,ስፖርት_1059
+ትግራይ ክልል,has_feature,ባህል_1060
+ባህር ዳር,contains,ታሪክ_1061
+መቀሌ,related_to,ተፈጥሮ_1062
+አዋሳ,known_for,ሕዝብ_1063
+ኢትዮጵያ,associated_with,ቋንቋ_1064
+አዲስ አበባ,has_feature,ሃይማኖት_1065
+አማራ ክልል,contains,ምግብ_1066
+ኦሮሚያ ክልል,related_to,በዓል_1067
+ትግራይ ክልል,known_for,ሙዚቃ_1068
+ባህር ዳር,associated_with,ስፖርት_1069
+መቀሌ,has_feature,ባህል_1070
+አዋሳ,contains,ታሪክ_1071
+ኢትዮጵያ,related_to,ተፈጥሮ_1072
+አዲስ አበባ,known_for,ሕዝብ_1073
+አማራ ክልል,associated_with,ቋንቋ_1074
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1075
+ትግራይ ክልል,contains,ምግብ_1076
+ባህር ዳር,related_to,በዓል_1077
+መቀሌ,known_for,ሙዚቃ_1078
+አዋሳ,associated_with,ስፖርት_1079
+ኢትዮጵያ,has_feature,ባህል_1080
+አዲስ አበባ,contains,ታሪክ_1081
+አማራ ክልል,related_to,ተፈጥሮ_1082
+ኦሮሚያ ክልል,known_for,ሕዝብ_1083
+ትግራይ ክልል,associated_with,ቋንቋ_1084
+ባህር ዳር,has_feature,ሃይማኖት_1085
+መቀሌ,contains,ምግብ_1086
+አዋሳ,related_to,በዓል_1087
+ኢትዮጵያ,known_for,ሙዚቃ_1088
+አዲስ አበባ,associated_with,ስፖርት_1089
+አማራ ክልል,has_feature,ባህል_1090
+ኦሮሚያ ክልል,contains,ታሪክ_1091
+ትግራይ ክልል,related_to,ተፈጥሮ_1092
+ባህር ዳር,known_for,ሕዝብ_1093
+መቀሌ,associated_with,ቋንቋ_1094
+አዋሳ,has_feature,ሃይማኖት_1095
+ኢትዮጵያ,contains,ምግብ_1096
+አዲስ አበባ,related_to,በዓል_1097
+አማራ ክልል,known_for,ሙዚቃ_1098
+ኦሮሚያ ክልል,associated_with,ስፖርት_1099
+ትግራይ ክልል,has_feature,ባህል_1100
+ባህር ዳር,contains,ታሪክ_1101
+መቀሌ,related_to,ተፈጥሮ_1102
+አዋሳ,known_for,ሕዝብ_1103
+ኢትዮጵያ,associated_with,ቋንቋ_1104
+አዲስ አበባ,has_feature,ሃይማኖት_1105
+አማራ ክልል,contains,ምግብ_1106
+ኦሮሚያ ክልል,related_to,በዓል_1107
+ትግራይ ክልል,known_for,ሙዚቃ_1108
+ባህር ዳር,associated_with,ስፖርት_1109
+መቀሌ,has_feature,ባህል_1110
+አዋሳ,contains,ታሪክ_1111
+ኢትዮጵያ,related_to,ተፈጥሮ_1112
+አዲስ አበባ,known_for,ሕዝብ_1113
+አማራ ክልል,associated_with,ቋንቋ_1114
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1115
+ትግራይ ክልል,contains,ምግብ_1116
+ባህር ዳር,related_to,በዓል_1117
+መቀሌ,known_for,ሙዚቃ_1118
+አዋሳ,associated_with,ስፖርት_1119
+ኢትዮጵያ,has_feature,ባህል_1120
+አዲስ አበባ,contains,ታሪክ_1121
+አማራ ክልል,related_to,ተፈጥሮ_1122
+ኦሮሚያ ክልል,known_for,ሕዝብ_1123
+ትግራይ ክልል,associated_with,ቋንቋ_1124
+ባህር ዳር,has_feature,ሃይማኖት_1125
+መቀሌ,contains,ምግብ_1126
+አዋሳ,related_to,በዓል_1127
+ኢትዮጵያ,known_for,ሙዚቃ_1128
+አዲስ አበባ,associated_with,ስፖርት_1129
+አማራ ክልል,has_feature,ባህል_1130
+ኦሮሚያ ክልል,contains,ታሪክ_1131
+ትግራይ ክልል,related_to,ተፈጥሮ_1132
+ባህር ዳር,known_for,ሕዝብ_1133
+መቀሌ,associated_with,ቋንቋ_1134
+አዋሳ,has_feature,ሃይማኖት_1135
+ኢትዮጵያ,contains,ምግብ_1136
+አዲስ አበባ,related_to,በዓል_1137
+አማራ ክልል,known_for,ሙዚቃ_1138
+ኦሮሚያ ክልል,associated_with,ስፖርት_1139
+ትግራይ ክልል,has_feature,ባህል_1140
+ባህር ዳር,contains,ታሪክ_1141
+መቀሌ,related_to,ተፈጥሮ_1142
+አዋሳ,known_for,ሕዝብ_1143
+ኢትዮጵያ,associated_with,ቋንቋ_1144
+አዲስ አበባ,has_feature,ሃይማኖት_1145
+አማራ ክልል,contains,ምግብ_1146
+ኦሮሚያ ክልል,related_to,በዓል_1147
+ትግራይ ክልል,known_for,ሙዚቃ_1148
+ባህር ዳር,associated_with,ስፖርት_1149
+መቀሌ,has_feature,ባህል_1150
+አዋሳ,contains,ታሪክ_1151
+ኢትዮጵያ,related_to,ተፈጥሮ_1152
+አዲስ አበባ,known_for,ሕዝብ_1153
+አማራ ክልል,associated_with,ቋንቋ_1154
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1155
+ትግራይ ክልል,contains,ምግብ_1156
+ባህር ዳር,related_to,በዓል_1157
+መቀሌ,known_for,ሙዚቃ_1158
+አዋሳ,associated_with,ስፖርት_1159
+ኢትዮጵያ,has_feature,ባህል_1160
+አዲስ አበባ,contains,ታሪክ_1161
+አማራ ክልል,related_to,ተፈጥሮ_1162
+ኦሮሚያ ክልል,known_for,ሕዝብ_1163
+ትግራይ ክልል,associated_with,ቋንቋ_1164
+ባህር ዳር,has_feature,ሃይማኖት_1165
+መቀሌ,contains,ምግብ_1166
+አዋሳ,related_to,በዓል_1167
+ኢትዮጵያ,known_for,ሙዚቃ_1168
+አዲስ አበባ,associated_with,ስፖርት_1169
+አማራ ክልል,has_feature,ባህል_1170
+ኦሮሚያ ክልል,contains,ታሪክ_1171
+ትግራይ ክልል,related_to,ተፈጥሮ_1172
+ባህር ዳር,known_for,ሕዝብ_1173
+መቀሌ,associated_with,ቋንቋ_1174
+አዋሳ,has_feature,ሃይማኖት_1175
+ኢትዮጵያ,contains,ምግብ_1176
+አዲስ አበባ,related_to,በዓል_1177
+አማራ ክልል,known_for,ሙዚቃ_1178
+ኦሮሚያ ክልል,associated_with,ስፖርት_1179
+ትግራይ ክልል,has_feature,ባህል_1180
+ባህር ዳር,contains,ታሪክ_1181
+መቀሌ,related_to,ተፈጥሮ_1182
+አዋሳ,known_for,ሕዝብ_1183
+ኢትዮጵያ,associated_with,ቋንቋ_1184
+አዲስ አበባ,has_feature,ሃይማኖት_1185
+አማራ ክልል,contains,ምግብ_1186
+ኦሮሚያ ክልል,related_to,በዓል_1187
+ትግራይ ክልል,known_for,ሙዚቃ_1188
+ባህር ዳር,associated_with,ስፖርት_1189
+መቀሌ,has_feature,ባህል_1190
+አዋሳ,contains,ታሪክ_1191
+ኢትዮጵያ,related_to,ተፈጥሮ_1192
+አዲስ አበባ,known_for,ሕዝብ_1193
+አማራ ክልል,associated_with,ቋንቋ_1194
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1195
+ትግራይ ክልል,contains,ምግብ_1196
+ባህር ዳር,related_to,በዓል_1197
+መቀሌ,known_for,ሙዚቃ_1198
+አዋሳ,associated_with,ስፖርት_1199
+ኢትዮጵያ,has_feature,ባህል_1200
+አዲስ አበባ,contains,ታሪክ_1201
+አማራ ክልል,related_to,ተፈጥሮ_1202
+ኦሮሚያ ክልል,known_for,ሕዝብ_1203
+ትግራይ ክልል,associated_with,ቋንቋ_1204
+ባህር ዳር,has_feature,ሃይማኖት_1205
+መቀሌ,contains,ምግብ_1206
+አዋሳ,related_to,በዓል_1207
+ኢትዮጵያ,known_for,ሙዚቃ_1208
+አዲስ አበባ,associated_with,ስፖርት_1209
+አማራ ክልል,has_feature,ባህል_1210
+ኦሮሚያ ክልል,contains,ታሪክ_1211
+ትግራይ ክልል,related_to,ተፈጥሮ_1212
+ባህር ዳር,known_for,ሕዝብ_1213
+መቀሌ,associated_with,ቋንቋ_1214
+አዋሳ,has_feature,ሃይማኖት_1215
+ኢትዮጵያ,contains,ምግብ_1216
+አዲስ አበባ,related_to,በዓል_1217
+አማራ ክልል,known_for,ሙዚቃ_1218
+ኦሮሚያ ክልል,associated_with,ስፖርት_1219
+ትግራይ ክልል,has_feature,ባህል_1220
+ባህር ዳር,contains,ታሪክ_1221
+መቀሌ,related_to,ተፈጥሮ_1222
+አዋሳ,known_for,ሕዝብ_1223
+ኢትዮጵያ,associated_with,ቋንቋ_1224
+አዲስ አበባ,has_feature,ሃይማኖት_1225
+አማራ ክልል,contains,ምግብ_1226
+ኦሮሚያ ክልል,related_to,በዓል_1227
+ትግራይ ክልል,known_for,ሙዚቃ_1228
+ባህር ዳር,associated_with,ስፖርት_1229
+መቀሌ,has_feature,ባህል_1230
+አዋሳ,contains,ታሪክ_1231
+ኢትዮጵያ,related_to,ተፈጥሮ_1232
+አዲስ አበባ,known_for,ሕዝብ_1233
+አማራ ክልል,associated_with,ቋንቋ_1234
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1235
+ትግራይ ክልል,contains,ምግብ_1236
+ባህር ዳር,related_to,በዓል_1237
+መቀሌ,known_for,ሙዚቃ_1238
+አዋሳ,associated_with,ስፖርት_1239
+ኢትዮጵያ,has_feature,ባህል_1240
+አዲስ አበባ,contains,ታሪክ_1241
+አማራ ክልል,related_to,ተፈጥሮ_1242
+ኦሮሚያ ክልል,known_for,ሕዝብ_1243
+ትግራይ ክልል,associated_with,ቋንቋ_1244
+ባህር ዳር,has_feature,ሃይማኖት_1245
+መቀሌ,contains,ምግብ_1246
+አዋሳ,related_to,በዓል_1247
+ኢትዮጵያ,known_for,ሙዚቃ_1248
+አዲስ አበባ,associated_with,ስፖርት_1249
+አማራ ክልል,has_feature,ባህል_1250
+ኦሮሚያ ክልል,contains,ታሪክ_1251
+ትግራይ ክልል,related_to,ተፈጥሮ_1252
+ባህር ዳር,known_for,ሕዝብ_1253
+መቀሌ,associated_with,ቋንቋ_1254
+አዋሳ,has_feature,ሃይማኖት_1255
+ኢትዮጵያ,contains,ምግብ_1256
+አዲስ አበባ,related_to,በዓል_1257
+አማራ ክልል,known_for,ሙዚቃ_1258
+ኦሮሚያ ክልል,associated_with,ስፖርት_1259
+ትግራይ ክልል,has_feature,ባህል_1260
+ባህር ዳር,contains,ታሪክ_1261
+መቀሌ,related_to,ተፈጥሮ_1262
+አዋሳ,known_for,ሕዝብ_1263
+ኢትዮጵያ,associated_with,ቋንቋ_1264
+አዲስ አበባ,has_feature,ሃይማኖት_1265
+አማራ ክልል,contains,ምግብ_1266
+ኦሮሚያ ክልል,related_to,በዓል_1267
+ትግራይ ክልል,known_for,ሙዚቃ_1268
+ባህር ዳር,associated_with,ስፖርት_1269
+መቀሌ,has_feature,ባህል_1270
+አዋሳ,contains,ታሪክ_1271
+ኢትዮጵያ,related_to,ተፈጥሮ_1272
+አዲስ አበባ,known_for,ሕዝብ_1273
+አማራ ክልል,associated_with,ቋንቋ_1274
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1275
+ትግራይ ክልል,contains,ምግብ_1276
+ባህር ዳር,related_to,በዓል_1277
+መቀሌ,known_for,ሙዚቃ_1278
+አዋሳ,associated_with,ስፖርት_1279
+ኢትዮጵያ,has_feature,ባህል_1280
+አዲስ አበባ,contains,ታሪክ_1281
+አማራ ክልል,related_to,ተፈጥሮ_1282
+ኦሮሚያ ክልል,known_for,ሕዝብ_1283
+ትግራይ ክልል,associated_with,ቋንቋ_1284
+ባህር ዳር,has_feature,ሃይማኖት_1285
+መቀሌ,contains,ምግብ_1286
+አዋሳ,related_to,በዓል_1287
+ኢትዮጵያ,known_for,ሙዚቃ_1288
+አዲስ አበባ,associated_with,ስፖርት_1289
+አማራ ክልል,has_feature,ባህል_1290
+ኦሮሚያ ክልል,contains,ታሪክ_1291
+ትግራይ ክልል,related_to,ተፈጥሮ_1292
+ባህር ዳር,known_for,ሕዝብ_1293
+መቀሌ,associated_with,ቋንቋ_1294
+አዋሳ,has_feature,ሃይማኖት_1295
+ኢትዮጵያ,contains,ምግብ_1296
+አዲስ አበባ,related_to,በዓል_1297
+አማራ ክልል,known_for,ሙዚቃ_1298
+ኦሮሚያ ክልል,associated_with,ስፖርት_1299
+ትግራይ ክልል,has_feature,ባህል_1300
+ባህር ዳር,contains,ታሪክ_1301
+መቀሌ,related_to,ተፈጥሮ_1302
+አዋሳ,known_for,ሕዝብ_1303
+ኢትዮጵያ,associated_with,ቋንቋ_1304
+አዲስ አበባ,has_feature,ሃይማኖት_1305
+አማራ ክልል,contains,ምግብ_1306
+ኦሮሚያ ክልል,related_to,በዓል_1307
+ትግራይ ክልል,known_for,ሙዚቃ_1308
+ባህር ዳር,associated_with,ስፖርት_1309
+መቀሌ,has_feature,ባህል_1310
+አዋሳ,contains,ታሪክ_1311
+ኢትዮጵያ,related_to,ተፈጥሮ_1312
+አዲስ አበባ,known_for,ሕዝብ_1313
+አማራ ክልል,associated_with,ቋንቋ_1314
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1315
+ትግራይ ክልል,contains,ምግብ_1316
+ባህር ዳር,related_to,በዓል_1317
+መቀሌ,known_for,ሙዚቃ_1318
+አዋሳ,associated_with,ስፖርት_1319
+ኢትዮጵያ,has_feature,ባህል_1320
+አዲስ አበባ,contains,ታሪክ_1321
+አማራ ክልል,related_to,ተፈጥሮ_1322
+ኦሮሚያ ክልል,known_for,ሕዝብ_1323
+ትግራይ ክልል,associated_with,ቋንቋ_1324
+ባህር ዳር,has_feature,ሃይማኖት_1325
+መቀሌ,contains,ምግብ_1326
+አዋሳ,related_to,በዓል_1327
+ኢትዮጵያ,known_for,ሙዚቃ_1328
+አዲስ አበባ,associated_with,ስፖርት_1329
+አማራ ክልል,has_feature,ባህል_1330
+ኦሮሚያ ክልል,contains,ታሪክ_1331
+ትግራይ ክልል,related_to,ተፈጥሮ_1332
+ባህር ዳር,known_for,ሕዝብ_1333
+መቀሌ,associated_with,ቋንቋ_1334
+አዋሳ,has_feature,ሃይማኖት_1335
+ኢትዮጵያ,contains,ምግብ_1336
+አዲስ አበባ,related_to,በዓል_1337
+አማራ ክልል,known_for,ሙዚቃ_1338
+ኦሮሚያ ክልል,associated_with,ስፖርት_1339
+ትግራይ ክልል,has_feature,ባህል_1340
+ባህር ዳር,contains,ታሪክ_1341
+መቀሌ,related_to,ተፈጥሮ_1342
+አዋሳ,known_for,ሕዝብ_1343
+ኢትዮጵያ,associated_with,ቋንቋ_1344
+አዲስ አበባ,has_feature,ሃይማኖት_1345
+አማራ ክልል,contains,ምግብ_1346
+ኦሮሚያ ክልል,related_to,በዓል_1347
+ትግራይ ክልል,known_for,ሙዚቃ_1348
+ባህር ዳር,associated_with,ስፖርት_1349
+መቀሌ,has_feature,ባህል_1350
+አዋሳ,contains,ታሪክ_1351
+ኢትዮጵያ,related_to,ተፈጥሮ_1352
+አዲስ አበባ,known_for,ሕዝብ_1353
+አማራ ክልል,associated_with,ቋንቋ_1354
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1355
+ትግራይ ክልል,contains,ምግብ_1356
+ባህር ዳር,related_to,በዓል_1357
+መቀሌ,known_for,ሙዚቃ_1358
+አዋሳ,associated_with,ስፖርት_1359
+ኢትዮጵያ,has_feature,ባህል_1360
+አዲስ አበባ,contains,ታሪክ_1361
+አማራ ክልል,related_to,ተፈጥሮ_1362
+ኦሮሚያ ክልል,known_for,ሕዝብ_1363
+ትግራይ ክልል,associated_with,ቋንቋ_1364
+ባህር ዳር,has_feature,ሃይማኖት_1365
+መቀሌ,contains,ምግብ_1366
+አዋሳ,related_to,በዓል_1367
+ኢትዮጵያ,known_for,ሙዚቃ_1368
+አዲስ አበባ,associated_with,ስፖርት_1369
+አማራ ክልል,has_feature,ባህል_1370
+ኦሮሚያ ክልል,contains,ታሪክ_1371
+ትግራይ ክልል,related_to,ተፈጥሮ_1372
+ባህር ዳር,known_for,ሕዝብ_1373
+መቀሌ,associated_with,ቋንቋ_1374
+አዋሳ,has_feature,ሃይማኖት_1375
+ኢትዮጵያ,contains,ምግብ_1376
+አዲስ አበባ,related_to,በዓል_1377
+አማራ ክልል,known_for,ሙዚቃ_1378
+ኦሮሚያ ክልል,associated_with,ስፖርት_1379
+ትግራይ ክልል,has_feature,ባህል_1380
+ባህር ዳር,contains,ታሪክ_1381
+መቀሌ,related_to,ተፈጥሮ_1382
+አዋሳ,known_for,ሕዝብ_1383
+ኢትዮጵያ,associated_with,ቋንቋ_1384
+አዲስ አበባ,has_feature,ሃይማኖት_1385
+አማራ ክልል,contains,ምግብ_1386
+ኦሮሚያ ክልል,related_to,በዓል_1387
+ትግራይ ክልል,known_for,ሙዚቃ_1388
+ባህር ዳር,associated_with,ስፖርት_1389
+መቀሌ,has_feature,ባህል_1390
+አዋሳ,contains,ታሪክ_1391
+ኢትዮጵያ,related_to,ተፈጥሮ_1392
+አዲስ አበባ,known_for,ሕዝብ_1393
+አማራ ክልል,associated_with,ቋንቋ_1394
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1395
+ትግራይ ክልል,contains,ምግብ_1396
+ባህር ዳር,related_to,በዓል_1397
+መቀሌ,known_for,ሙዚቃ_1398
+አዋሳ,associated_with,ስፖርት_1399
+ኢትዮጵያ,has_feature,ባህል_1400
+አዲስ አበባ,contains,ታሪክ_1401
+አማራ ክልል,related_to,ተፈጥሮ_1402
+ኦሮሚያ ክልል,known_for,ሕዝብ_1403
+ትግራይ ክልል,associated_with,ቋንቋ_1404
+ባህር ዳር,has_feature,ሃይማኖት_1405
+መቀሌ,contains,ምግብ_1406
+አዋሳ,related_to,በዓል_1407
+ኢትዮጵያ,known_for,ሙዚቃ_1408
+አዲስ አበባ,associated_with,ስፖርት_1409
+አማራ ክልል,has_feature,ባህል_1410
+ኦሮሚያ ክልል,contains,ታሪክ_1411
+ትግራይ ክልል,related_to,ተፈጥሮ_1412
+ባህር ዳር,known_for,ሕዝብ_1413
+መቀሌ,associated_with,ቋንቋ_1414
+አዋሳ,has_feature,ሃይማኖት_1415
+ኢትዮጵያ,contains,ምግብ_1416
+አዲስ አበባ,related_to,በዓል_1417
+አማራ ክልል,known_for,ሙዚቃ_1418
+ኦሮሚያ ክልል,associated_with,ስፖርት_1419
+ትግራይ ክልል,has_feature,ባህል_1420
+ባህር ዳር,contains,ታሪክ_1421
+መቀሌ,related_to,ተፈጥሮ_1422
+አዋሳ,known_for,ሕዝብ_1423
+ኢትዮጵያ,associated_with,ቋንቋ_1424
+አዲስ አበባ,has_feature,ሃይማኖት_1425
+አማራ ክልል,contains,ምግብ_1426
+ኦሮሚያ ክልል,related_to,በዓል_1427
+ትግራይ ክልል,known_for,ሙዚቃ_1428
+ባህር ዳር,associated_with,ስፖርት_1429
+መቀሌ,has_feature,ባህል_1430
+አዋሳ,contains,ታሪክ_1431
+ኢትዮጵያ,related_to,ተፈጥሮ_1432
+አዲስ አበባ,known_for,ሕዝብ_1433
+አማራ ክልል,associated_with,ቋንቋ_1434
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1435
+ትግራይ ክልል,contains,ምግብ_1436
+ባህር ዳር,related_to,በዓል_1437
+መቀሌ,known_for,ሙዚቃ_1438
+አዋሳ,associated_with,ስፖርት_1439
+ኢትዮጵያ,has_feature,ባህል_1440
+አዲስ አበባ,contains,ታሪክ_1441
+አማራ ክልል,related_to,ተፈጥሮ_1442
+ኦሮሚያ ክልል,known_for,ሕዝብ_1443
+ትግራይ ክልል,associated_with,ቋንቋ_1444
+ባህር ዳር,has_feature,ሃይማኖት_1445
+መቀሌ,contains,ምግብ_1446
+አዋሳ,related_to,በዓል_1447
+ኢትዮጵያ,known_for,ሙዚቃ_1448
+አዲስ አበባ,associated_with,ስፖርት_1449
+አማራ ክልል,has_feature,ባህል_1450
+ኦሮሚያ ክልል,contains,ታሪክ_1451
+ትግራይ ክልል,related_to,ተፈጥሮ_1452
+ባህር ዳር,known_for,ሕዝብ_1453
+መቀሌ,associated_with,ቋንቋ_1454
+አዋሳ,has_feature,ሃይማኖት_1455
+ኢትዮጵያ,contains,ምግብ_1456
+አዲስ አበባ,related_to,በዓል_1457
+አማራ ክልል,known_for,ሙዚቃ_1458
+ኦሮሚያ ክልል,associated_with,ስፖርት_1459
+ትግራይ ክልል,has_feature,ባህል_1460
+ባህር ዳር,contains,ታሪክ_1461
+መቀሌ,related_to,ተፈጥሮ_1462
+አዋሳ,known_for,ሕዝብ_1463
+ኢትዮጵያ,associated_with,ቋንቋ_1464
+አዲስ አበባ,has_feature,ሃይማኖት_1465
+አማራ ክልል,contains,ምግብ_1466
+ኦሮሚያ ክልል,related_to,በዓል_1467
+ትግራይ ክልል,known_for,ሙዚቃ_1468
+ባህር ዳር,associated_with,ስፖርት_1469
+መቀሌ,has_feature,ባህል_1470
+አዋሳ,contains,ታሪክ_1471
+ኢትዮጵያ,related_to,ተፈጥሮ_1472
+አዲስ አበባ,known_for,ሕዝብ_1473
+አማራ ክልል,associated_with,ቋንቋ_1474
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1475
+ትግራይ ክልል,contains,ምግብ_1476
+ባህር ዳር,related_to,በዓል_1477
+መቀሌ,known_for,ሙዚቃ_1478
+አዋሳ,associated_with,ስፖርት_1479
+ኢትዮጵያ,has_feature,ባህል_1480
+አዲስ አበባ,contains,ታሪክ_1481
+አማራ ክልል,related_to,ተፈጥሮ_1482
+ኦሮሚያ ክልል,known_for,ሕዝብ_1483
+ትግራይ ክልል,associated_with,ቋንቋ_1484
+ባህር ዳር,has_feature,ሃይማኖት_1485
+መቀሌ,contains,ምግብ_1486
+አዋሳ,related_to,በዓል_1487
+ኢትዮጵያ,known_for,ሙዚቃ_1488
+አዲስ አበባ,associated_with,ስፖርት_1489
+አማራ ክልል,has_feature,ባህል_1490
+ኦሮሚያ ክልል,contains,ታሪክ_1491
+ትግራይ ክልል,related_to,ተፈጥሮ_1492
+ባህር ዳር,known_for,ሕዝብ_1493
+መቀሌ,associated_with,ቋንቋ_1494
+አዋሳ,has_feature,ሃይማኖት_1495
+ኢትዮጵያ,contains,ምግብ_1496
+አዲስ አበባ,related_to,በዓል_1497
+አማራ ክልል,known_for,ሙዚቃ_1498
+ኦሮሚያ ክልል,associated_with,ስፖርት_1499
+ትግራይ ክልል,has_feature,ባህል_1500
+ባህር ዳር,contains,ታሪክ_1501
+መቀሌ,related_to,ተፈጥሮ_1502
+አዋሳ,known_for,ሕዝብ_1503
+ኢትዮጵያ,associated_with,ቋንቋ_1504
+አዲስ አበባ,has_feature,ሃይማኖት_1505
+አማራ ክልል,contains,ምግብ_1506
+ኦሮሚያ ክልል,related_to,በዓል_1507
+ትግራይ ክልል,known_for,ሙዚቃ_1508
+ባህር ዳር,associated_with,ስፖርት_1509
+መቀሌ,has_feature,ባህል_1510
+አዋሳ,contains,ታሪክ_1511
+ኢትዮጵያ,related_to,ተፈጥሮ_1512
+አዲስ አበባ,known_for,ሕዝብ_1513
+አማራ ክልል,associated_with,ቋንቋ_1514
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1515
+ትግራይ ክልል,contains,ምግብ_1516
+ባህር ዳር,related_to,በዓል_1517
+መቀሌ,known_for,ሙዚቃ_1518
+አዋሳ,associated_with,ስፖርት_1519
+ኢትዮጵያ,has_feature,ባህል_1520
+አዲስ አበባ,contains,ታሪክ_1521
+አማራ ክልል,related_to,ተፈጥሮ_1522
+ኦሮሚያ ክልል,known_for,ሕዝብ_1523
+ትግራይ ክልል,associated_with,ቋንቋ_1524
+ባህር ዳር,has_feature,ሃይማኖት_1525
+መቀሌ,contains,ምግብ_1526
+አዋሳ,related_to,በዓል_1527
+ኢትዮጵያ,known_for,ሙዚቃ_1528
+አዲስ አበባ,associated_with,ስፖርት_1529
+አማራ ክልል,has_feature,ባህል_1530
+ኦሮሚያ ክልል,contains,ታሪክ_1531
+ትግራይ ክልል,related_to,ተፈጥሮ_1532
+ባህር ዳር,known_for,ሕዝብ_1533
+መቀሌ,associated_with,ቋንቋ_1534
+አዋሳ,has_feature,ሃይማኖት_1535
+ኢትዮጵያ,contains,ምግብ_1536
+አዲስ አበባ,related_to,በዓል_1537
+አማራ ክልል,known_for,ሙዚቃ_1538
+ኦሮሚያ ክልል,associated_with,ስፖርት_1539
+ትግራይ ክልል,has_feature,ባህል_1540
+ባህር ዳር,contains,ታሪክ_1541
+መቀሌ,related_to,ተፈጥሮ_1542
+አዋሳ,known_for,ሕዝብ_1543
+ኢትዮጵያ,associated_with,ቋንቋ_1544
+አዲስ አበባ,has_feature,ሃይማኖት_1545
+አማራ ክልል,contains,ምግብ_1546
+ኦሮሚያ ክልል,related_to,በዓል_1547
+ትግራይ ክልል,known_for,ሙዚቃ_1548
+ባህር ዳር,associated_with,ስፖርት_1549
+መቀሌ,has_feature,ባህል_1550
+አዋሳ,contains,ታሪክ_1551
+ኢትዮጵያ,related_to,ተፈጥሮ_1552
+አዲስ አበባ,known_for,ሕዝብ_1553
+አማራ ክልል,associated_with,ቋንቋ_1554
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1555
+ትግራይ ክልል,contains,ምግብ_1556
+ባህር ዳር,related_to,በዓል_1557
+መቀሌ,known_for,ሙዚቃ_1558
+አዋሳ,associated_with,ስፖርት_1559
+ኢትዮጵያ,has_feature,ባህል_1560
+አዲስ አበባ,contains,ታሪክ_1561
+አማራ ክልል,related_to,ተፈጥሮ_1562
+ኦሮሚያ ክልል,known_for,ሕዝብ_1563
+ትግራይ ክልል,associated_with,ቋንቋ_1564
+ባህር ዳር,has_feature,ሃይማኖት_1565
+መቀሌ,contains,ምግብ_1566
+አዋሳ,related_to,በዓል_1567
+ኢትዮጵያ,known_for,ሙዚቃ_1568
+አዲስ አበባ,associated_with,ስፖርት_1569
+አማራ ክልል,has_feature,ባህል_1570
+ኦሮሚያ ክልል,contains,ታሪክ_1571
+ትግራይ ክልል,related_to,ተፈጥሮ_1572
+ባህር ዳር,known_for,ሕዝብ_1573
+መቀሌ,associated_with,ቋንቋ_1574
+አዋሳ,has_feature,ሃይማኖት_1575
+ኢትዮጵያ,contains,ምግብ_1576
+አዲስ አበባ,related_to,በዓል_1577
+አማራ ክልል,known_for,ሙዚቃ_1578
+ኦሮሚያ ክልል,associated_with,ስፖርት_1579
+ትግራይ ክልል,has_feature,ባህል_1580
+ባህር ዳር,contains,ታሪክ_1581
+መቀሌ,related_to,ተፈጥሮ_1582
+አዋሳ,known_for,ሕዝብ_1583
+ኢትዮጵያ,associated_with,ቋንቋ_1584
+አዲስ አበባ,has_feature,ሃይማኖት_1585
+አማራ ክልል,contains,ምግብ_1586
+ኦሮሚያ ክልል,related_to,በዓል_1587
+ትግራይ ክልል,known_for,ሙዚቃ_1588
+ባህር ዳር,associated_with,ስፖርት_1589
+መቀሌ,has_feature,ባህል_1590
+አዋሳ,contains,ታሪክ_1591
+ኢትዮጵያ,related_to,ተፈጥሮ_1592
+አዲስ አበባ,known_for,ሕዝብ_1593
+አማራ ክልል,associated_with,ቋንቋ_1594
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1595
+ትግራይ ክልል,contains,ምግብ_1596
+ባህር ዳር,related_to,በዓል_1597
+መቀሌ,known_for,ሙዚቃ_1598
+አዋሳ,associated_with,ስፖርት_1599
+ኢትዮጵያ,has_feature,ባህል_1600
+አዲስ አበባ,contains,ታሪክ_1601
+አማራ ክልል,related_to,ተፈጥሮ_1602
+ኦሮሚያ ክልል,known_for,ሕዝብ_1603
+ትግራይ ክልል,associated_with,ቋንቋ_1604
+ባህር ዳር,has_feature,ሃይማኖት_1605
+መቀሌ,contains,ምግብ_1606
+አዋሳ,related_to,በዓል_1607
+ኢትዮጵያ,known_for,ሙዚቃ_1608
+አዲስ አበባ,associated_with,ስፖርት_1609
+አማራ ክልል,has_feature,ባህል_1610
+ኦሮሚያ ክልል,contains,ታሪክ_1611
+ትግራይ ክልል,related_to,ተፈጥሮ_1612
+ባህር ዳር,known_for,ሕዝብ_1613
+መቀሌ,associated_with,ቋንቋ_1614
+አዋሳ,has_feature,ሃይማኖት_1615
+ኢትዮጵያ,contains,ምግብ_1616
+አዲስ አበባ,related_to,በዓል_1617
+አማራ ክልል,known_for,ሙዚቃ_1618
+ኦሮሚያ ክልል,associated_with,ስፖርት_1619
+ትግራይ ክልል,has_feature,ባህል_1620
+ባህር ዳር,contains,ታሪክ_1621
+መቀሌ,related_to,ተፈጥሮ_1622
+አዋሳ,known_for,ሕዝብ_1623
+ኢትዮጵያ,associated_with,ቋንቋ_1624
+አዲስ አበባ,has_feature,ሃይማኖት_1625
+አማራ ክልል,contains,ምግብ_1626
+ኦሮሚያ ክልል,related_to,በዓል_1627
+ትግራይ ክልል,known_for,ሙዚቃ_1628
+ባህር ዳር,associated_with,ስፖርት_1629
+መቀሌ,has_feature,ባህል_1630
+አዋሳ,contains,ታሪክ_1631
+ኢትዮጵያ,related_to,ተፈጥሮ_1632
+አዲስ አበባ,known_for,ሕዝብ_1633
+አማራ ክልል,associated_with,ቋንቋ_1634
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1635
+ትግራይ ክልል,contains,ምግብ_1636
+ባህር ዳር,related_to,በዓል_1637
+መቀሌ,known_for,ሙዚቃ_1638
+አዋሳ,associated_with,ስፖርት_1639
+ኢትዮጵያ,has_feature,ባህል_1640
+አዲስ አበባ,contains,ታሪክ_1641
+አማራ ክልል,related_to,ተፈጥሮ_1642
+ኦሮሚያ ክልል,known_for,ሕዝብ_1643
+ትግራይ ክልል,associated_with,ቋንቋ_1644
+ባህር ዳር,has_feature,ሃይማኖት_1645
+መቀሌ,contains,ምግብ_1646
+አዋሳ,related_to,በዓል_1647
+ኢትዮጵያ,known_for,ሙዚቃ_1648
+አዲስ አበባ,associated_with,ስፖርት_1649
+አማራ ክልል,has_feature,ባህል_1650
+ኦሮሚያ ክልል,contains,ታሪክ_1651
+ትግራይ ክልል,related_to,ተፈጥሮ_1652
+ባህር ዳር,known_for,ሕዝብ_1653
+መቀሌ,associated_with,ቋንቋ_1654
+አዋሳ,has_feature,ሃይማኖት_1655
+ኢትዮጵያ,contains,ምግብ_1656
+አዲስ አበባ,related_to,በዓል_1657
+አማራ ክልል,known_for,ሙዚቃ_1658
+ኦሮሚያ ክልል,associated_with,ስፖርት_1659
+ትግራይ ክልል,has_feature,ባህል_1660
+ባህር ዳር,contains,ታሪክ_1661
+መቀሌ,related_to,ተፈጥሮ_1662
+አዋሳ,known_for,ሕዝብ_1663
+ኢትዮጵያ,associated_with,ቋንቋ_1664
+አዲስ አበባ,has_feature,ሃይማኖት_1665
+አማራ ክልል,contains,ምግብ_1666
+ኦሮሚያ ክልል,related_to,በዓል_1667
+ትግራይ ክልል,known_for,ሙዚቃ_1668
+ባህር ዳር,associated_with,ስፖርት_1669
+መቀሌ,has_feature,ባህል_1670
+አዋሳ,contains,ታሪክ_1671
+ኢትዮጵያ,related_to,ተፈጥሮ_1672
+አዲስ አበባ,known_for,ሕዝብ_1673
+አማራ ክልል,associated_with,ቋንቋ_1674
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1675
+ትግራይ ክልል,contains,ምግብ_1676
+ባህር ዳር,related_to,በዓል_1677
+መቀሌ,known_for,ሙዚቃ_1678
+አዋሳ,associated_with,ስፖርት_1679
+ኢትዮጵያ,has_feature,ባህል_1680
+አዲስ አበባ,contains,ታሪክ_1681
+አማራ ክልል,related_to,ተፈጥሮ_1682
+ኦሮሚያ ክልል,known_for,ሕዝብ_1683
+ትግራይ ክልል,associated_with,ቋንቋ_1684
+ባህር ዳር,has_feature,ሃይማኖት_1685
+መቀሌ,contains,ምግብ_1686
+አዋሳ,related_to,በዓል_1687
+ኢትዮጵያ,known_for,ሙዚቃ_1688
+አዲስ አበባ,associated_with,ስፖርት_1689
+አማራ ክልል,has_feature,ባህል_1690
+ኦሮሚያ ክልል,contains,ታሪክ_1691
+ትግራይ ክልል,related_to,ተፈጥሮ_1692
+ባህር ዳር,known_for,ሕዝብ_1693
+መቀሌ,associated_with,ቋንቋ_1694
+አዋሳ,has_feature,ሃይማኖት_1695
+ኢትዮጵያ,contains,ምግብ_1696
+አዲስ አበባ,related_to,በዓል_1697
+አማራ ክልል,known_for,ሙዚቃ_1698
+ኦሮሚያ ክልል,associated_with,ስፖርት_1699
+ትግራይ ክልል,has_feature,ባህል_1700
+ባህር ዳር,contains,ታሪክ_1701
+መቀሌ,related_to,ተፈጥሮ_1702
+አዋሳ,known_for,ሕዝብ_1703
+ኢትዮጵያ,associated_with,ቋንቋ_1704
+አዲስ አበባ,has_feature,ሃይማኖት_1705
+አማራ ክልል,contains,ምግብ_1706
+ኦሮሚያ ክልል,related_to,በዓል_1707
+ትግራይ ክልል,known_for,ሙዚቃ_1708
+ባህር ዳር,associated_with,ስፖርት_1709
+መቀሌ,has_feature,ባህል_1710
+አዋሳ,contains,ታሪክ_1711
+ኢትዮጵያ,related_to,ተፈጥሮ_1712
+አዲስ አበባ,known_for,ሕዝብ_1713
+አማራ ክልል,associated_with,ቋንቋ_1714
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1715
+ትግራይ ክልል,contains,ምግብ_1716
+ባህር ዳር,related_to,በዓል_1717
+መቀሌ,known_for,ሙዚቃ_1718
+አዋሳ,associated_with,ስፖርት_1719
+ኢትዮጵያ,has_feature,ባህል_1720
+አዲስ አበባ,contains,ታሪክ_1721
+አማራ ክልል,related_to,ተፈጥሮ_1722
+ኦሮሚያ ክልል,known_for,ሕዝብ_1723
+ትግራይ ክልል,associated_with,ቋንቋ_1724
+ባህር ዳር,has_feature,ሃይማኖት_1725
+መቀሌ,contains,ምግብ_1726
+አዋሳ,related_to,በዓል_1727
+ኢትዮጵያ,known_for,ሙዚቃ_1728
+አዲስ አበባ,associated_with,ስፖርት_1729
+አማራ ክልል,has_feature,ባህል_1730
+ኦሮሚያ ክልል,contains,ታሪክ_1731
+ትግራይ ክልል,related_to,ተፈጥሮ_1732
+ባህር ዳር,known_for,ሕዝብ_1733
+መቀሌ,associated_with,ቋንቋ_1734
+አዋሳ,has_feature,ሃይማኖት_1735
+ኢትዮጵያ,contains,ምግብ_1736
+አዲስ አበባ,related_to,በዓል_1737
+አማራ ክልል,known_for,ሙዚቃ_1738
+ኦሮሚያ ክልል,associated_with,ስፖርት_1739
+ትግራይ ክልል,has_feature,ባህል_1740
+ባህር ዳር,contains,ታሪክ_1741
+መቀሌ,related_to,ተፈጥሮ_1742
+አዋሳ,known_for,ሕዝብ_1743
+ኢትዮጵያ,associated_with,ቋንቋ_1744
+አዲስ አበባ,has_feature,ሃይማኖት_1745
+አማራ ክልል,contains,ምግብ_1746
+ኦሮሚያ ክልል,related_to,በዓል_1747
+ትግራይ ክልል,known_for,ሙዚቃ_1748
+ባህር ዳር,associated_with,ስፖርት_1749
+መቀሌ,has_feature,ባህል_1750
+አዋሳ,contains,ታሪክ_1751
+ኢትዮጵያ,related_to,ተፈጥሮ_1752
+አዲስ አበባ,known_for,ሕዝብ_1753
+አማራ ክልል,associated_with,ቋንቋ_1754
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1755
+ትግራይ ክልል,contains,ምግብ_1756
+ባህር ዳር,related_to,በዓል_1757
+መቀሌ,known_for,ሙዚቃ_1758
+አዋሳ,associated_with,ስፖርት_1759
+ኢትዮጵያ,has_feature,ባህል_1760
+አዲስ አበባ,contains,ታሪክ_1761
+አማራ ክልል,related_to,ተፈጥሮ_1762
+ኦሮሚያ ክልል,known_for,ሕዝብ_1763
+ትግራይ ክልል,associated_with,ቋንቋ_1764
+ባህር ዳር,has_feature,ሃይማኖት_1765
+መቀሌ,contains,ምግብ_1766
+አዋሳ,related_to,በዓል_1767
+ኢትዮጵያ,known_for,ሙዚቃ_1768
+አዲስ አበባ,associated_with,ስፖርት_1769
+አማራ ክልል,has_feature,ባህል_1770
+ኦሮሚያ ክልል,contains,ታሪክ_1771
+ትግራይ ክልል,related_to,ተፈጥሮ_1772
+ባህር ዳር,known_for,ሕዝብ_1773
+መቀሌ,associated_with,ቋንቋ_1774
+አዋሳ,has_feature,ሃይማኖት_1775
+ኢትዮጵያ,contains,ምግብ_1776
+አዲስ አበባ,related_to,በዓል_1777
+አማራ ክልል,known_for,ሙዚቃ_1778
+ኦሮሚያ ክልል,associated_with,ስፖርት_1779
+ትግራይ ክልል,has_feature,ባህል_1780
+ባህር ዳር,contains,ታሪክ_1781
+መቀሌ,related_to,ተፈጥሮ_1782
+አዋሳ,known_for,ሕዝብ_1783
+ኢትዮጵያ,associated_with,ቋንቋ_1784
+አዲስ አበባ,has_feature,ሃይማኖት_1785
+አማራ ክልል,contains,ምግብ_1786
+ኦሮሚያ ክልል,related_to,በዓል_1787
+ትግራይ ክልል,known_for,ሙዚቃ_1788
+ባህር ዳር,associated_with,ስፖርት_1789
+መቀሌ,has_feature,ባህል_1790
+አዋሳ,contains,ታሪክ_1791
+ኢትዮጵያ,related_to,ተፈጥሮ_1792
+አዲስ አበባ,known_for,ሕዝብ_1793
+አማራ ክልል,associated_with,ቋንቋ_1794
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1795
+ትግራይ ክልል,contains,ምግብ_1796
+ባህር ዳር,related_to,በዓል_1797
+መቀሌ,known_for,ሙዚቃ_1798
+አዋሳ,associated_with,ስፖርት_1799
+ኢትዮጵያ,has_feature,ባህል_1800
+አዲስ አበባ,contains,ታሪክ_1801
+አማራ ክልል,related_to,ተፈጥሮ_1802
+ኦሮሚያ ክልል,known_for,ሕዝብ_1803
+ትግራይ ክልል,associated_with,ቋንቋ_1804
+ባህር ዳር,has_feature,ሃይማኖት_1805
+መቀሌ,contains,ምግብ_1806
+አዋሳ,related_to,በዓል_1807
+ኢትዮጵያ,known_for,ሙዚቃ_1808
+አዲስ አበባ,associated_with,ስፖርት_1809
+አማራ ክልል,has_feature,ባህል_1810
+ኦሮሚያ ክልል,contains,ታሪክ_1811
+ትግራይ ክልል,related_to,ተፈጥሮ_1812
+ባህር ዳር,known_for,ሕዝብ_1813
+መቀሌ,associated_with,ቋንቋ_1814
+አዋሳ,has_feature,ሃይማኖት_1815
+ኢትዮጵያ,contains,ምግብ_1816
+አዲስ አበባ,related_to,በዓል_1817
+አማራ ክልል,known_for,ሙዚቃ_1818
+ኦሮሚያ ክልል,associated_with,ስፖርት_1819
+ትግራይ ክልል,has_feature,ባህል_1820
+ባህር ዳር,contains,ታሪክ_1821
+መቀሌ,related_to,ተፈጥሮ_1822
+አዋሳ,known_for,ሕዝብ_1823
+ኢትዮጵያ,associated_with,ቋንቋ_1824
+አዲስ አበባ,has_feature,ሃይማኖት_1825
+አማራ ክልል,contains,ምግብ_1826
+ኦሮሚያ ክልል,related_to,በዓል_1827
+ትግራይ ክልል,known_for,ሙዚቃ_1828
+ባህር ዳር,associated_with,ስፖርት_1829
+መቀሌ,has_feature,ባህል_1830
+አዋሳ,contains,ታሪክ_1831
+ኢትዮጵያ,related_to,ተፈጥሮ_1832
+አዲስ አበባ,known_for,ሕዝብ_1833
+አማራ ክልል,associated_with,ቋንቋ_1834
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1835
+ትግራይ ክልል,contains,ምግብ_1836
+ባህር ዳር,related_to,በዓል_1837
+መቀሌ,known_for,ሙዚቃ_1838
+አዋሳ,associated_with,ስፖርት_1839
+ኢትዮጵያ,has_feature,ባህል_1840
+አዲስ አበባ,contains,ታሪክ_1841
+አማራ ክልል,related_to,ተፈጥሮ_1842
+ኦሮሚያ ክልል,known_for,ሕዝብ_1843
+ትግራይ ክልል,associated_with,ቋንቋ_1844
+ባህር ዳር,has_feature,ሃይማኖት_1845
+መቀሌ,contains,ምግብ_1846
+አዋሳ,related_to,በዓል_1847
+ኢትዮጵያ,known_for,ሙዚቃ_1848
+አዲስ አበባ,associated_with,ስፖርት_1849
+አማራ ክልል,has_feature,ባህል_1850
+ኦሮሚያ ክልል,contains,ታሪክ_1851
+ትግራይ ክልል,related_to,ተፈጥሮ_1852
+ባህር ዳር,known_for,ሕዝብ_1853
+መቀሌ,associated_with,ቋንቋ_1854
+አዋሳ,has_feature,ሃይማኖት_1855
+ኢትዮጵያ,contains,ምግብ_1856
+አዲስ አበባ,related_to,በዓል_1857
+አማራ ክልል,known_for,ሙዚቃ_1858
+ኦሮሚያ ክልል,associated_with,ስፖርት_1859
+ትግራይ ክልል,has_feature,ባህል_1860
+ባህር ዳር,contains,ታሪክ_1861
+መቀሌ,related_to,ተፈጥሮ_1862
+አዋሳ,known_for,ሕዝብ_1863
+ኢትዮጵያ,associated_with,ቋንቋ_1864
+አዲስ አበባ,has_feature,ሃይማኖት_1865
+አማራ ክልል,contains,ምግብ_1866
+ኦሮሚያ ክልል,related_to,በዓል_1867
+ትግራይ ክልል,known_for,ሙዚቃ_1868
+ባህር ዳር,associated_with,ስፖርት_1869
+መቀሌ,has_feature,ባህል_1870
+አዋሳ,contains,ታሪክ_1871
+ኢትዮጵያ,related_to,ተፈጥሮ_1872
+አዲስ አበባ,known_for,ሕዝብ_1873
+አማራ ክልል,associated_with,ቋንቋ_1874
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1875
+ትግራይ ክልል,contains,ምግብ_1876
+ባህር ዳር,related_to,በዓል_1877
+መቀሌ,known_for,ሙዚቃ_1878
+አዋሳ,associated_with,ስፖርት_1879
+ኢትዮጵያ,has_feature,ባህል_1880
+አዲስ አበባ,contains,ታሪክ_1881
+አማራ ክልል,related_to,ተፈጥሮ_1882
+ኦሮሚያ ክልል,known_for,ሕዝብ_1883
+ትግራይ ክልል,associated_with,ቋንቋ_1884
+ባህር ዳር,has_feature,ሃይማኖት_1885
+መቀሌ,contains,ምግብ_1886
+አዋሳ,related_to,በዓል_1887
+ኢትዮጵያ,known_for,ሙዚቃ_1888
+አዲስ አበባ,associated_with,ስፖርት_1889
+አማራ ክልል,has_feature,ባህል_1890
+ኦሮሚያ ክልል,contains,ታሪክ_1891
+ትግራይ ክልል,related_to,ተፈጥሮ_1892
+ባህር ዳር,known_for,ሕዝብ_1893
+መቀሌ,associated_with,ቋንቋ_1894
+አዋሳ,has_feature,ሃይማኖት_1895
+ኢትዮጵያ,contains,ምግብ_1896
+አዲስ አበባ,related_to,በዓል_1897
+አማራ ክልል,known_for,ሙዚቃ_1898
+ኦሮሚያ ክልል,associated_with,ስፖርት_1899
+ትግራይ ክልል,has_feature,ባህል_1900
+ባህር ዳር,contains,ታሪክ_1901
+መቀሌ,related_to,ተፈጥሮ_1902
+አዋሳ,known_for,ሕዝብ_1903
+ኢትዮጵያ,associated_with,ቋንቋ_1904
+አዲስ አበባ,has_feature,ሃይማኖት_1905
+አማራ ክልል,contains,ምግብ_1906
+ኦሮሚያ ክልል,related_to,በዓል_1907
+ትግራይ ክልል,known_for,ሙዚቃ_1908
+ባህር ዳር,associated_with,ስፖርት_1909
+መቀሌ,has_feature,ባህል_1910
+አዋሳ,contains,ታሪክ_1911
+ኢትዮጵያ,related_to,ተፈጥሮ_1912
+አዲስ አበባ,known_for,ሕዝብ_1913
+አማራ ክልል,associated_with,ቋንቋ_1914
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1915
+ትግራይ ክልል,contains,ምግብ_1916
+ባህር ዳር,related_to,በዓል_1917
+መቀሌ,known_for,ሙዚቃ_1918
+አዋሳ,associated_with,ስፖርት_1919
+ኢትዮጵያ,has_feature,ባህል_1920
+አዲስ አበባ,contains,ታሪክ_1921
+አማራ ክልል,related_to,ተፈጥሮ_1922
+ኦሮሚያ ክልል,known_for,ሕዝብ_1923
+ትግራይ ክልል,associated_with,ቋንቋ_1924
+ባህር ዳር,has_feature,ሃይማኖት_1925
+መቀሌ,contains,ምግብ_1926
+አዋሳ,related_to,በዓል_1927
+ኢትዮጵያ,known_for,ሙዚቃ_1928
+አዲስ አበባ,associated_with,ስፖርት_1929
+አማራ ክልል,has_feature,ባህል_1930
+ኦሮሚያ ክልል,contains,ታሪክ_1931
+ትግራይ ክልል,related_to,ተፈጥሮ_1932
+ባህር ዳር,known_for,ሕዝብ_1933
+መቀሌ,associated_with,ቋንቋ_1934
+አዋሳ,has_feature,ሃይማኖት_1935
+ኢትዮጵያ,contains,ምግብ_1936
+አዲስ አበባ,related_to,በዓል_1937
+አማራ ክልል,known_for,ሙዚቃ_1938
+ኦሮሚያ ክልል,associated_with,ስፖርት_1939
+ትግራይ ክልል,has_feature,ባህል_1940
+ባህር ዳር,contains,ታሪክ_1941
+መቀሌ,related_to,ተፈጥሮ_1942
+አዋሳ,known_for,ሕዝብ_1943
+ኢትዮጵያ,associated_with,ቋንቋ_1944
+አዲስ አበባ,has_feature,ሃይማኖት_1945
+አማራ ክልል,contains,ምግብ_1946
+ኦሮሚያ ክልል,related_to,በዓል_1947
+ትግራይ ክልል,known_for,ሙዚቃ_1948
+ባህር ዳር,associated_with,ስፖርት_1949
+መቀሌ,has_feature,ባህል_1950
+አዋሳ,contains,ታሪክ_1951
+ኢትዮጵያ,related_to,ተፈጥሮ_1952
+አዲስ አበባ,known_for,ሕዝብ_1953
+አማራ ክልል,associated_with,ቋንቋ_1954
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1955
+ትግራይ ክልል,contains,ምግብ_1956
+ባህር ዳር,related_to,በዓል_1957
+መቀሌ,known_for,ሙዚቃ_1958
+አዋሳ,associated_with,ስፖርት_1959
+ኢትዮጵያ,has_feature,ባህል_1960
+አዲስ አበባ,contains,ታሪክ_1961
+አማራ ክልል,related_to,ተፈጥሮ_1962
+ኦሮሚያ ክልል,known_for,ሕዝብ_1963
+ትግራይ ክልል,associated_with,ቋንቋ_1964
+ባህር ዳር,has_feature,ሃይማኖት_1965
+መቀሌ,contains,ምግብ_1966
+አዋሳ,related_to,በዓል_1967
+ኢትዮጵያ,known_for,ሙዚቃ_1968
+አዲስ አበባ,associated_with,ስፖርት_1969
+አማራ ክልል,has_feature,ባህል_1970
+ኦሮሚያ ክልል,contains,ታሪክ_1971
+ትግራይ ክልል,related_to,ተፈጥሮ_1972
+ባህር ዳር,known_for,ሕዝብ_1973
+መቀሌ,associated_with,ቋንቋ_1974
+አዋሳ,has_feature,ሃይማኖት_1975
+ኢትዮጵያ,contains,ምግብ_1976
+አዲስ አበባ,related_to,በዓል_1977
+አማራ ክልል,known_for,ሙዚቃ_1978
+ኦሮሚያ ክልል,associated_with,ስፖርት_1979
+ትግራይ ክልል,has_feature,ባህል_1980
+ባህር ዳር,contains,ታሪክ_1981
+መቀሌ,related_to,ተፈጥሮ_1982
+አዋሳ,known_for,ሕዝብ_1983
+ኢትዮጵያ,associated_with,ቋንቋ_1984
+አዲስ አበባ,has_feature,ሃይማኖት_1985
+አማራ ክልል,contains,ምግብ_1986
+ኦሮሚያ ክልል,related_to,በዓል_1987
+ትግራይ ክልል,known_for,ሙዚቃ_1988
+ባህር ዳር,associated_with,ስፖርት_1989
+መቀሌ,has_feature,ባህል_1990
+አዋሳ,contains,ታሪክ_1991
+ኢትዮጵያ,related_to,ተፈጥሮ_1992
+አዲስ አበባ,known_for,ሕዝብ_1993
+አማራ ክልል,associated_with,ቋንቋ_1994
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_1995
+ትግራይ ክልል,contains,ምግብ_1996
+ባህር ዳር,related_to,በዓል_1997
+መቀሌ,known_for,ሙዚቃ_1998
+አዋሳ,associated_with,ስፖርት_1999
+ኢትዮጵያ,has_feature,ባህል_2000
+አዲስ አበባ,contains,ታሪክ_2001
+አማራ ክልል,related_to,ተፈጥሮ_2002
+ኦሮሚያ ክልል,known_for,ሕዝብ_2003
+ትግራይ ክልል,associated_with,ቋንቋ_2004
+ባህር ዳር,has_feature,ሃይማኖት_2005
+መቀሌ,contains,ምግብ_2006
+አዋሳ,related_to,በዓል_2007
+ኢትዮጵያ,known_for,ሙዚቃ_2008
+አዲስ አበባ,associated_with,ስፖርት_2009
+አማራ ክልል,has_feature,ባህል_2010
+ኦሮሚያ ክልል,contains,ታሪክ_2011
+ትግራይ ክልል,related_to,ተፈጥሮ_2012
+ባህር ዳር,known_for,ሕዝብ_2013
+መቀሌ,associated_with,ቋንቋ_2014
+አዋሳ,has_feature,ሃይማኖት_2015
+ኢትዮጵያ,contains,ምግብ_2016
+አዲስ አበባ,related_to,በዓል_2017
+አማራ ክልል,known_for,ሙዚቃ_2018
+ኦሮሚያ ክልል,associated_with,ስፖርት_2019
+ትግራይ ክልል,has_feature,ባህል_2020
+ባህር ዳር,contains,ታሪክ_2021
+መቀሌ,related_to,ተፈጥሮ_2022
+አዋሳ,known_for,ሕዝብ_2023
+ኢትዮጵያ,associated_with,ቋንቋ_2024
+አዲስ አበባ,has_feature,ሃይማኖት_2025
+አማራ ክልል,contains,ምግብ_2026
+ኦሮሚያ ክልል,related_to,በዓል_2027
+ትግራይ ክልል,known_for,ሙዚቃ_2028
+ባህር ዳር,associated_with,ስፖርት_2029
+መቀሌ,has_feature,ባህል_2030
+አዋሳ,contains,ታሪክ_2031
+ኢትዮጵያ,related_to,ተፈጥሮ_2032
+አዲስ አበባ,known_for,ሕዝብ_2033
+አማራ ክልል,associated_with,ቋንቋ_2034
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2035
+ትግራይ ክልል,contains,ምግብ_2036
+ባህር ዳር,related_to,በዓል_2037
+መቀሌ,known_for,ሙዚቃ_2038
+አዋሳ,associated_with,ስፖርት_2039
+ኢትዮጵያ,has_feature,ባህል_2040
+አዲስ አበባ,contains,ታሪክ_2041
+አማራ ክልል,related_to,ተፈጥሮ_2042
+ኦሮሚያ ክልል,known_for,ሕዝብ_2043
+ትግራይ ክልል,associated_with,ቋንቋ_2044
+ባህር ዳር,has_feature,ሃይማኖት_2045
+መቀሌ,contains,ምግብ_2046
+አዋሳ,related_to,በዓል_2047
+ኢትዮጵያ,known_for,ሙዚቃ_2048
+አዲስ አበባ,associated_with,ስፖርት_2049
+አማራ ክልል,has_feature,ባህል_2050
+ኦሮሚያ ክልል,contains,ታሪክ_2051
+ትግራይ ክልል,related_to,ተፈጥሮ_2052
+ባህር ዳር,known_for,ሕዝብ_2053
+መቀሌ,associated_with,ቋንቋ_2054
+አዋሳ,has_feature,ሃይማኖት_2055
+ኢትዮጵያ,contains,ምግብ_2056
+አዲስ አበባ,related_to,በዓል_2057
+አማራ ክልል,known_for,ሙዚቃ_2058
+ኦሮሚያ ክልል,associated_with,ስፖርት_2059
+ትግራይ ክልል,has_feature,ባህል_2060
+ባህር ዳር,contains,ታሪክ_2061
+መቀሌ,related_to,ተፈጥሮ_2062
+አዋሳ,known_for,ሕዝብ_2063
+ኢትዮጵያ,associated_with,ቋንቋ_2064
+አዲስ አበባ,has_feature,ሃይማኖት_2065
+አማራ ክልል,contains,ምግብ_2066
+ኦሮሚያ ክልል,related_to,በዓል_2067
+ትግራይ ክልል,known_for,ሙዚቃ_2068
+ባህር ዳር,associated_with,ስፖርት_2069
+መቀሌ,has_feature,ባህል_2070
+አዋሳ,contains,ታሪክ_2071
+ኢትዮጵያ,related_to,ተፈጥሮ_2072
+አዲስ አበባ,known_for,ሕዝብ_2073
+አማራ ክልል,associated_with,ቋንቋ_2074
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2075
+ትግራይ ክልል,contains,ምግብ_2076
+ባህር ዳር,related_to,በዓል_2077
+መቀሌ,known_for,ሙዚቃ_2078
+አዋሳ,associated_with,ስፖርት_2079
+ኢትዮጵያ,has_feature,ባህል_2080
+አዲስ አበባ,contains,ታሪክ_2081
+አማራ ክልል,related_to,ተፈጥሮ_2082
+ኦሮሚያ ክልል,known_for,ሕዝብ_2083
+ትግራይ ክልል,associated_with,ቋንቋ_2084
+ባህር ዳር,has_feature,ሃይማኖት_2085
+መቀሌ,contains,ምግብ_2086
+አዋሳ,related_to,በዓል_2087
+ኢትዮጵያ,known_for,ሙዚቃ_2088
+አዲስ አበባ,associated_with,ስፖርት_2089
+አማራ ክልል,has_feature,ባህል_2090
+ኦሮሚያ ክልል,contains,ታሪክ_2091
+ትግራይ ክልል,related_to,ተፈጥሮ_2092
+ባህር ዳር,known_for,ሕዝብ_2093
+መቀሌ,associated_with,ቋንቋ_2094
+አዋሳ,has_feature,ሃይማኖት_2095
+ኢትዮጵያ,contains,ምግብ_2096
+አዲስ አበባ,related_to,በዓል_2097
+አማራ ክልል,known_for,ሙዚቃ_2098
+ኦሮሚያ ክልል,associated_with,ስፖርት_2099
+ትግራይ ክልል,has_feature,ባህል_2100
+ባህር ዳር,contains,ታሪክ_2101
+መቀሌ,related_to,ተፈጥሮ_2102
+አዋሳ,known_for,ሕዝብ_2103
+ኢትዮጵያ,associated_with,ቋንቋ_2104
+አዲስ አበባ,has_feature,ሃይማኖት_2105
+አማራ ክልል,contains,ምግብ_2106
+ኦሮሚያ ክልል,related_to,በዓል_2107
+ትግራይ ክልል,known_for,ሙዚቃ_2108
+ባህር ዳር,associated_with,ስፖርት_2109
+መቀሌ,has_feature,ባህል_2110
+አዋሳ,contains,ታሪክ_2111
+ኢትዮጵያ,related_to,ተፈጥሮ_2112
+አዲስ አበባ,known_for,ሕዝብ_2113
+አማራ ክልል,associated_with,ቋንቋ_2114
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2115
+ትግራይ ክልል,contains,ምግብ_2116
+ባህር ዳር,related_to,በዓል_2117
+መቀሌ,known_for,ሙዚቃ_2118
+አዋሳ,associated_with,ስፖርት_2119
+ኢትዮጵያ,has_feature,ባህል_2120
+አዲስ አበባ,contains,ታሪክ_2121
+አማራ ክልል,related_to,ተፈጥሮ_2122
+ኦሮሚያ ክልል,known_for,ሕዝብ_2123
+ትግራይ ክልል,associated_with,ቋንቋ_2124
+ባህር ዳር,has_feature,ሃይማኖት_2125
+መቀሌ,contains,ምግብ_2126
+አዋሳ,related_to,በዓል_2127
+ኢትዮጵያ,known_for,ሙዚቃ_2128
+አዲስ አበባ,associated_with,ስፖርት_2129
+አማራ ክልል,has_feature,ባህል_2130
+ኦሮሚያ ክልል,contains,ታሪክ_2131
+ትግራይ ክልል,related_to,ተፈጥሮ_2132
+ባህር ዳር,known_for,ሕዝብ_2133
+መቀሌ,associated_with,ቋንቋ_2134
+አዋሳ,has_feature,ሃይማኖት_2135
+ኢትዮጵያ,contains,ምግብ_2136
+አዲስ አበባ,related_to,በዓል_2137
+አማራ ክልል,known_for,ሙዚቃ_2138
+ኦሮሚያ ክልል,associated_with,ስፖርት_2139
+ትግራይ ክልል,has_feature,ባህል_2140
+ባህር ዳር,contains,ታሪክ_2141
+መቀሌ,related_to,ተፈጥሮ_2142
+አዋሳ,known_for,ሕዝብ_2143
+ኢትዮጵያ,associated_with,ቋንቋ_2144
+አዲስ አበባ,has_feature,ሃይማኖት_2145
+አማራ ክልል,contains,ምግብ_2146
+ኦሮሚያ ክልል,related_to,በዓል_2147
+ትግራይ ክልል,known_for,ሙዚቃ_2148
+ባህር ዳር,associated_with,ስፖርት_2149
+መቀሌ,has_feature,ባህል_2150
+አዋሳ,contains,ታሪክ_2151
+ኢትዮጵያ,related_to,ተፈጥሮ_2152
+አዲስ አበባ,known_for,ሕዝብ_2153
+አማራ ክልል,associated_with,ቋንቋ_2154
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2155
+ትግራይ ክልል,contains,ምግብ_2156
+ባህር ዳር,related_to,በዓል_2157
+መቀሌ,known_for,ሙዚቃ_2158
+አዋሳ,associated_with,ስፖርት_2159
+ኢትዮጵያ,has_feature,ባህል_2160
+አዲስ አበባ,contains,ታሪክ_2161
+አማራ ክልል,related_to,ተፈጥሮ_2162
+ኦሮሚያ ክልል,known_for,ሕዝብ_2163
+ትግራይ ክልል,associated_with,ቋንቋ_2164
+ባህር ዳር,has_feature,ሃይማኖት_2165
+መቀሌ,contains,ምግብ_2166
+አዋሳ,related_to,በዓል_2167
+ኢትዮጵያ,known_for,ሙዚቃ_2168
+አዲስ አበባ,associated_with,ስፖርት_2169
+አማራ ክልል,has_feature,ባህል_2170
+ኦሮሚያ ክልል,contains,ታሪክ_2171
+ትግራይ ክልል,related_to,ተፈጥሮ_2172
+ባህር ዳር,known_for,ሕዝብ_2173
+መቀሌ,associated_with,ቋንቋ_2174
+አዋሳ,has_feature,ሃይማኖት_2175
+ኢትዮጵያ,contains,ምግብ_2176
+አዲስ አበባ,related_to,በዓል_2177
+አማራ ክልል,known_for,ሙዚቃ_2178
+ኦሮሚያ ክልል,associated_with,ስፖርት_2179
+ትግራይ ክልል,has_feature,ባህል_2180
+ባህር ዳር,contains,ታሪክ_2181
+መቀሌ,related_to,ተፈጥሮ_2182
+አዋሳ,known_for,ሕዝብ_2183
+ኢትዮጵያ,associated_with,ቋንቋ_2184
+አዲስ አበባ,has_feature,ሃይማኖት_2185
+አማራ ክልል,contains,ምግብ_2186
+ኦሮሚያ ክልል,related_to,በዓል_2187
+ትግራይ ክልል,known_for,ሙዚቃ_2188
+ባህር ዳር,associated_with,ስፖርት_2189
+መቀሌ,has_feature,ባህል_2190
+አዋሳ,contains,ታሪክ_2191
+ኢትዮጵያ,related_to,ተፈጥሮ_2192
+አዲስ አበባ,known_for,ሕዝብ_2193
+አማራ ክልል,associated_with,ቋንቋ_2194
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2195
+ትግራይ ክልል,contains,ምግብ_2196
+ባህር ዳር,related_to,በዓል_2197
+መቀሌ,known_for,ሙዚቃ_2198
+አዋሳ,associated_with,ስፖርት_2199
+ኢትዮጵያ,has_feature,ባህል_2200
+አዲስ አበባ,contains,ታሪክ_2201
+አማራ ክልል,related_to,ተፈጥሮ_2202
+ኦሮሚያ ክልል,known_for,ሕዝብ_2203
+ትግራይ ክልል,associated_with,ቋንቋ_2204
+ባህር ዳር,has_feature,ሃይማኖት_2205
+መቀሌ,contains,ምግብ_2206
+አዋሳ,related_to,በዓል_2207
+ኢትዮጵያ,known_for,ሙዚቃ_2208
+አዲስ አበባ,associated_with,ስፖርት_2209
+አማራ ክልል,has_feature,ባህል_2210
+ኦሮሚያ ክልል,contains,ታሪክ_2211
+ትግራይ ክልል,related_to,ተፈጥሮ_2212
+ባህር ዳር,known_for,ሕዝብ_2213
+መቀሌ,associated_with,ቋንቋ_2214
+አዋሳ,has_feature,ሃይማኖት_2215
+ኢትዮጵያ,contains,ምግብ_2216
+አዲስ አበባ,related_to,በዓል_2217
+አማራ ክልል,known_for,ሙዚቃ_2218
+ኦሮሚያ ክልል,associated_with,ስፖርት_2219
+ትግራይ ክልል,has_feature,ባህል_2220
+ባህር ዳር,contains,ታሪክ_2221
+መቀሌ,related_to,ተፈጥሮ_2222
+አዋሳ,known_for,ሕዝብ_2223
+ኢትዮጵያ,associated_with,ቋንቋ_2224
+አዲስ አበባ,has_feature,ሃይማኖት_2225
+አማራ ክልል,contains,ምግብ_2226
+ኦሮሚያ ክልል,related_to,በዓል_2227
+ትግራይ ክልል,known_for,ሙዚቃ_2228
+ባህር ዳር,associated_with,ስፖርት_2229
+መቀሌ,has_feature,ባህል_2230
+አዋሳ,contains,ታሪክ_2231
+ኢትዮጵያ,related_to,ተፈጥሮ_2232
+አዲስ አበባ,known_for,ሕዝብ_2233
+አማራ ክልል,associated_with,ቋንቋ_2234
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2235
+ትግራይ ክልል,contains,ምግብ_2236
+ባህር ዳር,related_to,በዓል_2237
+መቀሌ,known_for,ሙዚቃ_2238
+አዋሳ,associated_with,ስፖርት_2239
+ኢትዮጵያ,has_feature,ባህል_2240
+አዲስ አበባ,contains,ታሪክ_2241
+አማራ ክልል,related_to,ተፈጥሮ_2242
+ኦሮሚያ ክልል,known_for,ሕዝብ_2243
+ትግራይ ክልል,associated_with,ቋንቋ_2244
+ባህር ዳር,has_feature,ሃይማኖት_2245
+መቀሌ,contains,ምግብ_2246
+አዋሳ,related_to,በዓል_2247
+ኢትዮጵያ,known_for,ሙዚቃ_2248
+አዲስ አበባ,associated_with,ስፖርት_2249
+አማራ ክልል,has_feature,ባህል_2250
+ኦሮሚያ ክልል,contains,ታሪክ_2251
+ትግራይ ክልል,related_to,ተፈጥሮ_2252
+ባህር ዳር,known_for,ሕዝብ_2253
+መቀሌ,associated_with,ቋንቋ_2254
+አዋሳ,has_feature,ሃይማኖት_2255
+ኢትዮጵያ,contains,ምግብ_2256
+አዲስ አበባ,related_to,በዓል_2257
+አማራ ክልል,known_for,ሙዚቃ_2258
+ኦሮሚያ ክልል,associated_with,ስፖርት_2259
+ትግራይ ክልል,has_feature,ባህል_2260
+ባህር ዳር,contains,ታሪክ_2261
+መቀሌ,related_to,ተፈጥሮ_2262
+አዋሳ,known_for,ሕዝብ_2263
+ኢትዮጵያ,associated_with,ቋንቋ_2264
+አዲስ አበባ,has_feature,ሃይማኖት_2265
+አማራ ክልል,contains,ምግብ_2266
+ኦሮሚያ ክልል,related_to,በዓል_2267
+ትግራይ ክልል,known_for,ሙዚቃ_2268
+ባህር ዳር,associated_with,ስፖርት_2269
+መቀሌ,has_feature,ባህል_2270
+አዋሳ,contains,ታሪክ_2271
+ኢትዮጵያ,related_to,ተፈጥሮ_2272
+አዲስ አበባ,known_for,ሕዝብ_2273
+አማራ ክልል,associated_with,ቋንቋ_2274
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2275
+ትግራይ ክልል,contains,ምግብ_2276
+ባህር ዳር,related_to,በዓል_2277
+መቀሌ,known_for,ሙዚቃ_2278
+አዋሳ,associated_with,ስፖርት_2279
+ኢትዮጵያ,has_feature,ባህል_2280
+አዲስ አበባ,contains,ታሪክ_2281
+አማራ ክልል,related_to,ተፈጥሮ_2282
+ኦሮሚያ ክልል,known_for,ሕዝብ_2283
+ትግራይ ክልል,associated_with,ቋንቋ_2284
+ባህር ዳር,has_feature,ሃይማኖት_2285
+መቀሌ,contains,ምግብ_2286
+አዋሳ,related_to,በዓል_2287
+ኢትዮጵያ,known_for,ሙዚቃ_2288
+አዲስ አበባ,associated_with,ስፖርት_2289
+አማራ ክልል,has_feature,ባህል_2290
+ኦሮሚያ ክልል,contains,ታሪክ_2291
+ትግራይ ክልል,related_to,ተፈጥሮ_2292
+ባህር ዳር,known_for,ሕዝብ_2293
+መቀሌ,associated_with,ቋንቋ_2294
+አዋሳ,has_feature,ሃይማኖት_2295
+ኢትዮጵያ,contains,ምግብ_2296
+አዲስ አበባ,related_to,በዓል_2297
+አማራ ክልል,known_for,ሙዚቃ_2298
+ኦሮሚያ ክልል,associated_with,ስፖርት_2299
+ትግራይ ክልል,has_feature,ባህል_2300
+ባህር ዳር,contains,ታሪክ_2301
+መቀሌ,related_to,ተፈጥሮ_2302
+አዋሳ,known_for,ሕዝብ_2303
+ኢትዮጵያ,associated_with,ቋንቋ_2304
+አዲስ አበባ,has_feature,ሃይማኖት_2305
+አማራ ክልል,contains,ምግብ_2306
+ኦሮሚያ ክልል,related_to,በዓል_2307
+ትግራይ ክልል,known_for,ሙዚቃ_2308
+ባህር ዳር,associated_with,ስፖርት_2309
+መቀሌ,has_feature,ባህል_2310
+አዋሳ,contains,ታሪክ_2311
+ኢትዮጵያ,related_to,ተፈጥሮ_2312
+አዲስ አበባ,known_for,ሕዝብ_2313
+አማራ ክልል,associated_with,ቋንቋ_2314
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2315
+ትግራይ ክልል,contains,ምግብ_2316
+ባህር ዳር,related_to,በዓል_2317
+መቀሌ,known_for,ሙዚቃ_2318
+አዋሳ,associated_with,ስፖርት_2319
+ኢትዮጵያ,has_feature,ባህል_2320
+አዲስ አበባ,contains,ታሪክ_2321
+አማራ ክልል,related_to,ተፈጥሮ_2322
+ኦሮሚያ ክልል,known_for,ሕዝብ_2323
+ትግራይ ክልል,associated_with,ቋንቋ_2324
+ባህር ዳር,has_feature,ሃይማኖት_2325
+መቀሌ,contains,ምግብ_2326
+አዋሳ,related_to,በዓል_2327
+ኢትዮጵያ,known_for,ሙዚቃ_2328
+አዲስ አበባ,associated_with,ስፖርት_2329
+አማራ ክልል,has_feature,ባህል_2330
+ኦሮሚያ ክልል,contains,ታሪክ_2331
+ትግራይ ክልል,related_to,ተፈጥሮ_2332
+ባህር ዳር,known_for,ሕዝብ_2333
+መቀሌ,associated_with,ቋንቋ_2334
+አዋሳ,has_feature,ሃይማኖት_2335
+ኢትዮጵያ,contains,ምግብ_2336
+አዲስ አበባ,related_to,በዓል_2337
+አማራ ክልል,known_for,ሙዚቃ_2338
+ኦሮሚያ ክልል,associated_with,ስፖርት_2339
+ትግራይ ክልል,has_feature,ባህል_2340
+ባህር ዳር,contains,ታሪክ_2341
+መቀሌ,related_to,ተፈጥሮ_2342
+አዋሳ,known_for,ሕዝብ_2343
+ኢትዮጵያ,associated_with,ቋንቋ_2344
+አዲስ አበባ,has_feature,ሃይማኖት_2345
+አማራ ክልል,contains,ምግብ_2346
+ኦሮሚያ ክልል,related_to,በዓል_2347
+ትግራይ ክልል,known_for,ሙዚቃ_2348
+ባህር ዳር,associated_with,ስፖርት_2349
+መቀሌ,has_feature,ባህል_2350
+አዋሳ,contains,ታሪክ_2351
+ኢትዮጵያ,related_to,ተፈጥሮ_2352
+አዲስ አበባ,known_for,ሕዝብ_2353
+አማራ ክልል,associated_with,ቋንቋ_2354
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2355
+ትግራይ ክልል,contains,ምግብ_2356
+ባህር ዳር,related_to,በዓል_2357
+መቀሌ,known_for,ሙዚቃ_2358
+አዋሳ,associated_with,ስፖርት_2359
+ኢትዮጵያ,has_feature,ባህል_2360
+አዲስ አበባ,contains,ታሪክ_2361
+አማራ ክልል,related_to,ተፈጥሮ_2362
+ኦሮሚያ ክልል,known_for,ሕዝብ_2363
+ትግራይ ክልል,associated_with,ቋንቋ_2364
+ባህር ዳር,has_feature,ሃይማኖት_2365
+መቀሌ,contains,ምግብ_2366
+አዋሳ,related_to,በዓል_2367
+ኢትዮጵያ,known_for,ሙዚቃ_2368
+አዲስ አበባ,associated_with,ስፖርት_2369
+አማራ ክልል,has_feature,ባህል_2370
+ኦሮሚያ ክልል,contains,ታሪክ_2371
+ትግራይ ክልል,related_to,ተፈጥሮ_2372
+ባህር ዳር,known_for,ሕዝብ_2373
+መቀሌ,associated_with,ቋንቋ_2374
+አዋሳ,has_feature,ሃይማኖት_2375
+ኢትዮጵያ,contains,ምግብ_2376
+አዲስ አበባ,related_to,በዓል_2377
+አማራ ክልል,known_for,ሙዚቃ_2378
+ኦሮሚያ ክልል,associated_with,ስፖርት_2379
+ትግራይ ክልል,has_feature,ባህል_2380
+ባህር ዳር,contains,ታሪክ_2381
+መቀሌ,related_to,ተፈጥሮ_2382
+አዋሳ,known_for,ሕዝብ_2383
+ኢትዮጵያ,associated_with,ቋንቋ_2384
+አዲስ አበባ,has_feature,ሃይማኖት_2385
+አማራ ክልል,contains,ምግብ_2386
+ኦሮሚያ ክልል,related_to,በዓል_2387
+ትግራይ ክልል,known_for,ሙዚቃ_2388
+ባህር ዳር,associated_with,ስፖርት_2389
+መቀሌ,has_feature,ባህል_2390
+አዋሳ,contains,ታሪክ_2391
+ኢትዮጵያ,related_to,ተፈጥሮ_2392
+አዲስ አበባ,known_for,ሕዝብ_2393
+አማራ ክልል,associated_with,ቋንቋ_2394
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2395
+ትግራይ ክልል,contains,ምግብ_2396
+ባህር ዳር,related_to,በዓል_2397
+መቀሌ,known_for,ሙዚቃ_2398
+አዋሳ,associated_with,ስፖርት_2399
+ኢትዮጵያ,has_feature,ባህል_2400
+አዲስ አበባ,contains,ታሪክ_2401
+አማራ ክልል,related_to,ተፈጥሮ_2402
+ኦሮሚያ ክልል,known_for,ሕዝብ_2403
+ትግራይ ክልል,associated_with,ቋንቋ_2404
+ባህር ዳር,has_feature,ሃይማኖት_2405
+መቀሌ,contains,ምግብ_2406
+አዋሳ,related_to,በዓል_2407
+ኢትዮጵያ,known_for,ሙዚቃ_2408
+አዲስ አበባ,associated_with,ስፖርት_2409
+አማራ ክልል,has_feature,ባህል_2410
+ኦሮሚያ ክልል,contains,ታሪክ_2411
+ትግራይ ክልል,related_to,ተፈጥሮ_2412
+ባህር ዳር,known_for,ሕዝብ_2413
+መቀሌ,associated_with,ቋንቋ_2414
+አዋሳ,has_feature,ሃይማኖት_2415
+ኢትዮጵያ,contains,ምግብ_2416
+አዲስ አበባ,related_to,በዓል_2417
+አማራ ክልል,known_for,ሙዚቃ_2418
+ኦሮሚያ ክልል,associated_with,ስፖርት_2419
+ትግራይ ክልል,has_feature,ባህል_2420
+ባህር ዳር,contains,ታሪክ_2421
+መቀሌ,related_to,ተፈጥሮ_2422
+አዋሳ,known_for,ሕዝብ_2423
+ኢትዮጵያ,associated_with,ቋንቋ_2424
+አዲስ አበባ,has_feature,ሃይማኖት_2425
+አማራ ክልል,contains,ምግብ_2426
+ኦሮሚያ ክልል,related_to,በዓል_2427
+ትግራይ ክልል,known_for,ሙዚቃ_2428
+ባህር ዳር,associated_with,ስፖርት_2429
+መቀሌ,has_feature,ባህል_2430
+አዋሳ,contains,ታሪክ_2431
+ኢትዮጵያ,related_to,ተፈጥሮ_2432
+አዲስ አበባ,known_for,ሕዝብ_2433
+አማራ ክልል,associated_with,ቋንቋ_2434
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2435
+ትግራይ ክልል,contains,ምግብ_2436
+ባህር ዳር,related_to,በዓል_2437
+መቀሌ,known_for,ሙዚቃ_2438
+አዋሳ,associated_with,ስፖርት_2439
+ኢትዮጵያ,has_feature,ባህል_2440
+አዲስ አበባ,contains,ታሪክ_2441
+አማራ ክልል,related_to,ተፈጥሮ_2442
+ኦሮሚያ ክልል,known_for,ሕዝብ_2443
+ትግራይ ክልል,associated_with,ቋንቋ_2444
+ባህር ዳር,has_feature,ሃይማኖት_2445
+መቀሌ,contains,ምግብ_2446
+አዋሳ,related_to,በዓል_2447
+ኢትዮጵያ,known_for,ሙዚቃ_2448
+አዲስ አበባ,associated_with,ስፖርት_2449
+አማራ ክልል,has_feature,ባህል_2450
+ኦሮሚያ ክልል,contains,ታሪክ_2451
+ትግራይ ክልል,related_to,ተፈጥሮ_2452
+ባህር ዳር,known_for,ሕዝብ_2453
+መቀሌ,associated_with,ቋንቋ_2454
+አዋሳ,has_feature,ሃይማኖት_2455
+ኢትዮጵያ,contains,ምግብ_2456
+አዲስ አበባ,related_to,በዓል_2457
+አማራ ክልል,known_for,ሙዚቃ_2458
+ኦሮሚያ ክልል,associated_with,ስፖርት_2459
+ትግራይ ክልል,has_feature,ባህል_2460
+ባህር ዳር,contains,ታሪክ_2461
+መቀሌ,related_to,ተፈጥሮ_2462
+አዋሳ,known_for,ሕዝብ_2463
+ኢትዮጵያ,associated_with,ቋንቋ_2464
+አዲስ አበባ,has_feature,ሃይማኖት_2465
+አማራ ክልል,contains,ምግብ_2466
+ኦሮሚያ ክልል,related_to,በዓል_2467
+ትግራይ ክልል,known_for,ሙዚቃ_2468
+ባህር ዳር,associated_with,ስፖርት_2469
+መቀሌ,has_feature,ባህል_2470
+አዋሳ,contains,ታሪክ_2471
+ኢትዮጵያ,related_to,ተፈጥሮ_2472
+አዲስ አበባ,known_for,ሕዝብ_2473
+አማራ ክልል,associated_with,ቋንቋ_2474
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2475
+ትግራይ ክልል,contains,ምግብ_2476
+ባህር ዳር,related_to,በዓል_2477
+መቀሌ,known_for,ሙዚቃ_2478
+አዋሳ,associated_with,ስፖርት_2479
+ኢትዮጵያ,has_feature,ባህል_2480
+አዲስ አበባ,contains,ታሪክ_2481
+አማራ ክልል,related_to,ተፈጥሮ_2482
+ኦሮሚያ ክልል,known_for,ሕዝብ_2483
+ትግራይ ክልል,associated_with,ቋንቋ_2484
+ባህር ዳር,has_feature,ሃይማኖት_2485
+መቀሌ,contains,ምግብ_2486
+አዋሳ,related_to,በዓል_2487
+ኢትዮጵያ,known_for,ሙዚቃ_2488
+አዲስ አበባ,associated_with,ስፖርት_2489
+አማራ ክልል,has_feature,ባህል_2490
+ኦሮሚያ ክልል,contains,ታሪክ_2491
+ትግራይ ክልል,related_to,ተፈጥሮ_2492
+ባህር ዳር,known_for,ሕዝብ_2493
+መቀሌ,associated_with,ቋንቋ_2494
+አዋሳ,has_feature,ሃይማኖት_2495
+ኢትዮጵያ,contains,ምግብ_2496
+አዲስ አበባ,related_to,በዓል_2497
+አማራ ክልል,known_for,ሙዚቃ_2498
+ኦሮሚያ ክልል,associated_with,ስፖርት_2499
+ትግራይ ክልል,has_feature,ባህል_2500
+ባህር ዳር,contains,ታሪክ_2501
+መቀሌ,related_to,ተፈጥሮ_2502
+አዋሳ,known_for,ሕዝብ_2503
+ኢትዮጵያ,associated_with,ቋንቋ_2504
+አዲስ አበባ,has_feature,ሃይማኖት_2505
+አማራ ክልል,contains,ምግብ_2506
+ኦሮሚያ ክልል,related_to,በዓል_2507
+ትግራይ ክልል,known_for,ሙዚቃ_2508
+ባህር ዳር,associated_with,ስፖርት_2509
+መቀሌ,has_feature,ባህል_2510
+አዋሳ,contains,ታሪክ_2511
+ኢትዮጵያ,related_to,ተፈጥሮ_2512
+አዲስ አበባ,known_for,ሕዝብ_2513
+አማራ ክልል,associated_with,ቋንቋ_2514
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2515
+ትግራይ ክልል,contains,ምግብ_2516
+ባህር ዳር,related_to,በዓል_2517
+መቀሌ,known_for,ሙዚቃ_2518
+አዋሳ,associated_with,ስፖርት_2519
+ኢትዮጵያ,has_feature,ባህል_2520
+አዲስ አበባ,contains,ታሪክ_2521
+አማራ ክልል,related_to,ተፈጥሮ_2522
+ኦሮሚያ ክልል,known_for,ሕዝብ_2523
+ትግራይ ክልል,associated_with,ቋንቋ_2524
+ባህር ዳር,has_feature,ሃይማኖት_2525
+መቀሌ,contains,ምግብ_2526
+አዋሳ,related_to,በዓል_2527
+ኢትዮጵያ,known_for,ሙዚቃ_2528
+አዲስ አበባ,associated_with,ስፖርት_2529
+አማራ ክልል,has_feature,ባህል_2530
+ኦሮሚያ ክልል,contains,ታሪክ_2531
+ትግራይ ክልል,related_to,ተፈጥሮ_2532
+ባህር ዳር,known_for,ሕዝብ_2533
+መቀሌ,associated_with,ቋንቋ_2534
+አዋሳ,has_feature,ሃይማኖት_2535
+ኢትዮጵያ,contains,ምግብ_2536
+አዲስ አበባ,related_to,በዓል_2537
+አማራ ክልል,known_for,ሙዚቃ_2538
+ኦሮሚያ ክልል,associated_with,ስፖርት_2539
+ትግራይ ክልል,has_feature,ባህል_2540
+ባህር ዳር,contains,ታሪክ_2541
+መቀሌ,related_to,ተፈጥሮ_2542
+አዋሳ,known_for,ሕዝብ_2543
+ኢትዮጵያ,associated_with,ቋንቋ_2544
+አዲስ አበባ,has_feature,ሃይማኖት_2545
+አማራ ክልል,contains,ምግብ_2546
+ኦሮሚያ ክልል,related_to,በዓል_2547
+ትግራይ ክልል,known_for,ሙዚቃ_2548
+ባህር ዳር,associated_with,ስፖርት_2549
+መቀሌ,has_feature,ባህል_2550
+አዋሳ,contains,ታሪክ_2551
+ኢትዮጵያ,related_to,ተፈጥሮ_2552
+አዲስ አበባ,known_for,ሕዝብ_2553
+አማራ ክልል,associated_with,ቋንቋ_2554
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2555
+ትግራይ ክልል,contains,ምግብ_2556
+ባህር ዳር,related_to,በዓል_2557
+መቀሌ,known_for,ሙዚቃ_2558
+አዋሳ,associated_with,ስፖርት_2559
+ኢትዮጵያ,has_feature,ባህል_2560
+አዲስ አበባ,contains,ታሪክ_2561
+አማራ ክልል,related_to,ተፈጥሮ_2562
+ኦሮሚያ ክልል,known_for,ሕዝብ_2563
+ትግራይ ክልል,associated_with,ቋንቋ_2564
+ባህር ዳር,has_feature,ሃይማኖት_2565
+መቀሌ,contains,ምግብ_2566
+አዋሳ,related_to,በዓል_2567
+ኢትዮጵያ,known_for,ሙዚቃ_2568
+አዲስ አበባ,associated_with,ስፖርት_2569
+አማራ ክልል,has_feature,ባህል_2570
+ኦሮሚያ ክልል,contains,ታሪክ_2571
+ትግራይ ክልል,related_to,ተፈጥሮ_2572
+ባህር ዳር,known_for,ሕዝብ_2573
+መቀሌ,associated_with,ቋንቋ_2574
+አዋሳ,has_feature,ሃይማኖት_2575
+ኢትዮጵያ,contains,ምግብ_2576
+አዲስ አበባ,related_to,በዓል_2577
+አማራ ክልል,known_for,ሙዚቃ_2578
+ኦሮሚያ ክልል,associated_with,ስፖርት_2579
+ትግራይ ክልል,has_feature,ባህል_2580
+ባህር ዳር,contains,ታሪክ_2581
+መቀሌ,related_to,ተፈጥሮ_2582
+አዋሳ,known_for,ሕዝብ_2583
+ኢትዮጵያ,associated_with,ቋንቋ_2584
+አዲስ አበባ,has_feature,ሃይማኖት_2585
+አማራ ክልል,contains,ምግብ_2586
+ኦሮሚያ ክልል,related_to,በዓል_2587
+ትግራይ ክልል,known_for,ሙዚቃ_2588
+ባህር ዳር,associated_with,ስፖርት_2589
+መቀሌ,has_feature,ባህል_2590
+አዋሳ,contains,ታሪክ_2591
+ኢትዮጵያ,related_to,ተፈጥሮ_2592
+አዲስ አበባ,known_for,ሕዝብ_2593
+አማራ ክልል,associated_with,ቋንቋ_2594
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2595
+ትግራይ ክልል,contains,ምግብ_2596
+ባህር ዳር,related_to,በዓል_2597
+መቀሌ,known_for,ሙዚቃ_2598
+አዋሳ,associated_with,ስፖርት_2599
+ኢትዮጵያ,has_feature,ባህል_2600
+አዲስ አበባ,contains,ታሪክ_2601
+አማራ ክልል,related_to,ተፈጥሮ_2602
+ኦሮሚያ ክልል,known_for,ሕዝብ_2603
+ትግራይ ክልል,associated_with,ቋንቋ_2604
+ባህር ዳር,has_feature,ሃይማኖት_2605
+መቀሌ,contains,ምግብ_2606
+አዋሳ,related_to,በዓል_2607
+ኢትዮጵያ,known_for,ሙዚቃ_2608
+አዲስ አበባ,associated_with,ስፖርት_2609
+አማራ ክልል,has_feature,ባህል_2610
+ኦሮሚያ ክልል,contains,ታሪክ_2611
+ትግራይ ክልል,related_to,ተፈጥሮ_2612
+ባህር ዳር,known_for,ሕዝብ_2613
+መቀሌ,associated_with,ቋንቋ_2614
+አዋሳ,has_feature,ሃይማኖት_2615
+ኢትዮጵያ,contains,ምግብ_2616
+አዲስ አበባ,related_to,በዓል_2617
+አማራ ክልል,known_for,ሙዚቃ_2618
+ኦሮሚያ ክልል,associated_with,ስፖርት_2619
+ትግራይ ክልል,has_feature,ባህል_2620
+ባህር ዳር,contains,ታሪክ_2621
+መቀሌ,related_to,ተፈጥሮ_2622
+አዋሳ,known_for,ሕዝብ_2623
+ኢትዮጵያ,associated_with,ቋንቋ_2624
+አዲስ አበባ,has_feature,ሃይማኖት_2625
+አማራ ክልል,contains,ምግብ_2626
+ኦሮሚያ ክልል,related_to,በዓል_2627
+ትግራይ ክልል,known_for,ሙዚቃ_2628
+ባህር ዳር,associated_with,ስፖርት_2629
+መቀሌ,has_feature,ባህል_2630
+አዋሳ,contains,ታሪክ_2631
+ኢትዮጵያ,related_to,ተፈጥሮ_2632
+አዲስ አበባ,known_for,ሕዝብ_2633
+አማራ ክልል,associated_with,ቋንቋ_2634
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2635
+ትግራይ ክልል,contains,ምግብ_2636
+ባህር ዳር,related_to,በዓል_2637
+መቀሌ,known_for,ሙዚቃ_2638
+አዋሳ,associated_with,ስፖርት_2639
+ኢትዮጵያ,has_feature,ባህል_2640
+አዲስ አበባ,contains,ታሪክ_2641
+አማራ ክልል,related_to,ተፈጥሮ_2642
+ኦሮሚያ ክልል,known_for,ሕዝብ_2643
+ትግራይ ክልል,associated_with,ቋንቋ_2644
+ባህር ዳር,has_feature,ሃይማኖት_2645
+መቀሌ,contains,ምግብ_2646
+አዋሳ,related_to,በዓል_2647
+ኢትዮጵያ,known_for,ሙዚቃ_2648
+አዲስ አበባ,associated_with,ስፖርት_2649
+አማራ ክልል,has_feature,ባህል_2650
+ኦሮሚያ ክልል,contains,ታሪክ_2651
+ትግራይ ክልል,related_to,ተፈጥሮ_2652
+ባህር ዳር,known_for,ሕዝብ_2653
+መቀሌ,associated_with,ቋንቋ_2654
+አዋሳ,has_feature,ሃይማኖት_2655
+ኢትዮጵያ,contains,ምግብ_2656
+አዲስ አበባ,related_to,በዓል_2657
+አማራ ክልል,known_for,ሙዚቃ_2658
+ኦሮሚያ ክልል,associated_with,ስፖርት_2659
+ትግራይ ክልል,has_feature,ባህል_2660
+ባህር ዳር,contains,ታሪክ_2661
+መቀሌ,related_to,ተፈጥሮ_2662
+አዋሳ,known_for,ሕዝብ_2663
+ኢትዮጵያ,associated_with,ቋንቋ_2664
+አዲስ አበባ,has_feature,ሃይማኖት_2665
+አማራ ክልል,contains,ምግብ_2666
+ኦሮሚያ ክልል,related_to,በዓል_2667
+ትግራይ ክልል,known_for,ሙዚቃ_2668
+ባህር ዳር,associated_with,ስፖርት_2669
+መቀሌ,has_feature,ባህል_2670
+አዋሳ,contains,ታሪክ_2671
+ኢትዮጵያ,related_to,ተፈጥሮ_2672
+አዲስ አበባ,known_for,ሕዝብ_2673
+አማራ ክልል,associated_with,ቋንቋ_2674
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2675
+ትግራይ ክልል,contains,ምግብ_2676
+ባህር ዳር,related_to,በዓል_2677
+መቀሌ,known_for,ሙዚቃ_2678
+አዋሳ,associated_with,ስፖርት_2679
+ኢትዮጵያ,has_feature,ባህል_2680
+አዲስ አበባ,contains,ታሪክ_2681
+አማራ ክልል,related_to,ተፈጥሮ_2682
+ኦሮሚያ ክልል,known_for,ሕዝብ_2683
+ትግራይ ክልል,associated_with,ቋንቋ_2684
+ባህር ዳር,has_feature,ሃይማኖት_2685
+መቀሌ,contains,ምግብ_2686
+አዋሳ,related_to,በዓል_2687
+ኢትዮጵያ,known_for,ሙዚቃ_2688
+አዲስ አበባ,associated_with,ስፖርት_2689
+አማራ ክልል,has_feature,ባህል_2690
+ኦሮሚያ ክልል,contains,ታሪክ_2691
+ትግራይ ክልል,related_to,ተፈጥሮ_2692
+ባህር ዳር,known_for,ሕዝብ_2693
+መቀሌ,associated_with,ቋንቋ_2694
+አዋሳ,has_feature,ሃይማኖት_2695
+ኢትዮጵያ,contains,ምግብ_2696
+አዲስ አበባ,related_to,በዓል_2697
+አማራ ክልል,known_for,ሙዚቃ_2698
+ኦሮሚያ ክልል,associated_with,ስፖርት_2699
+ትግራይ ክልል,has_feature,ባህል_2700
+ባህር ዳር,contains,ታሪክ_2701
+መቀሌ,related_to,ተፈጥሮ_2702
+አዋሳ,known_for,ሕዝብ_2703
+ኢትዮጵያ,associated_with,ቋንቋ_2704
+አዲስ አበባ,has_feature,ሃይማኖት_2705
+አማራ ክልል,contains,ምግብ_2706
+ኦሮሚያ ክልል,related_to,በዓል_2707
+ትግራይ ክልል,known_for,ሙዚቃ_2708
+ባህር ዳር,associated_with,ስፖርት_2709
+መቀሌ,has_feature,ባህል_2710
+አዋሳ,contains,ታሪክ_2711
+ኢትዮጵያ,related_to,ተፈጥሮ_2712
+አዲስ አበባ,known_for,ሕዝብ_2713
+አማራ ክልል,associated_with,ቋንቋ_2714
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2715
+ትግራይ ክልል,contains,ምግብ_2716
+ባህር ዳር,related_to,በዓል_2717
+መቀሌ,known_for,ሙዚቃ_2718
+አዋሳ,associated_with,ስፖርት_2719
+ኢትዮጵያ,has_feature,ባህል_2720
+አዲስ አበባ,contains,ታሪክ_2721
+አማራ ክልል,related_to,ተፈጥሮ_2722
+ኦሮሚያ ክልል,known_for,ሕዝብ_2723
+ትግራይ ክልል,associated_with,ቋንቋ_2724
+ባህር ዳር,has_feature,ሃይማኖት_2725
+መቀሌ,contains,ምግብ_2726
+አዋሳ,related_to,በዓል_2727
+ኢትዮጵያ,known_for,ሙዚቃ_2728
+አዲስ አበባ,associated_with,ስፖርት_2729
+አማራ ክልል,has_feature,ባህል_2730
+ኦሮሚያ ክልል,contains,ታሪክ_2731
+ትግራይ ክልል,related_to,ተፈጥሮ_2732
+ባህር ዳር,known_for,ሕዝብ_2733
+መቀሌ,associated_with,ቋንቋ_2734
+አዋሳ,has_feature,ሃይማኖት_2735
+ኢትዮጵያ,contains,ምግብ_2736
+አዲስ አበባ,related_to,በዓል_2737
+አማራ ክልል,known_for,ሙዚቃ_2738
+ኦሮሚያ ክልል,associated_with,ስፖርት_2739
+ትግራይ ክልል,has_feature,ባህል_2740
+ባህር ዳር,contains,ታሪክ_2741
+መቀሌ,related_to,ተፈጥሮ_2742
+አዋሳ,known_for,ሕዝብ_2743
+ኢትዮጵያ,associated_with,ቋንቋ_2744
+አዲስ አበባ,has_feature,ሃይማኖት_2745
+አማራ ክልል,contains,ምግብ_2746
+ኦሮሚያ ክልል,related_to,በዓል_2747
+ትግራይ ክልል,known_for,ሙዚቃ_2748
+ባህር ዳር,associated_with,ስፖርት_2749
+መቀሌ,has_feature,ባህል_2750
+አዋሳ,contains,ታሪክ_2751
+ኢትዮጵያ,related_to,ተፈጥሮ_2752
+አዲስ አበባ,known_for,ሕዝብ_2753
+አማራ ክልል,associated_with,ቋንቋ_2754
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2755
+ትግራይ ክልል,contains,ምግብ_2756
+ባህር ዳር,related_to,በዓል_2757
+መቀሌ,known_for,ሙዚቃ_2758
+አዋሳ,associated_with,ስፖርት_2759
+ኢትዮጵያ,has_feature,ባህል_2760
+አዲስ አበባ,contains,ታሪክ_2761
+አማራ ክልል,related_to,ተፈጥሮ_2762
+ኦሮሚያ ክልል,known_for,ሕዝብ_2763
+ትግራይ ክልል,associated_with,ቋንቋ_2764
+ባህር ዳር,has_feature,ሃይማኖት_2765
+መቀሌ,contains,ምግብ_2766
+አዋሳ,related_to,በዓል_2767
+ኢትዮጵያ,known_for,ሙዚቃ_2768
+አዲስ አበባ,associated_with,ስፖርት_2769
+አማራ ክልል,has_feature,ባህል_2770
+ኦሮሚያ ክልል,contains,ታሪክ_2771
+ትግራይ ክልል,related_to,ተፈጥሮ_2772
+ባህር ዳር,known_for,ሕዝብ_2773
+መቀሌ,associated_with,ቋንቋ_2774
+አዋሳ,has_feature,ሃይማኖት_2775
+ኢትዮጵያ,contains,ምግብ_2776
+አዲስ አበባ,related_to,በዓል_2777
+አማራ ክልል,known_for,ሙዚቃ_2778
+ኦሮሚያ ክልል,associated_with,ስፖርት_2779
+ትግራይ ክልል,has_feature,ባህል_2780
+ባህር ዳር,contains,ታሪክ_2781
+መቀሌ,related_to,ተፈጥሮ_2782
+አዋሳ,known_for,ሕዝብ_2783
+ኢትዮጵያ,associated_with,ቋንቋ_2784
+አዲስ አበባ,has_feature,ሃይማኖት_2785
+አማራ ክልል,contains,ምግብ_2786
+ኦሮሚያ ክልል,related_to,በዓል_2787
+ትግራይ ክልል,known_for,ሙዚቃ_2788
+ባህር ዳር,associated_with,ስፖርት_2789
+መቀሌ,has_feature,ባህል_2790
+አዋሳ,contains,ታሪክ_2791
+ኢትዮጵያ,related_to,ተፈጥሮ_2792
+አዲስ አበባ,known_for,ሕዝብ_2793
+አማራ ክልል,associated_with,ቋንቋ_2794
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2795
+ትግራይ ክልል,contains,ምግብ_2796
+ባህር ዳር,related_to,በዓል_2797
+መቀሌ,known_for,ሙዚቃ_2798
+አዋሳ,associated_with,ስፖርት_2799
+ኢትዮጵያ,has_feature,ባህል_2800
+አዲስ አበባ,contains,ታሪክ_2801
+አማራ ክልል,related_to,ተፈጥሮ_2802
+ኦሮሚያ ክልል,known_for,ሕዝብ_2803
+ትግራይ ክልል,associated_with,ቋንቋ_2804
+ባህር ዳር,has_feature,ሃይማኖት_2805
+መቀሌ,contains,ምግብ_2806
+አዋሳ,related_to,በዓል_2807
+ኢትዮጵያ,known_for,ሙዚቃ_2808
+አዲስ አበባ,associated_with,ስፖርት_2809
+አማራ ክልል,has_feature,ባህል_2810
+ኦሮሚያ ክልል,contains,ታሪክ_2811
+ትግራይ ክልል,related_to,ተፈጥሮ_2812
+ባህር ዳር,known_for,ሕዝብ_2813
+መቀሌ,associated_with,ቋንቋ_2814
+አዋሳ,has_feature,ሃይማኖት_2815
+ኢትዮጵያ,contains,ምግብ_2816
+አዲስ አበባ,related_to,በዓል_2817
+አማራ ክልል,known_for,ሙዚቃ_2818
+ኦሮሚያ ክልል,associated_with,ስፖርት_2819
+ትግራይ ክልል,has_feature,ባህል_2820
+ባህር ዳር,contains,ታሪክ_2821
+መቀሌ,related_to,ተፈጥሮ_2822
+አዋሳ,known_for,ሕዝብ_2823
+ኢትዮጵያ,associated_with,ቋንቋ_2824
+አዲስ አበባ,has_feature,ሃይማኖት_2825
+አማራ ክልል,contains,ምግብ_2826
+ኦሮሚያ ክልል,related_to,በዓል_2827
+ትግራይ ክልል,known_for,ሙዚቃ_2828
+ባህር ዳር,associated_with,ስፖርት_2829
+መቀሌ,has_feature,ባህል_2830
+አዋሳ,contains,ታሪክ_2831
+ኢትዮጵያ,related_to,ተፈጥሮ_2832
+አዲስ አበባ,known_for,ሕዝብ_2833
+አማራ ክልል,associated_with,ቋንቋ_2834
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2835
+ትግራይ ክልል,contains,ምግብ_2836
+ባህር ዳር,related_to,በዓል_2837
+መቀሌ,known_for,ሙዚቃ_2838
+አዋሳ,associated_with,ስፖርት_2839
+ኢትዮጵያ,has_feature,ባህል_2840
+አዲስ አበባ,contains,ታሪክ_2841
+አማራ ክልል,related_to,ተፈጥሮ_2842
+ኦሮሚያ ክልል,known_for,ሕዝብ_2843
+ትግራይ ክልል,associated_with,ቋንቋ_2844
+ባህር ዳር,has_feature,ሃይማኖት_2845
+መቀሌ,contains,ምግብ_2846
+አዋሳ,related_to,በዓል_2847
+ኢትዮጵያ,known_for,ሙዚቃ_2848
+አዲስ አበባ,associated_with,ስፖርት_2849
+አማራ ክልል,has_feature,ባህል_2850
+ኦሮሚያ ክልል,contains,ታሪክ_2851
+ትግራይ ክልል,related_to,ተፈጥሮ_2852
+ባህር ዳር,known_for,ሕዝብ_2853
+መቀሌ,associated_with,ቋንቋ_2854
+አዋሳ,has_feature,ሃይማኖት_2855
+ኢትዮጵያ,contains,ምግብ_2856
+አዲስ አበባ,related_to,በዓል_2857
+አማራ ክልል,known_for,ሙዚቃ_2858
+ኦሮሚያ ክልል,associated_with,ስፖርት_2859
+ትግራይ ክልል,has_feature,ባህል_2860
+ባህር ዳር,contains,ታሪክ_2861
+መቀሌ,related_to,ተፈጥሮ_2862
+አዋሳ,known_for,ሕዝብ_2863
+ኢትዮጵያ,associated_with,ቋንቋ_2864
+አዲስ አበባ,has_feature,ሃይማኖት_2865
+አማራ ክልል,contains,ምግብ_2866
+ኦሮሚያ ክልል,related_to,በዓል_2867
+ትግራይ ክልል,known_for,ሙዚቃ_2868
+ባህር ዳር,associated_with,ስፖርት_2869
+መቀሌ,has_feature,ባህል_2870
+አዋሳ,contains,ታሪክ_2871
+ኢትዮጵያ,related_to,ተፈጥሮ_2872
+አዲስ አበባ,known_for,ሕዝብ_2873
+አማራ ክልል,associated_with,ቋንቋ_2874
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2875
+ትግራይ ክልል,contains,ምግብ_2876
+ባህር ዳር,related_to,በዓል_2877
+መቀሌ,known_for,ሙዚቃ_2878
+አዋሳ,associated_with,ስፖርት_2879
+ኢትዮጵያ,has_feature,ባህል_2880
+አዲስ አበባ,contains,ታሪክ_2881
+አማራ ክልል,related_to,ተፈጥሮ_2882
+ኦሮሚያ ክልል,known_for,ሕዝብ_2883
+ትግራይ ክልል,associated_with,ቋንቋ_2884
+ባህር ዳር,has_feature,ሃይማኖት_2885
+መቀሌ,contains,ምግብ_2886
+አዋሳ,related_to,በዓል_2887
+ኢትዮጵያ,known_for,ሙዚቃ_2888
+አዲስ አበባ,associated_with,ስፖርት_2889
+አማራ ክልል,has_feature,ባህል_2890
+ኦሮሚያ ክልል,contains,ታሪክ_2891
+ትግራይ ክልል,related_to,ተፈጥሮ_2892
+ባህር ዳር,known_for,ሕዝብ_2893
+መቀሌ,associated_with,ቋንቋ_2894
+አዋሳ,has_feature,ሃይማኖት_2895
+ኢትዮጵያ,contains,ምግብ_2896
+አዲስ አበባ,related_to,በዓል_2897
+አማራ ክልል,known_for,ሙዚቃ_2898
+ኦሮሚያ ክልል,associated_with,ስፖርት_2899
+ትግራይ ክልል,has_feature,ባህል_2900
+ባህር ዳር,contains,ታሪክ_2901
+መቀሌ,related_to,ተፈጥሮ_2902
+አዋሳ,known_for,ሕዝብ_2903
+ኢትዮጵያ,associated_with,ቋንቋ_2904
+አዲስ አበባ,has_feature,ሃይማኖት_2905
+አማራ ክልል,contains,ምግብ_2906
+ኦሮሚያ ክልል,related_to,በዓል_2907
+ትግራይ ክልል,known_for,ሙዚቃ_2908
+ባህር ዳር,associated_with,ስፖርት_2909
+መቀሌ,has_feature,ባህል_2910
+አዋሳ,contains,ታሪክ_2911
+ኢትዮጵያ,related_to,ተፈጥሮ_2912
+አዲስ አበባ,known_for,ሕዝብ_2913
+አማራ ክልል,associated_with,ቋንቋ_2914
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2915
+ትግራይ ክልል,contains,ምግብ_2916
+ባህር ዳር,related_to,በዓል_2917
+መቀሌ,known_for,ሙዚቃ_2918
+አዋሳ,associated_with,ስፖርት_2919
+ኢትዮጵያ,has_feature,ባህል_2920
+አዲስ አበባ,contains,ታሪክ_2921
+አማራ ክልል,related_to,ተፈጥሮ_2922
+ኦሮሚያ ክልል,known_for,ሕዝብ_2923
+ትግራይ ክልል,associated_with,ቋንቋ_2924
+ባህር ዳር,has_feature,ሃይማኖት_2925
+መቀሌ,contains,ምግብ_2926
+አዋሳ,related_to,በዓል_2927
+ኢትዮጵያ,known_for,ሙዚቃ_2928
+አዲስ አበባ,associated_with,ስፖርት_2929
+አማራ ክልል,has_feature,ባህል_2930
+ኦሮሚያ ክልል,contains,ታሪክ_2931
+ትግራይ ክልል,related_to,ተፈጥሮ_2932
+ባህር ዳር,known_for,ሕዝብ_2933
+መቀሌ,associated_with,ቋንቋ_2934
+አዋሳ,has_feature,ሃይማኖት_2935
+ኢትዮጵያ,contains,ምግብ_2936
+አዲስ አበባ,related_to,በዓል_2937
+አማራ ክልል,known_for,ሙዚቃ_2938
+ኦሮሚያ ክልል,associated_with,ስፖርት_2939
+ትግራይ ክልል,has_feature,ባህል_2940
+ባህር ዳር,contains,ታሪክ_2941
+መቀሌ,related_to,ተፈጥሮ_2942
+አዋሳ,known_for,ሕዝብ_2943
+ኢትዮጵያ,associated_with,ቋንቋ_2944
+አዲስ አበባ,has_feature,ሃይማኖት_2945
+አማራ ክልል,contains,ምግብ_2946
+ኦሮሚያ ክልል,related_to,በዓል_2947
+ትግራይ ክልል,known_for,ሙዚቃ_2948
+ባህር ዳር,associated_with,ስፖርት_2949
+መቀሌ,has_feature,ባህል_2950
+አዋሳ,contains,ታሪክ_2951
+ኢትዮጵያ,related_to,ተፈጥሮ_2952
+አዲስ አበባ,known_for,ሕዝብ_2953
+አማራ ክልል,associated_with,ቋንቋ_2954
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2955
+ትግራይ ክልል,contains,ምግብ_2956
+ባህር ዳር,related_to,በዓል_2957
+መቀሌ,known_for,ሙዚቃ_2958
+አዋሳ,associated_with,ስፖርት_2959
+ኢትዮጵያ,has_feature,ባህል_2960
+አዲስ አበባ,contains,ታሪክ_2961
+አማራ ክልል,related_to,ተፈጥሮ_2962
+ኦሮሚያ ክልል,known_for,ሕዝብ_2963
+ትግራይ ክልል,associated_with,ቋንቋ_2964
+ባህር ዳር,has_feature,ሃይማኖት_2965
+መቀሌ,contains,ምግብ_2966
+አዋሳ,related_to,በዓል_2967
+ኢትዮጵያ,known_for,ሙዚቃ_2968
+አዲስ አበባ,associated_with,ስፖርት_2969
+አማራ ክልል,has_feature,ባህል_2970
+ኦሮሚያ ክልል,contains,ታሪክ_2971
+ትግራይ ክልል,related_to,ተፈጥሮ_2972
+ባህር ዳር,known_for,ሕዝብ_2973
+መቀሌ,associated_with,ቋንቋ_2974
+አዋሳ,has_feature,ሃይማኖት_2975
+ኢትዮጵያ,contains,ምግብ_2976
+አዲስ አበባ,related_to,በዓል_2977
+አማራ ክልል,known_for,ሙዚቃ_2978
+ኦሮሚያ ክልል,associated_with,ስፖርት_2979
+ትግራይ ክልል,has_feature,ባህል_2980
+ባህር ዳር,contains,ታሪክ_2981
+መቀሌ,related_to,ተፈጥሮ_2982
+አዋሳ,known_for,ሕዝብ_2983
+ኢትዮጵያ,associated_with,ቋንቋ_2984
+አዲስ አበባ,has_feature,ሃይማኖት_2985
+አማራ ክልል,contains,ምግብ_2986
+ኦሮሚያ ክልል,related_to,በዓል_2987
+ትግራይ ክልል,known_for,ሙዚቃ_2988
+ባህር ዳር,associated_with,ስፖርት_2989
+መቀሌ,has_feature,ባህል_2990
+አዋሳ,contains,ታሪክ_2991
+ኢትዮጵያ,related_to,ተፈጥሮ_2992
+አዲስ አበባ,known_for,ሕዝብ_2993
+አማራ ክልል,associated_with,ቋንቋ_2994
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_2995
+ትግራይ ክልል,contains,ምግብ_2996
+ባህር ዳር,related_to,በዓል_2997
+መቀሌ,known_for,ሙዚቃ_2998
+አዋሳ,associated_with,ስፖርት_2999
+ኢትዮጵያ,has_feature,ባህል_3000
+አዲስ አበባ,contains,ታሪክ_3001
+አማራ ክልል,related_to,ተፈጥሮ_3002
+ኦሮሚያ ክልል,known_for,ሕዝብ_3003
+ትግራይ ክልል,associated_with,ቋንቋ_3004
+ባህር ዳር,has_feature,ሃይማኖት_3005
+መቀሌ,contains,ምግብ_3006
+አዋሳ,related_to,በዓል_3007
+ኢትዮጵያ,known_for,ሙዚቃ_3008
+አዲስ አበባ,associated_with,ስፖርት_3009
+አማራ ክልል,has_feature,ባህል_3010
+ኦሮሚያ ክልል,contains,ታሪክ_3011
+ትግራይ ክልል,related_to,ተፈጥሮ_3012
+ባህር ዳር,known_for,ሕዝብ_3013
+መቀሌ,associated_with,ቋንቋ_3014
+አዋሳ,has_feature,ሃይማኖት_3015
+ኢትዮጵያ,contains,ምግብ_3016
+አዲስ አበባ,related_to,በዓል_3017
+አማራ ክልል,known_for,ሙዚቃ_3018
+ኦሮሚያ ክልል,associated_with,ስፖርት_3019
+ትግራይ ክልል,has_feature,ባህል_3020
+ባህር ዳር,contains,ታሪክ_3021
+መቀሌ,related_to,ተፈጥሮ_3022
+አዋሳ,known_for,ሕዝብ_3023
+ኢትዮጵያ,associated_with,ቋንቋ_3024
+አዲስ አበባ,has_feature,ሃይማኖት_3025
+አማራ ክልል,contains,ምግብ_3026
+ኦሮሚያ ክልል,related_to,በዓል_3027
+ትግራይ ክልል,known_for,ሙዚቃ_3028
+ባህር ዳር,associated_with,ስፖርት_3029
+መቀሌ,has_feature,ባህል_3030
+አዋሳ,contains,ታሪክ_3031
+ኢትዮጵያ,related_to,ተፈጥሮ_3032
+አዲስ አበባ,known_for,ሕዝብ_3033
+አማራ ክልል,associated_with,ቋንቋ_3034
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3035
+ትግራይ ክልል,contains,ምግብ_3036
+ባህር ዳር,related_to,በዓል_3037
+መቀሌ,known_for,ሙዚቃ_3038
+አዋሳ,associated_with,ስፖርት_3039
+ኢትዮጵያ,has_feature,ባህል_3040
+አዲስ አበባ,contains,ታሪክ_3041
+አማራ ክልል,related_to,ተፈጥሮ_3042
+ኦሮሚያ ክልል,known_for,ሕዝብ_3043
+ትግራይ ክልል,associated_with,ቋንቋ_3044
+ባህር ዳር,has_feature,ሃይማኖት_3045
+መቀሌ,contains,ምግብ_3046
+አዋሳ,related_to,በዓል_3047
+ኢትዮጵያ,known_for,ሙዚቃ_3048
+አዲስ አበባ,associated_with,ስፖርት_3049
+አማራ ክልል,has_feature,ባህል_3050
+ኦሮሚያ ክልል,contains,ታሪክ_3051
+ትግራይ ክልል,related_to,ተፈጥሮ_3052
+ባህር ዳር,known_for,ሕዝብ_3053
+መቀሌ,associated_with,ቋንቋ_3054
+አዋሳ,has_feature,ሃይማኖት_3055
+ኢትዮጵያ,contains,ምግብ_3056
+አዲስ አበባ,related_to,በዓል_3057
+አማራ ክልል,known_for,ሙዚቃ_3058
+ኦሮሚያ ክልል,associated_with,ስፖርት_3059
+ትግራይ ክልል,has_feature,ባህል_3060
+ባህር ዳር,contains,ታሪክ_3061
+መቀሌ,related_to,ተፈጥሮ_3062
+አዋሳ,known_for,ሕዝብ_3063
+ኢትዮጵያ,associated_with,ቋንቋ_3064
+አዲስ አበባ,has_feature,ሃይማኖት_3065
+አማራ ክልል,contains,ምግብ_3066
+ኦሮሚያ ክልል,related_to,በዓል_3067
+ትግራይ ክልል,known_for,ሙዚቃ_3068
+ባህር ዳር,associated_with,ስፖርት_3069
+መቀሌ,has_feature,ባህል_3070
+አዋሳ,contains,ታሪክ_3071
+ኢትዮጵያ,related_to,ተፈጥሮ_3072
+አዲስ አበባ,known_for,ሕዝብ_3073
+አማራ ክልል,associated_with,ቋንቋ_3074
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3075
+ትግራይ ክልል,contains,ምግብ_3076
+ባህር ዳር,related_to,በዓል_3077
+መቀሌ,known_for,ሙዚቃ_3078
+አዋሳ,associated_with,ስፖርት_3079
+ኢትዮጵያ,has_feature,ባህል_3080
+አዲስ አበባ,contains,ታሪክ_3081
+አማራ ክልል,related_to,ተፈጥሮ_3082
+ኦሮሚያ ክልል,known_for,ሕዝብ_3083
+ትግራይ ክልል,associated_with,ቋንቋ_3084
+ባህር ዳር,has_feature,ሃይማኖት_3085
+መቀሌ,contains,ምግብ_3086
+አዋሳ,related_to,በዓል_3087
+ኢትዮጵያ,known_for,ሙዚቃ_3088
+አዲስ አበባ,associated_with,ስፖርት_3089
+አማራ ክልል,has_feature,ባህል_3090
+ኦሮሚያ ክልል,contains,ታሪክ_3091
+ትግራይ ክልል,related_to,ተፈጥሮ_3092
+ባህር ዳር,known_for,ሕዝብ_3093
+መቀሌ,associated_with,ቋንቋ_3094
+አዋሳ,has_feature,ሃይማኖት_3095
+ኢትዮጵያ,contains,ምግብ_3096
+አዲስ አበባ,related_to,በዓል_3097
+አማራ ክልል,known_for,ሙዚቃ_3098
+ኦሮሚያ ክልል,associated_with,ስፖርት_3099
+ትግራይ ክልል,has_feature,ባህል_3100
+ባህር ዳር,contains,ታሪክ_3101
+መቀሌ,related_to,ተፈጥሮ_3102
+አዋሳ,known_for,ሕዝብ_3103
+ኢትዮጵያ,associated_with,ቋንቋ_3104
+አዲስ አበባ,has_feature,ሃይማኖት_3105
+አማራ ክልል,contains,ምግብ_3106
+ኦሮሚያ ክልል,related_to,በዓል_3107
+ትግራይ ክልል,known_for,ሙዚቃ_3108
+ባህር ዳር,associated_with,ስፖርት_3109
+መቀሌ,has_feature,ባህል_3110
+አዋሳ,contains,ታሪክ_3111
+ኢትዮጵያ,related_to,ተፈጥሮ_3112
+አዲስ አበባ,known_for,ሕዝብ_3113
+አማራ ክልል,associated_with,ቋንቋ_3114
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3115
+ትግራይ ክልል,contains,ምግብ_3116
+ባህር ዳር,related_to,በዓል_3117
+መቀሌ,known_for,ሙዚቃ_3118
+አዋሳ,associated_with,ስፖርት_3119
+ኢትዮጵያ,has_feature,ባህል_3120
+አዲስ አበባ,contains,ታሪክ_3121
+አማራ ክልል,related_to,ተፈጥሮ_3122
+ኦሮሚያ ክልል,known_for,ሕዝብ_3123
+ትግራይ ክልል,associated_with,ቋንቋ_3124
+ባህር ዳር,has_feature,ሃይማኖት_3125
+መቀሌ,contains,ምግብ_3126
+አዋሳ,related_to,በዓል_3127
+ኢትዮጵያ,known_for,ሙዚቃ_3128
+አዲስ አበባ,associated_with,ስፖርት_3129
+አማራ ክልል,has_feature,ባህል_3130
+ኦሮሚያ ክልል,contains,ታሪክ_3131
+ትግራይ ክልል,related_to,ተፈጥሮ_3132
+ባህር ዳር,known_for,ሕዝብ_3133
+መቀሌ,associated_with,ቋንቋ_3134
+አዋሳ,has_feature,ሃይማኖት_3135
+ኢትዮጵያ,contains,ምግብ_3136
+አዲስ አበባ,related_to,በዓል_3137
+አማራ ክልል,known_for,ሙዚቃ_3138
+ኦሮሚያ ክልል,associated_with,ስፖርት_3139
+ትግራይ ክልል,has_feature,ባህል_3140
+ባህር ዳር,contains,ታሪክ_3141
+መቀሌ,related_to,ተፈጥሮ_3142
+አዋሳ,known_for,ሕዝብ_3143
+ኢትዮጵያ,associated_with,ቋንቋ_3144
+አዲስ አበባ,has_feature,ሃይማኖት_3145
+አማራ ክልል,contains,ምግብ_3146
+ኦሮሚያ ክልል,related_to,በዓል_3147
+ትግራይ ክልል,known_for,ሙዚቃ_3148
+ባህር ዳር,associated_with,ስፖርት_3149
+መቀሌ,has_feature,ባህል_3150
+አዋሳ,contains,ታሪክ_3151
+ኢትዮጵያ,related_to,ተፈጥሮ_3152
+አዲስ አበባ,known_for,ሕዝብ_3153
+አማራ ክልል,associated_with,ቋንቋ_3154
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3155
+ትግራይ ክልል,contains,ምግብ_3156
+ባህር ዳር,related_to,በዓል_3157
+መቀሌ,known_for,ሙዚቃ_3158
+አዋሳ,associated_with,ስፖርት_3159
+ኢትዮጵያ,has_feature,ባህል_3160
+አዲስ አበባ,contains,ታሪክ_3161
+አማራ ክልል,related_to,ተፈጥሮ_3162
+ኦሮሚያ ክልል,known_for,ሕዝብ_3163
+ትግራይ ክልል,associated_with,ቋንቋ_3164
+ባህር ዳር,has_feature,ሃይማኖት_3165
+መቀሌ,contains,ምግብ_3166
+አዋሳ,related_to,በዓል_3167
+ኢትዮጵያ,known_for,ሙዚቃ_3168
+አዲስ አበባ,associated_with,ስፖርት_3169
+አማራ ክልል,has_feature,ባህል_3170
+ኦሮሚያ ክልል,contains,ታሪክ_3171
+ትግራይ ክልል,related_to,ተፈጥሮ_3172
+ባህር ዳር,known_for,ሕዝብ_3173
+መቀሌ,associated_with,ቋንቋ_3174
+አዋሳ,has_feature,ሃይማኖት_3175
+ኢትዮጵያ,contains,ምግብ_3176
+አዲስ አበባ,related_to,በዓል_3177
+አማራ ክልል,known_for,ሙዚቃ_3178
+ኦሮሚያ ክልል,associated_with,ስፖርት_3179
+ትግራይ ክልል,has_feature,ባህል_3180
+ባህር ዳር,contains,ታሪክ_3181
+መቀሌ,related_to,ተፈጥሮ_3182
+አዋሳ,known_for,ሕዝብ_3183
+ኢትዮጵያ,associated_with,ቋንቋ_3184
+አዲስ አበባ,has_feature,ሃይማኖት_3185
+አማራ ክልል,contains,ምግብ_3186
+ኦሮሚያ ክልል,related_to,በዓል_3187
+ትግራይ ክልል,known_for,ሙዚቃ_3188
+ባህር ዳር,associated_with,ስፖርት_3189
+መቀሌ,has_feature,ባህል_3190
+አዋሳ,contains,ታሪክ_3191
+ኢትዮጵያ,related_to,ተፈጥሮ_3192
+አዲስ አበባ,known_for,ሕዝብ_3193
+አማራ ክልል,associated_with,ቋንቋ_3194
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3195
+ትግራይ ክልል,contains,ምግብ_3196
+ባህር ዳር,related_to,በዓል_3197
+መቀሌ,known_for,ሙዚቃ_3198
+አዋሳ,associated_with,ስፖርት_3199
+ኢትዮጵያ,has_feature,ባህል_3200
+አዲስ አበባ,contains,ታሪክ_3201
+አማራ ክልል,related_to,ተፈጥሮ_3202
+ኦሮሚያ ክልል,known_for,ሕዝብ_3203
+ትግራይ ክልል,associated_with,ቋንቋ_3204
+ባህር ዳር,has_feature,ሃይማኖት_3205
+መቀሌ,contains,ምግብ_3206
+አዋሳ,related_to,በዓል_3207
+ኢትዮጵያ,known_for,ሙዚቃ_3208
+አዲስ አበባ,associated_with,ስፖርት_3209
+አማራ ክልል,has_feature,ባህል_3210
+ኦሮሚያ ክልል,contains,ታሪክ_3211
+ትግራይ ክልል,related_to,ተፈጥሮ_3212
+ባህር ዳር,known_for,ሕዝብ_3213
+መቀሌ,associated_with,ቋንቋ_3214
+አዋሳ,has_feature,ሃይማኖት_3215
+ኢትዮጵያ,contains,ምግብ_3216
+አዲስ አበባ,related_to,በዓል_3217
+አማራ ክልል,known_for,ሙዚቃ_3218
+ኦሮሚያ ክልል,associated_with,ስፖርት_3219
+ትግራይ ክልል,has_feature,ባህል_3220
+ባህር ዳር,contains,ታሪክ_3221
+መቀሌ,related_to,ተፈጥሮ_3222
+አዋሳ,known_for,ሕዝብ_3223
+ኢትዮጵያ,associated_with,ቋንቋ_3224
+አዲስ አበባ,has_feature,ሃይማኖት_3225
+አማራ ክልል,contains,ምግብ_3226
+ኦሮሚያ ክልል,related_to,በዓል_3227
+ትግራይ ክልል,known_for,ሙዚቃ_3228
+ባህር ዳር,associated_with,ስፖርት_3229
+መቀሌ,has_feature,ባህል_3230
+አዋሳ,contains,ታሪክ_3231
+ኢትዮጵያ,related_to,ተፈጥሮ_3232
+አዲስ አበባ,known_for,ሕዝብ_3233
+አማራ ክልል,associated_with,ቋንቋ_3234
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3235
+ትግራይ ክልል,contains,ምግብ_3236
+ባህር ዳር,related_to,በዓል_3237
+መቀሌ,known_for,ሙዚቃ_3238
+አዋሳ,associated_with,ስፖርት_3239
+ኢትዮጵያ,has_feature,ባህል_3240
+አዲስ አበባ,contains,ታሪክ_3241
+አማራ ክልል,related_to,ተፈጥሮ_3242
+ኦሮሚያ ክልል,known_for,ሕዝብ_3243
+ትግራይ ክልል,associated_with,ቋንቋ_3244
+ባህር ዳር,has_feature,ሃይማኖት_3245
+መቀሌ,contains,ምግብ_3246
+አዋሳ,related_to,በዓል_3247
+ኢትዮጵያ,known_for,ሙዚቃ_3248
+አዲስ አበባ,associated_with,ስፖርት_3249
+አማራ ክልል,has_feature,ባህል_3250
+ኦሮሚያ ክልል,contains,ታሪክ_3251
+ትግራይ ክልል,related_to,ተፈጥሮ_3252
+ባህር ዳር,known_for,ሕዝብ_3253
+መቀሌ,associated_with,ቋንቋ_3254
+አዋሳ,has_feature,ሃይማኖት_3255
+ኢትዮጵያ,contains,ምግብ_3256
+አዲስ አበባ,related_to,በዓል_3257
+አማራ ክልል,known_for,ሙዚቃ_3258
+ኦሮሚያ ክልል,associated_with,ስፖርት_3259
+ትግራይ ክልል,has_feature,ባህል_3260
+ባህር ዳር,contains,ታሪክ_3261
+መቀሌ,related_to,ተፈጥሮ_3262
+አዋሳ,known_for,ሕዝብ_3263
+ኢትዮጵያ,associated_with,ቋንቋ_3264
+አዲስ አበባ,has_feature,ሃይማኖት_3265
+አማራ ክልል,contains,ምግብ_3266
+ኦሮሚያ ክልል,related_to,በዓል_3267
+ትግራይ ክልል,known_for,ሙዚቃ_3268
+ባህር ዳር,associated_with,ስፖርት_3269
+መቀሌ,has_feature,ባህል_3270
+አዋሳ,contains,ታሪክ_3271
+ኢትዮጵያ,related_to,ተፈጥሮ_3272
+አዲስ አበባ,known_for,ሕዝብ_3273
+አማራ ክልል,associated_with,ቋንቋ_3274
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3275
+ትግራይ ክልል,contains,ምግብ_3276
+ባህር ዳር,related_to,በዓል_3277
+መቀሌ,known_for,ሙዚቃ_3278
+አዋሳ,associated_with,ስፖርት_3279
+ኢትዮጵያ,has_feature,ባህል_3280
+አዲስ አበባ,contains,ታሪክ_3281
+አማራ ክልል,related_to,ተፈጥሮ_3282
+ኦሮሚያ ክልል,known_for,ሕዝብ_3283
+ትግራይ ክልል,associated_with,ቋንቋ_3284
+ባህር ዳር,has_feature,ሃይማኖት_3285
+መቀሌ,contains,ምግብ_3286
+አዋሳ,related_to,በዓል_3287
+ኢትዮጵያ,known_for,ሙዚቃ_3288
+አዲስ አበባ,associated_with,ስፖርት_3289
+አማራ ክልል,has_feature,ባህል_3290
+ኦሮሚያ ክልል,contains,ታሪክ_3291
+ትግራይ ክልል,related_to,ተፈጥሮ_3292
+ባህር ዳር,known_for,ሕዝብ_3293
+መቀሌ,associated_with,ቋንቋ_3294
+አዋሳ,has_feature,ሃይማኖት_3295
+ኢትዮጵያ,contains,ምግብ_3296
+አዲስ አበባ,related_to,በዓል_3297
+አማራ ክልል,known_for,ሙዚቃ_3298
+ኦሮሚያ ክልል,associated_with,ስፖርት_3299
+ትግራይ ክልል,has_feature,ባህል_3300
+ባህር ዳር,contains,ታሪክ_3301
+መቀሌ,related_to,ተፈጥሮ_3302
+አዋሳ,known_for,ሕዝብ_3303
+ኢትዮጵያ,associated_with,ቋንቋ_3304
+አዲስ አበባ,has_feature,ሃይማኖት_3305
+አማራ ክልል,contains,ምግብ_3306
+ኦሮሚያ ክልል,related_to,በዓል_3307
+ትግራይ ክልል,known_for,ሙዚቃ_3308
+ባህር ዳር,associated_with,ስፖርት_3309
+መቀሌ,has_feature,ባህል_3310
+አዋሳ,contains,ታሪክ_3311
+ኢትዮጵያ,related_to,ተፈጥሮ_3312
+አዲስ አበባ,known_for,ሕዝብ_3313
+አማራ ክልል,associated_with,ቋንቋ_3314
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3315
+ትግራይ ክልል,contains,ምግብ_3316
+ባህር ዳር,related_to,በዓል_3317
+መቀሌ,known_for,ሙዚቃ_3318
+አዋሳ,associated_with,ስፖርት_3319
+ኢትዮጵያ,has_feature,ባህል_3320
+አዲስ አበባ,contains,ታሪክ_3321
+አማራ ክልል,related_to,ተፈጥሮ_3322
+ኦሮሚያ ክልል,known_for,ሕዝብ_3323
+ትግራይ ክልል,associated_with,ቋንቋ_3324
+ባህር ዳር,has_feature,ሃይማኖት_3325
+መቀሌ,contains,ምግብ_3326
+አዋሳ,related_to,በዓል_3327
+ኢትዮጵያ,known_for,ሙዚቃ_3328
+አዲስ አበባ,associated_with,ስፖርት_3329
+አማራ ክልል,has_feature,ባህል_3330
+ኦሮሚያ ክልል,contains,ታሪክ_3331
+ትግራይ ክልል,related_to,ተፈጥሮ_3332
+ባህር ዳር,known_for,ሕዝብ_3333
+መቀሌ,associated_with,ቋንቋ_3334
+አዋሳ,has_feature,ሃይማኖት_3335
+ኢትዮጵያ,contains,ምግብ_3336
+አዲስ አበባ,related_to,በዓል_3337
+አማራ ክልል,known_for,ሙዚቃ_3338
+ኦሮሚያ ክልል,associated_with,ስፖርት_3339
+ትግራይ ክልል,has_feature,ባህል_3340
+ባህር ዳር,contains,ታሪክ_3341
+መቀሌ,related_to,ተፈጥሮ_3342
+አዋሳ,known_for,ሕዝብ_3343
+ኢትዮጵያ,associated_with,ቋንቋ_3344
+አዲስ አበባ,has_feature,ሃይማኖት_3345
+አማራ ክልል,contains,ምግብ_3346
+ኦሮሚያ ክልል,related_to,በዓል_3347
+ትግራይ ክልል,known_for,ሙዚቃ_3348
+ባህር ዳር,associated_with,ስፖርት_3349
+መቀሌ,has_feature,ባህል_3350
+አዋሳ,contains,ታሪክ_3351
+ኢትዮጵያ,related_to,ተፈጥሮ_3352
+አዲስ አበባ,known_for,ሕዝብ_3353
+አማራ ክልል,associated_with,ቋንቋ_3354
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3355
+ትግራይ ክልል,contains,ምግብ_3356
+ባህር ዳር,related_to,በዓል_3357
+መቀሌ,known_for,ሙዚቃ_3358
+አዋሳ,associated_with,ስፖርት_3359
+ኢትዮጵያ,has_feature,ባህል_3360
+አዲስ አበባ,contains,ታሪክ_3361
+አማራ ክልል,related_to,ተፈጥሮ_3362
+ኦሮሚያ ክልል,known_for,ሕዝብ_3363
+ትግራይ ክልል,associated_with,ቋንቋ_3364
+ባህር ዳር,has_feature,ሃይማኖት_3365
+መቀሌ,contains,ምግብ_3366
+አዋሳ,related_to,በዓል_3367
+ኢትዮጵያ,known_for,ሙዚቃ_3368
+አዲስ አበባ,associated_with,ስፖርት_3369
+አማራ ክልል,has_feature,ባህል_3370
+ኦሮሚያ ክልል,contains,ታሪክ_3371
+ትግራይ ክልል,related_to,ተፈጥሮ_3372
+ባህር ዳር,known_for,ሕዝብ_3373
+መቀሌ,associated_with,ቋንቋ_3374
+አዋሳ,has_feature,ሃይማኖት_3375
+ኢትዮጵያ,contains,ምግብ_3376
+አዲስ አበባ,related_to,በዓል_3377
+አማራ ክልል,known_for,ሙዚቃ_3378
+ኦሮሚያ ክልል,associated_with,ስፖርት_3379
+ትግራይ ክልል,has_feature,ባህል_3380
+ባህር ዳር,contains,ታሪክ_3381
+መቀሌ,related_to,ተፈጥሮ_3382
+አዋሳ,known_for,ሕዝብ_3383
+ኢትዮጵያ,associated_with,ቋንቋ_3384
+አዲስ አበባ,has_feature,ሃይማኖት_3385
+አማራ ክልል,contains,ምግብ_3386
+ኦሮሚያ ክልል,related_to,በዓል_3387
+ትግራይ ክልል,known_for,ሙዚቃ_3388
+ባህር ዳር,associated_with,ስፖርት_3389
+መቀሌ,has_feature,ባህል_3390
+አዋሳ,contains,ታሪክ_3391
+ኢትዮጵያ,related_to,ተፈጥሮ_3392
+አዲስ አበባ,known_for,ሕዝብ_3393
+አማራ ክልል,associated_with,ቋንቋ_3394
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3395
+ትግራይ ክልል,contains,ምግብ_3396
+ባህር ዳር,related_to,በዓል_3397
+መቀሌ,known_for,ሙዚቃ_3398
+አዋሳ,associated_with,ስፖርት_3399
+ኢትዮጵያ,has_feature,ባህል_3400
+አዲስ አበባ,contains,ታሪክ_3401
+አማራ ክልል,related_to,ተፈጥሮ_3402
+ኦሮሚያ ክልል,known_for,ሕዝብ_3403
+ትግራይ ክልል,associated_with,ቋንቋ_3404
+ባህር ዳር,has_feature,ሃይማኖት_3405
+መቀሌ,contains,ምግብ_3406
+አዋሳ,related_to,በዓል_3407
+ኢትዮጵያ,known_for,ሙዚቃ_3408
+አዲስ አበባ,associated_with,ስፖርት_3409
+አማራ ክልል,has_feature,ባህል_3410
+ኦሮሚያ ክልል,contains,ታሪክ_3411
+ትግራይ ክልል,related_to,ተፈጥሮ_3412
+ባህር ዳር,known_for,ሕዝብ_3413
+መቀሌ,associated_with,ቋንቋ_3414
+አዋሳ,has_feature,ሃይማኖት_3415
+ኢትዮጵያ,contains,ምግብ_3416
+አዲስ አበባ,related_to,በዓል_3417
+አማራ ክልል,known_for,ሙዚቃ_3418
+ኦሮሚያ ክልል,associated_with,ስፖርት_3419
+ትግራይ ክልል,has_feature,ባህል_3420
+ባህር ዳር,contains,ታሪክ_3421
+መቀሌ,related_to,ተፈጥሮ_3422
+አዋሳ,known_for,ሕዝብ_3423
+ኢትዮጵያ,associated_with,ቋንቋ_3424
+አዲስ አበባ,has_feature,ሃይማኖት_3425
+አማራ ክልል,contains,ምግብ_3426
+ኦሮሚያ ክልል,related_to,በዓል_3427
+ትግራይ ክልል,known_for,ሙዚቃ_3428
+ባህር ዳር,associated_with,ስፖርት_3429
+መቀሌ,has_feature,ባህል_3430
+አዋሳ,contains,ታሪክ_3431
+ኢትዮጵያ,related_to,ተፈጥሮ_3432
+አዲስ አበባ,known_for,ሕዝብ_3433
+አማራ ክልል,associated_with,ቋንቋ_3434
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3435
+ትግራይ ክልል,contains,ምግብ_3436
+ባህር ዳር,related_to,በዓል_3437
+መቀሌ,known_for,ሙዚቃ_3438
+አዋሳ,associated_with,ስፖርት_3439
+ኢትዮጵያ,has_feature,ባህል_3440
+አዲስ አበባ,contains,ታሪክ_3441
+አማራ ክልል,related_to,ተፈጥሮ_3442
+ኦሮሚያ ክልል,known_for,ሕዝብ_3443
+ትግራይ ክልል,associated_with,ቋንቋ_3444
+ባህር ዳር,has_feature,ሃይማኖት_3445
+መቀሌ,contains,ምግብ_3446
+አዋሳ,related_to,በዓል_3447
+ኢትዮጵያ,known_for,ሙዚቃ_3448
+አዲስ አበባ,associated_with,ስፖርት_3449
+አማራ ክልል,has_feature,ባህል_3450
+ኦሮሚያ ክልል,contains,ታሪክ_3451
+ትግራይ ክልል,related_to,ተፈጥሮ_3452
+ባህር ዳር,known_for,ሕዝብ_3453
+መቀሌ,associated_with,ቋንቋ_3454
+አዋሳ,has_feature,ሃይማኖት_3455
+ኢትዮጵያ,contains,ምግብ_3456
+አዲስ አበባ,related_to,በዓል_3457
+አማራ ክልል,known_for,ሙዚቃ_3458
+ኦሮሚያ ክልል,associated_with,ስፖርት_3459
+ትግራይ ክልል,has_feature,ባህል_3460
+ባህር ዳር,contains,ታሪክ_3461
+መቀሌ,related_to,ተፈጥሮ_3462
+አዋሳ,known_for,ሕዝብ_3463
+ኢትዮጵያ,associated_with,ቋንቋ_3464
+አዲስ አበባ,has_feature,ሃይማኖት_3465
+አማራ ክልል,contains,ምግብ_3466
+ኦሮሚያ ክልል,related_to,በዓል_3467
+ትግራይ ክልል,known_for,ሙዚቃ_3468
+ባህር ዳር,associated_with,ስፖርት_3469
+መቀሌ,has_feature,ባህል_3470
+አዋሳ,contains,ታሪክ_3471
+ኢትዮጵያ,related_to,ተፈጥሮ_3472
+አዲስ አበባ,known_for,ሕዝብ_3473
+አማራ ክልል,associated_with,ቋንቋ_3474
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3475
+ትግራይ ክልል,contains,ምግብ_3476
+ባህር ዳር,related_to,በዓል_3477
+መቀሌ,known_for,ሙዚቃ_3478
+አዋሳ,associated_with,ስፖርት_3479
+ኢትዮጵያ,has_feature,ባህል_3480
+አዲስ አበባ,contains,ታሪክ_3481
+አማራ ክልል,related_to,ተፈጥሮ_3482
+ኦሮሚያ ክልል,known_for,ሕዝብ_3483
+ትግራይ ክልል,associated_with,ቋንቋ_3484
+ባህር ዳር,has_feature,ሃይማኖት_3485
+መቀሌ,contains,ምግብ_3486
+አዋሳ,related_to,በዓል_3487
+ኢትዮጵያ,known_for,ሙዚቃ_3488
+አዲስ አበባ,associated_with,ስፖርት_3489
+አማራ ክልል,has_feature,ባህል_3490
+ኦሮሚያ ክልል,contains,ታሪክ_3491
+ትግራይ ክልል,related_to,ተፈጥሮ_3492
+ባህር ዳር,known_for,ሕዝብ_3493
+መቀሌ,associated_with,ቋንቋ_3494
+አዋሳ,has_feature,ሃይማኖት_3495
+ኢትዮጵያ,contains,ምግብ_3496
+አዲስ አበባ,related_to,በዓል_3497
+አማራ ክልል,known_for,ሙዚቃ_3498
+ኦሮሚያ ክልል,associated_with,ስፖርት_3499
+ትግራይ ክልል,has_feature,ባህል_3500
+ባህር ዳር,contains,ታሪክ_3501
+መቀሌ,related_to,ተፈጥሮ_3502
+አዋሳ,known_for,ሕዝብ_3503
+ኢትዮጵያ,associated_with,ቋንቋ_3504
+አዲስ አበባ,has_feature,ሃይማኖት_3505
+አማራ ክልል,contains,ምግብ_3506
+ኦሮሚያ ክልል,related_to,በዓል_3507
+ትግራይ ክልል,known_for,ሙዚቃ_3508
+ባህር ዳር,associated_with,ስፖርት_3509
+መቀሌ,has_feature,ባህል_3510
+አዋሳ,contains,ታሪክ_3511
+ኢትዮጵያ,related_to,ተፈጥሮ_3512
+አዲስ አበባ,known_for,ሕዝብ_3513
+አማራ ክልል,associated_with,ቋንቋ_3514
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3515
+ትግራይ ክልል,contains,ምግብ_3516
+ባህር ዳር,related_to,በዓል_3517
+መቀሌ,known_for,ሙዚቃ_3518
+አዋሳ,associated_with,ስፖርት_3519
+ኢትዮጵያ,has_feature,ባህል_3520
+አዲስ አበባ,contains,ታሪክ_3521
+አማራ ክልል,related_to,ተፈጥሮ_3522
+ኦሮሚያ ክልል,known_for,ሕዝብ_3523
+ትግራይ ክልል,associated_with,ቋንቋ_3524
+ባህር ዳር,has_feature,ሃይማኖት_3525
+መቀሌ,contains,ምግብ_3526
+አዋሳ,related_to,በዓል_3527
+ኢትዮጵያ,known_for,ሙዚቃ_3528
+አዲስ አበባ,associated_with,ስፖርት_3529
+አማራ ክልል,has_feature,ባህል_3530
+ኦሮሚያ ክልል,contains,ታሪክ_3531
+ትግራይ ክልል,related_to,ተፈጥሮ_3532
+ባህር ዳር,known_for,ሕዝብ_3533
+መቀሌ,associated_with,ቋንቋ_3534
+አዋሳ,has_feature,ሃይማኖት_3535
+ኢትዮጵያ,contains,ምግብ_3536
+አዲስ አበባ,related_to,በዓል_3537
+አማራ ክልል,known_for,ሙዚቃ_3538
+ኦሮሚያ ክልል,associated_with,ስፖርት_3539
+ትግራይ ክልል,has_feature,ባህል_3540
+ባህር ዳር,contains,ታሪክ_3541
+መቀሌ,related_to,ተፈጥሮ_3542
+አዋሳ,known_for,ሕዝብ_3543
+ኢትዮጵያ,associated_with,ቋንቋ_3544
+አዲስ አበባ,has_feature,ሃይማኖት_3545
+አማራ ክልል,contains,ምግብ_3546
+ኦሮሚያ ክልል,related_to,በዓል_3547
+ትግራይ ክልል,known_for,ሙዚቃ_3548
+ባህር ዳር,associated_with,ስፖርት_3549
+መቀሌ,has_feature,ባህል_3550
+አዋሳ,contains,ታሪክ_3551
+ኢትዮጵያ,related_to,ተፈጥሮ_3552
+አዲስ አበባ,known_for,ሕዝብ_3553
+አማራ ክልል,associated_with,ቋንቋ_3554
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3555
+ትግራይ ክልል,contains,ምግብ_3556
+ባህር ዳር,related_to,በዓል_3557
+መቀሌ,known_for,ሙዚቃ_3558
+አዋሳ,associated_with,ስፖርት_3559
+ኢትዮጵያ,has_feature,ባህል_3560
+አዲስ አበባ,contains,ታሪክ_3561
+አማራ ክልል,related_to,ተፈጥሮ_3562
+ኦሮሚያ ክልል,known_for,ሕዝብ_3563
+ትግራይ ክልል,associated_with,ቋንቋ_3564
+ባህር ዳር,has_feature,ሃይማኖት_3565
+መቀሌ,contains,ምግብ_3566
+አዋሳ,related_to,በዓል_3567
+ኢትዮጵያ,known_for,ሙዚቃ_3568
+አዲስ አበባ,associated_with,ስፖርት_3569
+አማራ ክልል,has_feature,ባህል_3570
+ኦሮሚያ ክልል,contains,ታሪክ_3571
+ትግራይ ክልል,related_to,ተፈጥሮ_3572
+ባህር ዳር,known_for,ሕዝብ_3573
+መቀሌ,associated_with,ቋንቋ_3574
+አዋሳ,has_feature,ሃይማኖት_3575
+ኢትዮጵያ,contains,ምግብ_3576
+አዲስ አበባ,related_to,በዓል_3577
+አማራ ክልል,known_for,ሙዚቃ_3578
+ኦሮሚያ ክልል,associated_with,ስፖርት_3579
+ትግራይ ክልል,has_feature,ባህል_3580
+ባህር ዳር,contains,ታሪክ_3581
+መቀሌ,related_to,ተፈጥሮ_3582
+አዋሳ,known_for,ሕዝብ_3583
+ኢትዮጵያ,associated_with,ቋንቋ_3584
+አዲስ አበባ,has_feature,ሃይማኖት_3585
+አማራ ክልል,contains,ምግብ_3586
+ኦሮሚያ ክልል,related_to,በዓል_3587
+ትግራይ ክልል,known_for,ሙዚቃ_3588
+ባህር ዳር,associated_with,ስፖርት_3589
+መቀሌ,has_feature,ባህል_3590
+አዋሳ,contains,ታሪክ_3591
+ኢትዮጵያ,related_to,ተፈጥሮ_3592
+አዲስ አበባ,known_for,ሕዝብ_3593
+አማራ ክልል,associated_with,ቋንቋ_3594
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3595
+ትግራይ ክልል,contains,ምግብ_3596
+ባህር ዳር,related_to,በዓል_3597
+መቀሌ,known_for,ሙዚቃ_3598
+አዋሳ,associated_with,ስፖርት_3599
+ኢትዮጵያ,has_feature,ባህል_3600
+አዲስ አበባ,contains,ታሪክ_3601
+አማራ ክልል,related_to,ተፈጥሮ_3602
+ኦሮሚያ ክልል,known_for,ሕዝብ_3603
+ትግራይ ክልል,associated_with,ቋንቋ_3604
+ባህር ዳር,has_feature,ሃይማኖት_3605
+መቀሌ,contains,ምግብ_3606
+አዋሳ,related_to,በዓል_3607
+ኢትዮጵያ,known_for,ሙዚቃ_3608
+አዲስ አበባ,associated_with,ስፖርት_3609
+አማራ ክልል,has_feature,ባህል_3610
+ኦሮሚያ ክልል,contains,ታሪክ_3611
+ትግራይ ክልል,related_to,ተፈጥሮ_3612
+ባህር ዳር,known_for,ሕዝብ_3613
+መቀሌ,associated_with,ቋንቋ_3614
+አዋሳ,has_feature,ሃይማኖት_3615
+ኢትዮጵያ,contains,ምግብ_3616
+አዲስ አበባ,related_to,በዓል_3617
+አማራ ክልል,known_for,ሙዚቃ_3618
+ኦሮሚያ ክልል,associated_with,ስፖርት_3619
+ትግራይ ክልል,has_feature,ባህል_3620
+ባህር ዳር,contains,ታሪክ_3621
+መቀሌ,related_to,ተፈጥሮ_3622
+አዋሳ,known_for,ሕዝብ_3623
+ኢትዮጵያ,associated_with,ቋንቋ_3624
+አዲስ አበባ,has_feature,ሃይማኖት_3625
+አማራ ክልል,contains,ምግብ_3626
+ኦሮሚያ ክልል,related_to,በዓል_3627
+ትግራይ ክልል,known_for,ሙዚቃ_3628
+ባህር ዳር,associated_with,ስፖርት_3629
+መቀሌ,has_feature,ባህል_3630
+አዋሳ,contains,ታሪክ_3631
+ኢትዮጵያ,related_to,ተፈጥሮ_3632
+አዲስ አበባ,known_for,ሕዝብ_3633
+አማራ ክልል,associated_with,ቋንቋ_3634
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3635
+ትግራይ ክልል,contains,ምግብ_3636
+ባህር ዳር,related_to,በዓል_3637
+መቀሌ,known_for,ሙዚቃ_3638
+አዋሳ,associated_with,ስፖርት_3639
+ኢትዮጵያ,has_feature,ባህል_3640
+አዲስ አበባ,contains,ታሪክ_3641
+አማራ ክልል,related_to,ተፈጥሮ_3642
+ኦሮሚያ ክልል,known_for,ሕዝብ_3643
+ትግራይ ክልል,associated_with,ቋንቋ_3644
+ባህር ዳር,has_feature,ሃይማኖት_3645
+መቀሌ,contains,ምግብ_3646
+አዋሳ,related_to,በዓል_3647
+ኢትዮጵያ,known_for,ሙዚቃ_3648
+አዲስ አበባ,associated_with,ስፖርት_3649
+አማራ ክልል,has_feature,ባህል_3650
+ኦሮሚያ ክልል,contains,ታሪክ_3651
+ትግራይ ክልል,related_to,ተፈጥሮ_3652
+ባህር ዳር,known_for,ሕዝብ_3653
+መቀሌ,associated_with,ቋንቋ_3654
+አዋሳ,has_feature,ሃይማኖት_3655
+ኢትዮጵያ,contains,ምግብ_3656
+አዲስ አበባ,related_to,በዓል_3657
+አማራ ክልል,known_for,ሙዚቃ_3658
+ኦሮሚያ ክልል,associated_with,ስፖርት_3659
+ትግራይ ክልል,has_feature,ባህል_3660
+ባህር ዳር,contains,ታሪክ_3661
+መቀሌ,related_to,ተፈጥሮ_3662
+አዋሳ,known_for,ሕዝብ_3663
+ኢትዮጵያ,associated_with,ቋንቋ_3664
+አዲስ አበባ,has_feature,ሃይማኖት_3665
+አማራ ክልል,contains,ምግብ_3666
+ኦሮሚያ ክልል,related_to,በዓል_3667
+ትግራይ ክልል,known_for,ሙዚቃ_3668
+ባህር ዳር,associated_with,ስፖርት_3669
+መቀሌ,has_feature,ባህል_3670
+አዋሳ,contains,ታሪክ_3671
+ኢትዮጵያ,related_to,ተፈጥሮ_3672
+አዲስ አበባ,known_for,ሕዝብ_3673
+አማራ ክልል,associated_with,ቋንቋ_3674
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3675
+ትግራይ ክልል,contains,ምግብ_3676
+ባህር ዳር,related_to,በዓል_3677
+መቀሌ,known_for,ሙዚቃ_3678
+አዋሳ,associated_with,ስፖርት_3679
+ኢትዮጵያ,has_feature,ባህል_3680
+አዲስ አበባ,contains,ታሪክ_3681
+አማራ ክልል,related_to,ተፈጥሮ_3682
+ኦሮሚያ ክልል,known_for,ሕዝብ_3683
+ትግራይ ክልል,associated_with,ቋንቋ_3684
+ባህር ዳር,has_feature,ሃይማኖት_3685
+መቀሌ,contains,ምግብ_3686
+አዋሳ,related_to,በዓል_3687
+ኢትዮጵያ,known_for,ሙዚቃ_3688
+አዲስ አበባ,associated_with,ስፖርት_3689
+አማራ ክልል,has_feature,ባህል_3690
+ኦሮሚያ ክልል,contains,ታሪክ_3691
+ትግራይ ክልል,related_to,ተፈጥሮ_3692
+ባህር ዳር,known_for,ሕዝብ_3693
+መቀሌ,associated_with,ቋንቋ_3694
+አዋሳ,has_feature,ሃይማኖት_3695
+ኢትዮጵያ,contains,ምግብ_3696
+አዲስ አበባ,related_to,በዓል_3697
+አማራ ክልል,known_for,ሙዚቃ_3698
+ኦሮሚያ ክልል,associated_with,ስፖርት_3699
+ትግራይ ክልል,has_feature,ባህል_3700
+ባህር ዳር,contains,ታሪክ_3701
+መቀሌ,related_to,ተፈጥሮ_3702
+አዋሳ,known_for,ሕዝብ_3703
+ኢትዮጵያ,associated_with,ቋንቋ_3704
+አዲስ አበባ,has_feature,ሃይማኖት_3705
+አማራ ክልል,contains,ምግብ_3706
+ኦሮሚያ ክልል,related_to,በዓል_3707
+ትግራይ ክልል,known_for,ሙዚቃ_3708
+ባህር ዳር,associated_with,ስፖርት_3709
+መቀሌ,has_feature,ባህል_3710
+አዋሳ,contains,ታሪክ_3711
+ኢትዮጵያ,related_to,ተፈጥሮ_3712
+አዲስ አበባ,known_for,ሕዝብ_3713
+አማራ ክልል,associated_with,ቋንቋ_3714
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3715
+ትግራይ ክልል,contains,ምግብ_3716
+ባህር ዳር,related_to,በዓል_3717
+መቀሌ,known_for,ሙዚቃ_3718
+አዋሳ,associated_with,ስፖርት_3719
+ኢትዮጵያ,has_feature,ባህል_3720
+አዲስ አበባ,contains,ታሪክ_3721
+አማራ ክልል,related_to,ተፈጥሮ_3722
+ኦሮሚያ ክልል,known_for,ሕዝብ_3723
+ትግራይ ክልል,associated_with,ቋንቋ_3724
+ባህር ዳር,has_feature,ሃይማኖት_3725
+መቀሌ,contains,ምግብ_3726
+አዋሳ,related_to,በዓል_3727
+ኢትዮጵያ,known_for,ሙዚቃ_3728
+አዲስ አበባ,associated_with,ስፖርት_3729
+አማራ ክልል,has_feature,ባህል_3730
+ኦሮሚያ ክልል,contains,ታሪክ_3731
+ትግራይ ክልል,related_to,ተፈጥሮ_3732
+ባህር ዳር,known_for,ሕዝብ_3733
+መቀሌ,associated_with,ቋንቋ_3734
+አዋሳ,has_feature,ሃይማኖት_3735
+ኢትዮጵያ,contains,ምግብ_3736
+አዲስ አበባ,related_to,በዓል_3737
+አማራ ክልል,known_for,ሙዚቃ_3738
+ኦሮሚያ ክልል,associated_with,ስፖርት_3739
+ትግራይ ክልል,has_feature,ባህል_3740
+ባህር ዳር,contains,ታሪክ_3741
+መቀሌ,related_to,ተፈጥሮ_3742
+አዋሳ,known_for,ሕዝብ_3743
+ኢትዮጵያ,associated_with,ቋንቋ_3744
+አዲስ አበባ,has_feature,ሃይማኖት_3745
+አማራ ክልል,contains,ምግብ_3746
+ኦሮሚያ ክልል,related_to,በዓል_3747
+ትግራይ ክልል,known_for,ሙዚቃ_3748
+ባህር ዳር,associated_with,ስፖርት_3749
+መቀሌ,has_feature,ባህል_3750
+አዋሳ,contains,ታሪክ_3751
+ኢትዮጵያ,related_to,ተፈጥሮ_3752
+አዲስ አበባ,known_for,ሕዝብ_3753
+አማራ ክልል,associated_with,ቋንቋ_3754
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3755
+ትግራይ ክልል,contains,ምግብ_3756
+ባህር ዳር,related_to,በዓል_3757
+መቀሌ,known_for,ሙዚቃ_3758
+አዋሳ,associated_with,ስፖርት_3759
+ኢትዮጵያ,has_feature,ባህል_3760
+አዲስ አበባ,contains,ታሪክ_3761
+አማራ ክልል,related_to,ተፈጥሮ_3762
+ኦሮሚያ ክልል,known_for,ሕዝብ_3763
+ትግራይ ክልል,associated_with,ቋንቋ_3764
+ባህር ዳር,has_feature,ሃይማኖት_3765
+መቀሌ,contains,ምግብ_3766
+አዋሳ,related_to,በዓል_3767
+ኢትዮጵያ,known_for,ሙዚቃ_3768
+አዲስ አበባ,associated_with,ስፖርት_3769
+አማራ ክልል,has_feature,ባህል_3770
+ኦሮሚያ ክልል,contains,ታሪክ_3771
+ትግራይ ክልል,related_to,ተፈጥሮ_3772
+ባህር ዳር,known_for,ሕዝብ_3773
+መቀሌ,associated_with,ቋንቋ_3774
+አዋሳ,has_feature,ሃይማኖት_3775
+ኢትዮጵያ,contains,ምግብ_3776
+አዲስ አበባ,related_to,በዓል_3777
+አማራ ክልል,known_for,ሙዚቃ_3778
+ኦሮሚያ ክልል,associated_with,ስፖርት_3779
+ትግራይ ክልል,has_feature,ባህል_3780
+ባህር ዳር,contains,ታሪክ_3781
+መቀሌ,related_to,ተፈጥሮ_3782
+አዋሳ,known_for,ሕዝብ_3783
+ኢትዮጵያ,associated_with,ቋንቋ_3784
+አዲስ አበባ,has_feature,ሃይማኖት_3785
+አማራ ክልል,contains,ምግብ_3786
+ኦሮሚያ ክልል,related_to,በዓል_3787
+ትግራይ ክልል,known_for,ሙዚቃ_3788
+ባህር ዳር,associated_with,ስፖርት_3789
+መቀሌ,has_feature,ባህል_3790
+አዋሳ,contains,ታሪክ_3791
+ኢትዮጵያ,related_to,ተፈጥሮ_3792
+አዲስ አበባ,known_for,ሕዝብ_3793
+አማራ ክልል,associated_with,ቋንቋ_3794
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3795
+ትግራይ ክልል,contains,ምግብ_3796
+ባህር ዳር,related_to,በዓል_3797
+መቀሌ,known_for,ሙዚቃ_3798
+አዋሳ,associated_with,ስፖርት_3799
+ኢትዮጵያ,has_feature,ባህል_3800
+አዲስ አበባ,contains,ታሪክ_3801
+አማራ ክልል,related_to,ተፈጥሮ_3802
+ኦሮሚያ ክልል,known_for,ሕዝብ_3803
+ትግራይ ክልል,associated_with,ቋንቋ_3804
+ባህር ዳር,has_feature,ሃይማኖት_3805
+መቀሌ,contains,ምግብ_3806
+አዋሳ,related_to,በዓል_3807
+ኢትዮጵያ,known_for,ሙዚቃ_3808
+አዲስ አበባ,associated_with,ስፖርት_3809
+አማራ ክልል,has_feature,ባህል_3810
+ኦሮሚያ ክልል,contains,ታሪክ_3811
+ትግራይ ክልል,related_to,ተፈጥሮ_3812
+ባህር ዳር,known_for,ሕዝብ_3813
+መቀሌ,associated_with,ቋንቋ_3814
+አዋሳ,has_feature,ሃይማኖት_3815
+ኢትዮጵያ,contains,ምግብ_3816
+አዲስ አበባ,related_to,በዓል_3817
+አማራ ክልል,known_for,ሙዚቃ_3818
+ኦሮሚያ ክልል,associated_with,ስፖርት_3819
+ትግራይ ክልል,has_feature,ባህል_3820
+ባህር ዳር,contains,ታሪክ_3821
+መቀሌ,related_to,ተፈጥሮ_3822
+አዋሳ,known_for,ሕዝብ_3823
+ኢትዮጵያ,associated_with,ቋንቋ_3824
+አዲስ አበባ,has_feature,ሃይማኖት_3825
+አማራ ክልል,contains,ምግብ_3826
+ኦሮሚያ ክልል,related_to,በዓል_3827
+ትግራይ ክልል,known_for,ሙዚቃ_3828
+ባህር ዳር,associated_with,ስፖርት_3829
+መቀሌ,has_feature,ባህል_3830
+አዋሳ,contains,ታሪክ_3831
+ኢትዮጵያ,related_to,ተፈጥሮ_3832
+አዲስ አበባ,known_for,ሕዝብ_3833
+አማራ ክልል,associated_with,ቋንቋ_3834
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3835
+ትግራይ ክልል,contains,ምግብ_3836
+ባህር ዳር,related_to,በዓል_3837
+መቀሌ,known_for,ሙዚቃ_3838
+አዋሳ,associated_with,ስፖርት_3839
+ኢትዮጵያ,has_feature,ባህል_3840
+አዲስ አበባ,contains,ታሪክ_3841
+አማራ ክልል,related_to,ተፈጥሮ_3842
+ኦሮሚያ ክልል,known_for,ሕዝብ_3843
+ትግራይ ክልል,associated_with,ቋንቋ_3844
+ባህር ዳር,has_feature,ሃይማኖት_3845
+መቀሌ,contains,ምግብ_3846
+አዋሳ,related_to,በዓል_3847
+ኢትዮጵያ,known_for,ሙዚቃ_3848
+አዲስ አበባ,associated_with,ስፖርት_3849
+አማራ ክልል,has_feature,ባህል_3850
+ኦሮሚያ ክልል,contains,ታሪክ_3851
+ትግራይ ክልል,related_to,ተፈጥሮ_3852
+ባህር ዳር,known_for,ሕዝብ_3853
+መቀሌ,associated_with,ቋንቋ_3854
+አዋሳ,has_feature,ሃይማኖት_3855
+ኢትዮጵያ,contains,ምግብ_3856
+አዲስ አበባ,related_to,በዓል_3857
+አማራ ክልል,known_for,ሙዚቃ_3858
+ኦሮሚያ ክልል,associated_with,ስፖርት_3859
+ትግራይ ክልል,has_feature,ባህል_3860
+ባህር ዳር,contains,ታሪክ_3861
+መቀሌ,related_to,ተፈጥሮ_3862
+አዋሳ,known_for,ሕዝብ_3863
+ኢትዮጵያ,associated_with,ቋንቋ_3864
+አዲስ አበባ,has_feature,ሃይማኖት_3865
+አማራ ክልል,contains,ምግብ_3866
+ኦሮሚያ ክልል,related_to,በዓል_3867
+ትግራይ ክልል,known_for,ሙዚቃ_3868
+ባህር ዳር,associated_with,ስፖርት_3869
+መቀሌ,has_feature,ባህል_3870
+አዋሳ,contains,ታሪክ_3871
+ኢትዮጵያ,related_to,ተፈጥሮ_3872
+አዲስ አበባ,known_for,ሕዝብ_3873
+አማራ ክልል,associated_with,ቋንቋ_3874
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3875
+ትግራይ ክልል,contains,ምግብ_3876
+ባህር ዳር,related_to,በዓል_3877
+መቀሌ,known_for,ሙዚቃ_3878
+አዋሳ,associated_with,ስፖርት_3879
+ኢትዮጵያ,has_feature,ባህል_3880
+አዲስ አበባ,contains,ታሪክ_3881
+አማራ ክልል,related_to,ተፈጥሮ_3882
+ኦሮሚያ ክልል,known_for,ሕዝብ_3883
+ትግራይ ክልል,associated_with,ቋንቋ_3884
+ባህር ዳር,has_feature,ሃይማኖት_3885
+መቀሌ,contains,ምግብ_3886
+አዋሳ,related_to,በዓል_3887
+ኢትዮጵያ,known_for,ሙዚቃ_3888
+አዲስ አበባ,associated_with,ስፖርት_3889
+አማራ ክልል,has_feature,ባህል_3890
+ኦሮሚያ ክልል,contains,ታሪክ_3891
+ትግራይ ክልል,related_to,ተፈጥሮ_3892
+ባህር ዳር,known_for,ሕዝብ_3893
+መቀሌ,associated_with,ቋንቋ_3894
+አዋሳ,has_feature,ሃይማኖት_3895
+ኢትዮጵያ,contains,ምግብ_3896
+አዲስ አበባ,related_to,በዓል_3897
+አማራ ክልል,known_for,ሙዚቃ_3898
+ኦሮሚያ ክልል,associated_with,ስፖርት_3899
+ትግራይ ክልል,has_feature,ባህል_3900
+ባህር ዳር,contains,ታሪክ_3901
+መቀሌ,related_to,ተፈጥሮ_3902
+አዋሳ,known_for,ሕዝብ_3903
+ኢትዮጵያ,associated_with,ቋንቋ_3904
+አዲስ አበባ,has_feature,ሃይማኖት_3905
+አማራ ክልል,contains,ምግብ_3906
+ኦሮሚያ ክልል,related_to,በዓል_3907
+ትግራይ ክልል,known_for,ሙዚቃ_3908
+ባህር ዳር,associated_with,ስፖርት_3909
+መቀሌ,has_feature,ባህል_3910
+አዋሳ,contains,ታሪክ_3911
+ኢትዮጵያ,related_to,ተፈጥሮ_3912
+አዲስ አበባ,known_for,ሕዝብ_3913
+አማራ ክልል,associated_with,ቋንቋ_3914
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3915
+ትግራይ ክልል,contains,ምግብ_3916
+ባህር ዳር,related_to,በዓል_3917
+መቀሌ,known_for,ሙዚቃ_3918
+አዋሳ,associated_with,ስፖርት_3919
+ኢትዮጵያ,has_feature,ባህል_3920
+አዲስ አበባ,contains,ታሪክ_3921
+አማራ ክልል,related_to,ተፈጥሮ_3922
+ኦሮሚያ ክልል,known_for,ሕዝብ_3923
+ትግራይ ክልል,associated_with,ቋንቋ_3924
+ባህር ዳር,has_feature,ሃይማኖት_3925
+መቀሌ,contains,ምግብ_3926
+አዋሳ,related_to,በዓል_3927
+ኢትዮጵያ,known_for,ሙዚቃ_3928
+አዲስ አበባ,associated_with,ስፖርት_3929
+አማራ ክልል,has_feature,ባህል_3930
+ኦሮሚያ ክልል,contains,ታሪክ_3931
+ትግራይ ክልል,related_to,ተፈጥሮ_3932
+ባህር ዳር,known_for,ሕዝብ_3933
+መቀሌ,associated_with,ቋንቋ_3934
+አዋሳ,has_feature,ሃይማኖት_3935
+ኢትዮጵያ,contains,ምግብ_3936
+አዲስ አበባ,related_to,በዓል_3937
+አማራ ክልል,known_for,ሙዚቃ_3938
+ኦሮሚያ ክልል,associated_with,ስፖርት_3939
+ትግራይ ክልል,has_feature,ባህል_3940
+ባህር ዳር,contains,ታሪክ_3941
+መቀሌ,related_to,ተፈጥሮ_3942
+አዋሳ,known_for,ሕዝብ_3943
+ኢትዮጵያ,associated_with,ቋንቋ_3944
+አዲስ አበባ,has_feature,ሃይማኖት_3945
+አማራ ክልል,contains,ምግብ_3946
+ኦሮሚያ ክልል,related_to,በዓል_3947
+ትግራይ ክልል,known_for,ሙዚቃ_3948
+ባህር ዳር,associated_with,ስፖርት_3949
+መቀሌ,has_feature,ባህል_3950
+አዋሳ,contains,ታሪክ_3951
+ኢትዮጵያ,related_to,ተፈጥሮ_3952
+አዲስ አበባ,known_for,ሕዝብ_3953
+አማራ ክልል,associated_with,ቋንቋ_3954
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3955
+ትግራይ ክልል,contains,ምግብ_3956
+ባህር ዳር,related_to,በዓል_3957
+መቀሌ,known_for,ሙዚቃ_3958
+አዋሳ,associated_with,ስፖርት_3959
+ኢትዮጵያ,has_feature,ባህል_3960
+አዲስ አበባ,contains,ታሪክ_3961
+አማራ ክልል,related_to,ተፈጥሮ_3962
+ኦሮሚያ ክልል,known_for,ሕዝብ_3963
+ትግራይ ክልል,associated_with,ቋንቋ_3964
+ባህር ዳር,has_feature,ሃይማኖት_3965
+መቀሌ,contains,ምግብ_3966
+አዋሳ,related_to,በዓል_3967
+ኢትዮጵያ,known_for,ሙዚቃ_3968
+አዲስ አበባ,associated_with,ስፖርት_3969
+አማራ ክልል,has_feature,ባህል_3970
+ኦሮሚያ ክልል,contains,ታሪክ_3971
+ትግራይ ክልል,related_to,ተፈጥሮ_3972
+ባህር ዳር,known_for,ሕዝብ_3973
+መቀሌ,associated_with,ቋንቋ_3974
+አዋሳ,has_feature,ሃይማኖት_3975
+ኢትዮጵያ,contains,ምግብ_3976
+አዲስ አበባ,related_to,በዓል_3977
+አማራ ክልል,known_for,ሙዚቃ_3978
+ኦሮሚያ ክልል,associated_with,ስፖርት_3979
+ትግራይ ክልል,has_feature,ባህል_3980
+ባህር ዳር,contains,ታሪክ_3981
+መቀሌ,related_to,ተፈጥሮ_3982
+አዋሳ,known_for,ሕዝብ_3983
+ኢትዮጵያ,associated_with,ቋንቋ_3984
+አዲስ አበባ,has_feature,ሃይማኖት_3985
+አማራ ክልል,contains,ምግብ_3986
+ኦሮሚያ ክልል,related_to,በዓል_3987
+ትግራይ ክልል,known_for,ሙዚቃ_3988
+ባህር ዳር,associated_with,ስፖርት_3989
+መቀሌ,has_feature,ባህል_3990
+አዋሳ,contains,ታሪክ_3991
+ኢትዮጵያ,related_to,ተፈጥሮ_3992
+አዲስ አበባ,known_for,ሕዝብ_3993
+አማራ ክልል,associated_with,ቋንቋ_3994
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_3995
+ትግራይ ክልል,contains,ምግብ_3996
+ባህር ዳር,related_to,በዓል_3997
+መቀሌ,known_for,ሙዚቃ_3998
+አዋሳ,associated_with,ስፖርት_3999
+ኢትዮጵያ,has_feature,ባህል_4000
+አዲስ አበባ,contains,ታሪክ_4001
+አማራ ክልል,related_to,ተፈጥሮ_4002
+ኦሮሚያ ክልል,known_for,ሕዝብ_4003
+ትግራይ ክልል,associated_with,ቋንቋ_4004
+ባህር ዳር,has_feature,ሃይማኖት_4005
+መቀሌ,contains,ምግብ_4006
+አዋሳ,related_to,በዓል_4007
+ኢትዮጵያ,known_for,ሙዚቃ_4008
+አዲስ አበባ,associated_with,ስፖርት_4009
+አማራ ክልል,has_feature,ባህል_4010
+ኦሮሚያ ክልል,contains,ታሪክ_4011
+ትግራይ ክልል,related_to,ተፈጥሮ_4012
+ባህር ዳር,known_for,ሕዝብ_4013
+መቀሌ,associated_with,ቋንቋ_4014
+አዋሳ,has_feature,ሃይማኖት_4015
+ኢትዮጵያ,contains,ምግብ_4016
+አዲስ አበባ,related_to,በዓል_4017
+አማራ ክልል,known_for,ሙዚቃ_4018
+ኦሮሚያ ክልል,associated_with,ስፖርት_4019
+ትግራይ ክልል,has_feature,ባህል_4020
+ባህር ዳር,contains,ታሪክ_4021
+መቀሌ,related_to,ተፈጥሮ_4022
+አዋሳ,known_for,ሕዝብ_4023
+ኢትዮጵያ,associated_with,ቋንቋ_4024
+አዲስ አበባ,has_feature,ሃይማኖት_4025
+አማራ ክልል,contains,ምግብ_4026
+ኦሮሚያ ክልል,related_to,በዓል_4027
+ትግራይ ክልል,known_for,ሙዚቃ_4028
+ባህር ዳር,associated_with,ስፖርት_4029
+መቀሌ,has_feature,ባህል_4030
+አዋሳ,contains,ታሪክ_4031
+ኢትዮጵያ,related_to,ተፈጥሮ_4032
+አዲስ አበባ,known_for,ሕዝብ_4033
+አማራ ክልል,associated_with,ቋንቋ_4034
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_4035
+ትግራይ ክልል,contains,ምግብ_4036
+ባህር ዳር,related_to,በዓል_4037
+መቀሌ,known_for,ሙዚቃ_4038
+አዋሳ,associated_with,ስፖርት_4039
+ኢትዮጵያ,has_feature,ባህል_4040
+አዲስ አበባ,contains,ታሪክ_4041
+አማራ ክልል,related_to,ተፈጥሮ_4042
+ኦሮሚያ ክልል,known_for,ሕዝብ_4043
+ትግራይ ክልል,associated_with,ቋንቋ_4044
+ባህር ዳር,has_feature,ሃይማኖት_4045
+መቀሌ,contains,ምግብ_4046
+አዋሳ,related_to,በዓል_4047
+ኢትዮጵያ,known_for,ሙዚቃ_4048
+አዲስ አበባ,associated_with,ስፖርት_4049
+አማራ ክልል,has_feature,ባህል_4050
+ኦሮሚያ ክልል,contains,ታሪክ_4051
+ትግራይ ክልል,related_to,ተፈጥሮ_4052
+ባህር ዳር,known_for,ሕዝብ_4053
+መቀሌ,associated_with,ቋንቋ_4054
+አዋሳ,has_feature,ሃይማኖት_4055
+ኢትዮጵያ,contains,ምግብ_4056
+አዲስ አበባ,related_to,በዓል_4057
+አማራ ክልል,known_for,ሙዚቃ_4058
+ኦሮሚያ ክልል,associated_with,ስፖርት_4059
+ትግራይ ክልል,has_feature,ባህል_4060
+ባህር ዳር,contains,ታሪክ_4061
+መቀሌ,related_to,ተፈጥሮ_4062
+አዋሳ,known_for,ሕዝብ_4063
+ኢትዮጵያ,associated_with,ቋንቋ_4064
+አዲስ አበባ,has_feature,ሃይማኖት_4065
+አማራ ክልል,contains,ምግብ_4066
+ኦሮሚያ ክልል,related_to,በዓል_4067
+ትግራይ ክልል,known_for,ሙዚቃ_4068
+ባህር ዳር,associated_with,ስፖርት_4069
+መቀሌ,has_feature,ባህል_4070
+አዋሳ,contains,ታሪክ_4071
+ኢትዮጵያ,related_to,ተፈጥሮ_4072
+አዲስ አበባ,known_for,ሕዝብ_4073
+አማራ ክልል,associated_with,ቋንቋ_4074
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_4075
+ትግራይ ክልል,contains,ምግብ_4076
+ባህር ዳር,related_to,በዓል_4077
+መቀሌ,known_for,ሙዚቃ_4078
+አዋሳ,associated_with,ስፖርት_4079
+ኢትዮጵያ,has_feature,ባህል_4080
+አዲስ አበባ,contains,ታሪክ_4081
+አማራ ክልል,related_to,ተፈጥሮ_4082
+ኦሮሚያ ክልል,known_for,ሕዝብ_4083
+ትግራይ ክልል,associated_with,ቋንቋ_4084
+ባህር ዳር,has_feature,ሃይማኖት_4085
+መቀሌ,contains,ምግብ_4086
+አዋሳ,related_to,በዓል_4087
+ኢትዮጵያ,known_for,ሙዚቃ_4088
+አዲስ አበባ,associated_with,ስፖርት_4089
+አማራ ክልል,has_feature,ባህል_4090
+ኦሮሚያ ክልል,contains,ታሪክ_4091
+ትግራይ ክልል,related_to,ተፈጥሮ_4092
+ባህር ዳር,known_for,ሕዝብ_4093
+መቀሌ,associated_with,ቋንቋ_4094
+አዋሳ,has_feature,ሃይማኖት_4095
+ኢትዮጵያ,contains,ምግብ_4096
+አዲስ አበባ,related_to,በዓል_4097
+አማራ ክልል,known_for,ሙዚቃ_4098
+ኦሮሚያ ክልል,associated_with,ስፖርት_4099
+ትግራይ ክልል,has_feature,ባህል_4100
+ባህር ዳር,contains,ታሪክ_4101
+መቀሌ,related_to,ተፈጥሮ_4102
+አዋሳ,known_for,ሕዝብ_4103
+ኢትዮጵያ,associated_with,ቋንቋ_4104
+አዲስ አበባ,has_feature,ሃይማኖት_4105
+አማራ ክልል,contains,ምግብ_4106
+ኦሮሚያ ክልል,related_to,በዓል_4107
+ትግራይ ክልል,known_for,ሙዚቃ_4108
+ባህር ዳር,associated_with,ስፖርት_4109
+መቀሌ,has_feature,ባህል_4110
+አዋሳ,contains,ታሪክ_4111
+ኢትዮጵያ,related_to,ተፈጥሮ_4112
+አዲስ አበባ,known_for,ሕዝብ_4113
+አማራ ክልል,associated_with,ቋንቋ_4114
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_4115
+ትግራይ ክልል,contains,ምግብ_4116
+ባህር ዳር,related_to,በዓል_4117
+መቀሌ,known_for,ሙዚቃ_4118
+አዋሳ,associated_with,ስፖርት_4119
+ኢትዮጵያ,has_feature,ባህል_4120
+አዲስ አበባ,contains,ታሪክ_4121
+አማራ ክልል,related_to,ተፈጥሮ_4122
+ኦሮሚያ ክልል,known_for,ሕዝብ_4123
+ትግራይ ክልል,associated_with,ቋንቋ_4124
+ባህር ዳር,has_feature,ሃይማኖት_4125
+መቀሌ,contains,ምግብ_4126
+አዋሳ,related_to,በዓል_4127
+ኢትዮጵያ,known_for,ሙዚቃ_4128
+አዲስ አበባ,associated_with,ስፖርት_4129
+አማራ ክልል,has_feature,ባህል_4130
+ኦሮሚያ ክልል,contains,ታሪክ_4131
+ትግራይ ክልል,related_to,ተፈጥሮ_4132
+ባህር ዳር,known_for,ሕዝብ_4133
+መቀሌ,associated_with,ቋንቋ_4134
+አዋሳ,has_feature,ሃይማኖት_4135
+ኢትዮጵያ,contains,ምግብ_4136
+አዲስ አበባ,related_to,በዓል_4137
+አማራ ክልል,known_for,ሙዚቃ_4138
+ኦሮሚያ ክልል,associated_with,ስፖርት_4139
+ትግራይ ክልል,has_feature,ባህል_4140
+ባህር ዳር,contains,ታሪክ_4141
+መቀሌ,related_to,ተፈጥሮ_4142
+አዋሳ,known_for,ሕዝብ_4143
+ኢትዮጵያ,associated_with,ቋንቋ_4144
+አዲስ አበባ,has_feature,ሃይማኖት_4145
+አማራ ክልል,contains,ምግብ_4146
+ኦሮሚያ ክልል,related_to,በዓል_4147
+ትግራይ ክልል,known_for,ሙዚቃ_4148
+ባህር ዳር,associated_with,ስፖርት_4149
+መቀሌ,has_feature,ባህል_4150
+አዋሳ,contains,ታሪክ_4151
+ኢትዮጵያ,related_to,ተፈጥሮ_4152
+አዲስ አበባ,known_for,ሕዝብ_4153
+አማራ ክልል,associated_with,ቋንቋ_4154
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_4155
+ትግራይ ክልል,contains,ምግብ_4156
+ባህር ዳር,related_to,በዓል_4157
+መቀሌ,known_for,ሙዚቃ_4158
+አዋሳ,associated_with,ስፖርት_4159
+ኢትዮጵያ,has_feature,ባህል_4160
+አዲስ አበባ,contains,ታሪክ_4161
+አማራ ክልል,related_to,ተፈጥሮ_4162
+ኦሮሚያ ክልል,known_for,ሕዝብ_4163
+ትግራይ ክልል,associated_with,ቋንቋ_4164
+ባህር ዳር,has_feature,ሃይማኖት_4165
+መቀሌ,contains,ምግብ_4166
+አዋሳ,related_to,በዓል_4167
+ኢትዮጵያ,known_for,ሙዚቃ_4168
+አዲስ አበባ,associated_with,ስፖርት_4169
+አማራ ክልል,has_feature,ባህል_4170
+ኦሮሚያ ክልል,contains,ታሪክ_4171
+ትግራይ ክልል,related_to,ተፈጥሮ_4172
+ባህር ዳር,known_for,ሕዝብ_4173
+መቀሌ,associated_with,ቋንቋ_4174
+አዋሳ,has_feature,ሃይማኖት_4175
+ኢትዮጵያ,contains,ምግብ_4176
+አዲስ አበባ,related_to,በዓል_4177
+አማራ ክልል,known_for,ሙዚቃ_4178
+ኦሮሚያ ክልል,associated_with,ስፖርት_4179
+ትግራይ ክልል,has_feature,ባህል_4180
+ባህር ዳር,contains,ታሪክ_4181
+መቀሌ,related_to,ተፈጥሮ_4182
+አዋሳ,known_for,ሕዝብ_4183
+ኢትዮጵያ,associated_with,ቋንቋ_4184
+አዲስ አበባ,has_feature,ሃይማኖት_4185
+አማራ ክልል,contains,ምግብ_4186
+ኦሮሚያ ክልል,related_to,በዓል_4187
+ትግራይ ክልል,known_for,ሙዚቃ_4188
+ባህር ዳር,associated_with,ስፖርት_4189
+መቀሌ,has_feature,ባህል_4190
+አዋሳ,contains,ታሪክ_4191
+ኢትዮጵያ,related_to,ተፈጥሮ_4192
+አዲስ አበባ,known_for,ሕዝብ_4193
+አማራ ክልል,associated_with,ቋንቋ_4194
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_4195
+ትግራይ ክልል,contains,ምግብ_4196
+ባህር ዳር,related_to,በዓል_4197
+መቀሌ,known_for,ሙዚቃ_4198
+አዋሳ,associated_with,ስፖርት_4199
+ኢትዮጵያ,has_feature,ባህል_4200
+አዲስ አበባ,contains,ታሪክ_4201
+አማራ ክልል,related_to,ተፈጥሮ_4202
+ኦሮሚያ ክልል,known_for,ሕዝብ_4203
+ትግራይ ክልል,associated_with,ቋንቋ_4204
+ባህር ዳር,has_feature,ሃይማኖት_4205
+መቀሌ,contains,ምግብ_4206
+አዋሳ,related_to,በዓል_4207
+ኢትዮጵያ,known_for,ሙዚቃ_4208
+አዲስ አበባ,associated_with,ስፖርት_4209
+አማራ ክልል,has_feature,ባህል_4210
+ኦሮሚያ ክልል,contains,ታሪክ_4211
+ትግራይ ክልል,related_to,ተፈጥሮ_4212
+ባህር ዳር,known_for,ሕዝብ_4213
+መቀሌ,associated_with,ቋንቋ_4214
+አዋሳ,has_feature,ሃይማኖት_4215
+ኢትዮጵያ,contains,ምግብ_4216
+አዲስ አበባ,related_to,በዓል_4217
+አማራ ክልል,known_for,ሙዚቃ_4218
+ኦሮሚያ ክልል,associated_with,ስፖርት_4219
+ትግራይ ክልል,has_feature,ባህል_4220
+ባህር ዳር,contains,ታሪክ_4221
+መቀሌ,related_to,ተፈጥሮ_4222
+አዋሳ,known_for,ሕዝብ_4223
+ኢትዮጵያ,associated_with,ቋንቋ_4224
+አዲስ አበባ,has_feature,ሃይማኖት_4225
+አማራ ክልል,contains,ምግብ_4226
+ኦሮሚያ ክልል,related_to,በዓል_4227
+ትግራይ ክልል,known_for,ሙዚቃ_4228
+ባህር ዳር,associated_with,ስፖርት_4229
+መቀሌ,has_feature,ባህል_4230
+አዋሳ,contains,ታሪክ_4231
+ኢትዮጵያ,related_to,ተፈጥሮ_4232
+አዲስ አበባ,known_for,ሕዝብ_4233
+አማራ ክልል,associated_with,ቋንቋ_4234
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_4235
+ትግራይ ክልል,contains,ምግብ_4236
+ባህር ዳር,related_to,በዓል_4237
+መቀሌ,known_for,ሙዚቃ_4238
+አዋሳ,associated_with,ስፖርት_4239
+ኢትዮጵያ,has_feature,ባህል_4240
+አዲስ አበባ,contains,ታሪክ_4241
+አማራ ክልል,related_to,ተፈጥሮ_4242
+ኦሮሚያ ክልል,known_for,ሕዝብ_4243
+ትግራይ ክልል,associated_with,ቋንቋ_4244
+ባህር ዳር,has_feature,ሃይማኖት_4245
+መቀሌ,contains,ምግብ_4246
+አዋሳ,related_to,በዓል_4247
+ኢትዮጵያ,known_for,ሙዚቃ_4248
+አዲስ አበባ,associated_with,ስፖርት_4249
+አማራ ክልል,has_feature,ባህል_4250
+ኦሮሚያ ክልል,contains,ታሪክ_4251
+ትግራይ ክልል,related_to,ተፈጥሮ_4252
+ባህር ዳር,known_for,ሕዝብ_4253
+መቀሌ,associated_with,ቋንቋ_4254
+አዋሳ,has_feature,ሃይማኖት_4255
+ኢትዮጵያ,contains,ምግብ_4256
+አዲስ አበባ,related_to,በዓል_4257
+አማራ ክልል,known_for,ሙዚቃ_4258
+ኦሮሚያ ክልል,associated_with,ስፖርት_4259
+ትግራይ ክልል,has_feature,ባህል_4260
+ባህር ዳር,contains,ታሪክ_4261
+መቀሌ,related_to,ተፈጥሮ_4262
+አዋሳ,known_for,ሕዝብ_4263
+ኢትዮጵያ,associated_with,ቋንቋ_4264
+አዲስ አበባ,has_feature,ሃይማኖት_4265
+አማራ ክልል,contains,ምግብ_4266
+ኦሮሚያ ክልል,related_to,በዓል_4267
+ትግራይ ክልል,known_for,ሙዚቃ_4268
+ባህር ዳር,associated_with,ስፖርት_4269
+መቀሌ,has_feature,ባህል_4270
+አዋሳ,contains,ታሪክ_4271
+ኢትዮጵያ,related_to,ተፈጥሮ_4272
+አዲስ አበባ,known_for,ሕዝብ_4273
+አማራ ክልል,associated_with,ቋንቋ_4274
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_4275
+ትግራይ ክልል,contains,ምግብ_4276
+ባህር ዳር,related_to,በዓል_4277
+መቀሌ,known_for,ሙዚቃ_4278
+አዋሳ,associated_with,ስፖርት_4279
+ኢትዮጵያ,has_feature,ባህል_4280
+አዲስ አበባ,contains,ታሪክ_4281
+አማራ ክልል,related_to,ተፈጥሮ_4282
+ኦሮሚያ ክልል,known_for,ሕዝብ_4283
+ትግራይ ክልል,associated_with,ቋንቋ_4284
+ባህር ዳር,has_feature,ሃይማኖት_4285
+መቀሌ,contains,ምግብ_4286
+አዋሳ,related_to,በዓል_4287
+ኢትዮጵያ,known_for,ሙዚቃ_4288
+አዲስ አበባ,associated_with,ስፖርት_4289
+አማራ ክልል,has_feature,ባህል_4290
+ኦሮሚያ ክልል,contains,ታሪክ_4291
+ትግራይ ክልል,related_to,ተፈጥሮ_4292
+ባህር ዳር,known_for,ሕዝብ_4293
+መቀሌ,associated_with,ቋንቋ_4294
+አዋሳ,has_feature,ሃይማኖት_4295
+ኢትዮጵያ,contains,ምግብ_4296
+አዲስ አበባ,related_to,በዓል_4297
+አማራ ክልል,known_for,ሙዚቃ_4298
+ኦሮሚያ ክልል,associated_with,ስፖርት_4299
+ትግራይ ክልል,has_feature,ባህል_4300
+ባህር ዳር,contains,ታሪክ_4301
+መቀሌ,related_to,ተፈጥሮ_4302
+አዋሳ,known_for,ሕዝብ_4303
+ኢትዮጵያ,associated_with,ቋንቋ_4304
+አዲስ አበባ,has_feature,ሃይማኖት_4305
+አማራ ክልል,contains,ምግብ_4306
+ኦሮሚያ ክልል,related_to,በዓል_4307
+ትግራይ ክልል,known_for,ሙዚቃ_4308
+ባህር ዳር,associated_with,ስፖርት_4309
+መቀሌ,has_feature,ባህል_4310
+አዋሳ,contains,ታሪክ_4311
+ኢትዮጵያ,related_to,ተፈጥሮ_4312
+አዲስ አበባ,known_for,ሕዝብ_4313
+አማራ ክልል,associated_with,ቋንቋ_4314
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_4315
+ትግራይ ክልል,contains,ምግብ_4316
+ባህር ዳር,related_to,በዓል_4317
+መቀሌ,known_for,ሙዚቃ_4318
+አዋሳ,associated_with,ስፖርት_4319
+ኢትዮጵያ,has_feature,ባህል_4320
+አዲስ አበባ,contains,ታሪክ_4321
+አማራ ክልል,related_to,ተፈጥሮ_4322
+ኦሮሚያ ክልል,known_for,ሕዝብ_4323
+ትግራይ ክልል,associated_with,ቋንቋ_4324
+ባህር ዳር,has_feature,ሃይማኖት_4325
+መቀሌ,contains,ምግብ_4326
+አዋሳ,related_to,በዓል_4327
+ኢትዮጵያ,known_for,ሙዚቃ_4328
+አዲስ አበባ,associated_with,ስፖርት_4329
+አማራ ክልል,has_feature,ባህል_4330
+ኦሮሚያ ክልል,contains,ታሪክ_4331
+ትግራይ ክልል,related_to,ተፈጥሮ_4332
+ባህር ዳር,known_for,ሕዝብ_4333
+መቀሌ,associated_with,ቋንቋ_4334
+አዋሳ,has_feature,ሃይማኖት_4335
+ኢትዮጵያ,contains,ምግብ_4336
+አዲስ አበባ,related_to,በዓል_4337
+አማራ ክልል,known_for,ሙዚቃ_4338
+ኦሮሚያ ክልል,associated_with,ስፖርት_4339
+ትግራይ ክልል,has_feature,ባህል_4340
+ባህር ዳር,contains,ታሪክ_4341
+መቀሌ,related_to,ተፈጥሮ_4342
+አዋሳ,known_for,ሕዝብ_4343
+ኢትዮጵያ,associated_with,ቋንቋ_4344
+አዲስ አበባ,has_feature,ሃይማኖት_4345
+አማራ ክልል,contains,ምግብ_4346
+ኦሮሚያ ክልል,related_to,በዓል_4347
+ትግራይ ክልል,known_for,ሙዚቃ_4348
+ባህር ዳር,associated_with,ስፖርት_4349
+መቀሌ,has_feature,ባህል_4350
+አዋሳ,contains,ታሪክ_4351
+ኢትዮጵያ,related_to,ተፈጥሮ_4352
+አዲስ አበባ,known_for,ሕዝብ_4353
+አማራ ክልል,associated_with,ቋንቋ_4354
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_4355
+ትግራይ ክልል,contains,ምግብ_4356
+ባህር ዳር,related_to,በዓል_4357
+መቀሌ,known_for,ሙዚቃ_4358
+አዋሳ,associated_with,ስፖርት_4359
+ኢትዮጵያ,has_feature,ባህል_4360
+አዲስ አበባ,contains,ታሪክ_4361
+አማራ ክልል,related_to,ተፈጥሮ_4362
+ኦሮሚያ ክልል,known_for,ሕዝብ_4363
+ትግራይ ክልል,associated_with,ቋንቋ_4364
+ባህር ዳር,has_feature,ሃይማኖት_4365
+መቀሌ,contains,ምግብ_4366
+አዋሳ,related_to,በዓል_4367
+ኢትዮጵያ,known_for,ሙዚቃ_4368
+አዲስ አበባ,associated_with,ስፖርት_4369
+አማራ ክልል,has_feature,ባህል_4370
+ኦሮሚያ ክልል,contains,ታሪክ_4371
+ትግራይ ክልል,related_to,ተፈጥሮ_4372
+ባህር ዳር,known_for,ሕዝብ_4373
+መቀሌ,associated_with,ቋንቋ_4374
+አዋሳ,has_feature,ሃይማኖት_4375
+ኢትዮጵያ,contains,ምግብ_4376
+አዲስ አበባ,related_to,በዓል_4377
+አማራ ክልል,known_for,ሙዚቃ_4378
+ኦሮሚያ ክልል,associated_with,ስፖርት_4379
+ትግራይ ክልል,has_feature,ባህል_4380
+ባህር ዳር,contains,ታሪክ_4381
+መቀሌ,related_to,ተፈጥሮ_4382
+አዋሳ,known_for,ሕዝብ_4383
+ኢትዮጵያ,associated_with,ቋንቋ_4384
+አዲስ አበባ,has_feature,ሃይማኖት_4385
+አማራ ክልል,contains,ምግብ_4386
+ኦሮሚያ ክልል,related_to,በዓል_4387
+ትግራይ ክልል,known_for,ሙዚቃ_4388
+ባህር ዳር,associated_with,ስፖርት_4389
+መቀሌ,has_feature,ባህል_4390
+አዋሳ,contains,ታሪክ_4391
+ኢትዮጵያ,related_to,ተፈጥሮ_4392
+አዲስ አበባ,known_for,ሕዝብ_4393
+አማራ ክልል,associated_with,ቋንቋ_4394
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_4395
+ትግራይ ክልል,contains,ምግብ_4396
+ባህር ዳር,related_to,በዓል_4397
+መቀሌ,known_for,ሙዚቃ_4398
+አዋሳ,associated_with,ስፖርት_4399
+ኢትዮጵያ,has_feature,ባህል_4400
+አዲስ አበባ,contains,ታሪክ_4401
+አማራ ክልል,related_to,ተፈጥሮ_4402
+ኦሮሚያ ክልል,known_for,ሕዝብ_4403
+ትግራይ ክልል,associated_with,ቋንቋ_4404
+ባህር ዳር,has_feature,ሃይማኖት_4405
+መቀሌ,contains,ምግብ_4406
+አዋሳ,related_to,በዓል_4407
+ኢትዮጵያ,known_for,ሙዚቃ_4408
+አዲስ አበባ,associated_with,ስፖርት_4409
+አማራ ክልል,has_feature,ባህል_4410
+ኦሮሚያ ክልል,contains,ታሪክ_4411
+ትግራይ ክልል,related_to,ተፈጥሮ_4412
+ባህር ዳር,known_for,ሕዝብ_4413
+መቀሌ,associated_with,ቋንቋ_4414
+አዋሳ,has_feature,ሃይማኖት_4415
+ኢትዮጵያ,contains,ምግብ_4416
+አዲስ አበባ,related_to,በዓል_4417
+አማራ ክልል,known_for,ሙዚቃ_4418
+ኦሮሚያ ክልል,associated_with,ስፖርት_4419
+ትግራይ ክልል,has_feature,ባህል_4420
+ባህር ዳር,contains,ታሪክ_4421
+መቀሌ,related_to,ተፈጥሮ_4422
+አዋሳ,known_for,ሕዝብ_4423
+ኢትዮጵያ,associated_with,ቋንቋ_4424
+አዲስ አበባ,has_feature,ሃይማኖት_4425
+አማራ ክልል,contains,ምግብ_4426
+ኦሮሚያ ክልል,related_to,በዓል_4427
+ትግራይ ክልል,known_for,ሙዚቃ_4428
+ባህር ዳር,associated_with,ስፖርት_4429
+መቀሌ,has_feature,ባህል_4430
+አዋሳ,contains,ታሪክ_4431
+ኢትዮጵያ,related_to,ተፈጥሮ_4432
+አዲስ አበባ,known_for,ሕዝብ_4433
+አማራ ክልል,associated_with,ቋንቋ_4434
+ኦሮሚያ ክልል,has_feature,ሃይማኖት_4435
+ትግራይ ክልል,contains,ምግብ_4436
+ባህር ዳር,related_to,በዓል_4437
+መቀሌ,known_for,ሙዚቃ_4438
+አዋሳ,associated_with,ስፖርት_4439
+ኢትዮጵያ,has_feature,ባህል_4440
+አዲስ አበባ,contains,ታሪክ_4441
+አማራ ክልል,related_to,ተፈጥሮ_4442
+ኦሮሚያ ክልል,known_for,ሕዝብ_4443
+ትግራይ ክልል,associated_with,ቋንቋ_4444
+ባህር ዳር,has_feature,ሃይማኖት_4445
+መቀሌ,contains,ምግብ_4446
+አዋሳ,related_to,በዓል_4447
+ኢትዮጵያ,known_for,ሙዚቃ_4448
+አዲስ አበባ,associated_with,ስፖርት_4449
+አማራ ክልል,has_feature,ባህል_4450
+ኦሮሚያ ክልል,contains,ታሪክ_4451
+ትግራይ ክልል,related_to,ተፈጥሮ_4452
+ባህር ዳር,known_for,ሕዝብ_4453
+መቀሌ,associated_with,ቋንቋ_4454
+አዋሳ,has_feature,ሃይማኖት_4455
+ኢትዮጵያ,contains,ምግብ_4456
+አዲስ አበባ,related_to,በዓል_4457
+አማራ ክልል,known_for,ሙዚቃ_4458
+ኦሮሚያ ክልል,associated_with,ስፖርት_4459
+ትግራይ ክልል,has_feature,ባህል_4460
+ባህር ዳር,contains,ታሪክ_4461
+መቀሌ,related_to,ተፈጥሮ_4462
+አዋሳ,known_for,ሕዝብ_4463
+ኢትዮጵያ,associated_with,ቋንቋ_4464
+አዲስ አበባ,has_feature,ሃይማኖት_4465
+አማራ ክልል,contains,ምግብ_4466
+ኦሮሚያ ክልል,related_to,በዓል_4467
+ትግራይ ክልል,known_for,ሙዚቃ_4468
+ባህር ዳር,associated_with,ስፖርት_4469
+መቀሌ,has_feature,ባህል_4470
+አዋሳ,contains,ታሪክ_4471
+ኢትዮጵያ,related_to,ተፈጥሮ_4472
